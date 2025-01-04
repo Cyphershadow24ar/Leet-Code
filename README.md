@@ -6,3 +6,4 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 2. Palindrome Number
 3. Maximum score after splitting a string
 4. Merge Two Sorted List
+5. Add Two Numbers
