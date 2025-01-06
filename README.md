@@ -8,4 +8,5 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 4. Merge Two Sorted List
 5. Add Two Numbers
 6. Longest Substring Without Repeating Characters
-7. Longest Palindromic Substring 
+7. Longest Palindromic Substring
+8. Minimum Number of Operations to Move All Balls to Each Box
