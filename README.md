@@ -12,3 +12,4 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 8. Minimum Number of Operations to Move All Balls to Each Box
 9. Number of Subsequences that satisfy the given Sum Condition
 594. Longest Harmonious Subsequence
+3330. Find the Original Typed String I
