@@ -13,4 +13,4 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 9. Number of Subsequences that satisfy the given Sum Condition
 594. Longest Harmonious Subsequence
 3330. Find the Original Typed String I
-3331. 3333_Find_the_Original_Typed_String_II
+3333. Find the Original Typed String II
