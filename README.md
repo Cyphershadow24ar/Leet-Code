@@ -14,3 +14,4 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 10. Longest Harmonious Subsequence
 11. Find the Original Typed String I
 12. Find the Original Typed String II
+13. (3304) Find the K-th Character in String Game I
