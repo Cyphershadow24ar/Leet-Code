@@ -16,3 +16,4 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 12. Find the Original Typed String II
 13. (3304) Find the K-th Character in String Game I
 14. (3307) Find the K-th Character in String Game II
+15. (1394) Find Lucky Integer in an Array
