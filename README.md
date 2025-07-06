@@ -12,8 +12,9 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 8. Minimum Number of Operations to Move All Balls to Each Box
 9. Number of Subsequences that satisfy the given Sum Condition
 10. Longest Harmonious Subsequence
-11. (3330) Find the Original Typed String I
-12. (3333) Find the Original Typed String II
-13. (3304) Find the K-th Character in String Game I
-14. (3307) Find the K-th Character in String Game II
-15. (1394) Find Lucky Integer in an Array
+11. (1865) Finding Pairs With a Certain Sum
+12. (3330) Find the Original Typed String I
+13. (3333) Find the Original Typed String II
+14. (3304) Find the K-th Character in String Game I
+15. (3307) Find the K-th Character in String Game II
+16. (1394) Find Lucky Integer in an Array
