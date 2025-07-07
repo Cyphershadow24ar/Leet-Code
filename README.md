@@ -17,7 +17,7 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 13. (1865) Finding Pairs With a Certain Sum
 14. (3330) Find the Original Typed String I
 15. (3333) Find the Original Typed String II
-16. (3304) Find the K-th Character in String Game I
-17. (3307) Find the K-th Character in String Game II
+16. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+18. (3307) Find the K-th Character in String Game II
 
 
