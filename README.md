@@ -14,10 +14,11 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 10. (594) Longest Harmonious Subsequence
 11. (1353) Maximum Number of Events That Can Be Attended
 12. (1394) Find Lucky Integer in an Array
-13. (1865) Finding Pairs With a Certain Sum
-14. (3330) Find the Original Typed String I
-15. (3333) Find the Original Typed String II
-16. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+13. (1751) Maximum Number of Events That Can Be Attended II
+14. (1865) Finding Pairs With a Certain Sum
+15. (3330) Find the Original Typed String I
+16. (3333) Find the Original Typed String II
+17. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 18. (3307) Find the K-th Character in String Game II
 
 
