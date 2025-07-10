@@ -21,5 +21,6 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 17. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 18. (3307) Find the K-th Character in String Game II
 19. (3439) Reschedule Meetings for Maximum Free Time I
+20. (3440) Reschedule Meetings for Maximum Free Time II
 
 
