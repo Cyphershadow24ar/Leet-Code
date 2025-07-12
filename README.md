@@ -16,12 +16,13 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 12. (1394) Find Lucky Integer in an Array
 13. (1751) Maximum Number of Events That Can Be Attended II
 14. (1865) Finding Pairs With a Certain Sum
-15. (2402) Meeting Rooms III
-16. (3330) Find the Original Typed String I
-17. (3333) Find the Original Typed String II
-18. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-19. (3307) Find the K-th Character in String Game II
-20. (3439) Reschedule Meetings for Maximum Free Time I
-21. (3440) Reschedule Meetings for Maximum Free Time II
+15. (1900) The Earliest and Latest Rounds Where Players Compete
+16. (2402) Meeting Rooms III
+17. (3330) Find the Original Typed String I
+18. (3333) Find the Original Typed String II
+19. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+20. (3307) Find the K-th Character in String Game II
+21. (3439) Reschedule Meetings for Maximum Free Time I
+22. (3440) Reschedule Meetings for Maximum Free Time II
 
 
