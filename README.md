@@ -18,11 +18,12 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 14. (1865) Finding Pairs With a Certain Sum
 15. (1900) The Earliest and Latest Rounds Where Players Compete
 16. (2402) Meeting Rooms III
-17. (3330) Find the Original Typed String I
-18. (3333) Find the Original Typed String II
-19. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-20. (3307) Find the K-th Character in String Game II
-21. (3439) Reschedule Meetings for Maximum Free Time I
-22. (3440) Reschedule Meetings for Maximum Free Time II
+17. (2410) Maximum Matching of Players With Trainers
+18. (3330) Find the Original Typed String I
+19. (3333) Find the Original Typed String II
+20. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+21. (3307) Find the K-th Character in String Game II
+22. (3439) Reschedule Meetings for Maximum Free Time I
+23. (3440) Reschedule Meetings for Maximum Free Time II
 
 
