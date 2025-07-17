@@ -22,11 +22,12 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 18. (2410) Maximum Matching of Players With Trainers
 19. (3136) Valid Word
 20. (3201) Find the Maximum Length of Valid Subsequence I
-21. (3330) Find the Original Typed String I
-22. (3333) Find the Original Typed String II
-23. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-24. (3307) Find the K-th Character in String Game II
-25. (3439) Reschedule Meetings for Maximum Free Time I
-26. (3440) Reschedule Meetings for Maximum Free Time II
+21. (3202) Find the Maximum Length of Valid Subsequence II
+22. (3330) Find the Original Typed String I
+23. (3333) Find the Original Typed String II
+24. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+25. (3307) Find the K-th Character in String Game II
+26. (3439) Reschedule Meetings for Maximum Free Time I
+27. (3440) Reschedule Meetings for Maximum Free Time II
 
 
