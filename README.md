@@ -18,16 +18,17 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 14. (1751) Maximum Number of Events That Can Be Attended II
 15. (1865) Finding Pairs With a Certain Sum
 16. (1900) The Earliest and Latest Rounds Where Players Compete
-17. (2402) Meeting Rooms III
-18. (2410) Maximum Matching of Players With Trainers
-19. (3136) Valid Word
-20. (3201) Find the Maximum Length of Valid Subsequence I
-21. (3202) Find the Maximum Length of Valid Subsequence II
-22. (3330) Find the Original Typed String I
-23. (3333) Find the Original Typed String II
-24. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-25. (3307) Find the K-th Character in String Game II
-26. (3439) Reschedule Meetings for Maximum Free Time I
-27. (3440) Reschedule Meetings for Maximum Free Time II
+17. (2163) Minimum Difference in Sums After Removal of Elements
+18. (2402) Meeting Rooms III
+19. (2410) Maximum Matching of Players With Trainers
+20. (3136) Valid Word
+21. (3201) Find the Maximum Length of Valid Subsequence I
+22. (3202) Find the Maximum Length of Valid Subsequence II
+23. (3330) Find the Original Typed String I
+24. (3333) Find the Original Typed String II
+25. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+26. (3307) Find the K-th Character in String Game II
+27. (3439) Reschedule Meetings for Maximum Free Time I
+28. (3440) Reschedule Meetings for Maximum Free Time II
 
 
