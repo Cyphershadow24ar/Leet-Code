@@ -17,22 +17,23 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 13. (1353) Maximum Number of Events That Can Be Attended
 14. (1394) Find Lucky Integer in an Array
 15. (1695) Maximum Erasure Value
-16. (1751) Maximum Number of Events That Can Be Attended II
-17. (1865) Finding Pairs With a Certain Sum
-18. (1900) The Earliest and Latest Rounds Where Players Compete
-19. (1948) Delete Duplicate Folders in System
-20. (1957) Delete Characters to Make Fancy String
-21. (2163) Minimum Difference in Sums After Removal of Elements
-22. (2402) Meeting Rooms III
-23. (2410) Maximum Matching of Players With Trainers
-24. (3136) Valid Word
-25. (3201) Find the Maximum Length of Valid Subsequence I
-26. (3202) Find the Maximum Length of Valid Subsequence II
-27. (3330) Find the Original Typed String I
-28. (3333) Find the Original Typed String II
-29. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-30. (3307) Find the K-th Character in String Game II
-31. (3439) Reschedule Meetings for Maximum Free Time I
-32. (3440) Reschedule Meetings for Maximum Free Time II
+16. (1717) Maximum Score From Removing Substrings
+17. (1751) Maximum Number of Events That Can Be Attended II
+18. (1865) Finding Pairs With a Certain Sum
+19. (1900) The Earliest and Latest Rounds Where Players Compete
+20. (1948) Delete Duplicate Folders in System
+21. (1957) Delete Characters to Make Fancy String
+22. (2163) Minimum Difference in Sums After Removal of Elements
+23. (2402) Meeting Rooms III
+24. (2410) Maximum Matching of Players With Trainers
+25. (3136) Valid Word
+26. (3201) Find the Maximum Length of Valid Subsequence I
+27. (3202) Find the Maximum Length of Valid Subsequence II
+28. (3330) Find the Original Typed String I
+29. (3333) Find the Original Typed String II
+30. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+31. (3307) Find the K-th Character in String Game II
+32. (3439) Reschedule Meetings for Maximum Free Time I
+33. (3440) Reschedule Meetings for Maximum Free Time II
 
 
