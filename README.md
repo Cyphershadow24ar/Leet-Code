@@ -36,5 +36,7 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 32. (3307) Find the K-th Character in String Game II
 33. (3439) Reschedule Meetings for Maximum Free Time I
 34. (3440) Reschedule Meetings for Maximum Free Time II
+35. (3487) Maximum Unique Subarray Sum After Deletion
+
 
 
