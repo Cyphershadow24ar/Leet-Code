@@ -24,20 +24,21 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 20. (1948) Delete Duplicate Folders in System
 21. (1957) Delete Characters to Make Fancy String
 22. (2163) Minimum Difference in Sums After Removal of Elements
-23. (2322) Minimum Score After Removals on a Tree
-24. (2402) Meeting Rooms III
-25. (2410) Maximum Matching of Players With Trainers
-26. (3136) Valid Word
-27. (3201) Find the Maximum Length of Valid Subsequence I
-28. (3202) Find the Maximum Length of Valid Subsequence II
-29. (3330) Find the Original Typed String I
-30. (3333) Find the Original Typed String II
-31. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-32. (3307) Find the K-th Character in String Game II
-33. (3439) Reschedule Meetings for Maximum Free Time I
-34. (3440) Reschedule Meetings for Maximum Free Time II
-35. (3480) Maximize Subarrays After Removing One Conflicting Pair
-36. (3487) Maximum Unique Subarray Sum After Deletion
+23. (2210) Count Hiils and Valley in an array
+24. (2322) Minimum Score After Removals on a Tree
+25. (2402) Meeting Rooms III
+26. (2410) Maximum Matching of Players With Trainers
+27. (3136) Valid Word
+28. (3201) Find the Maximum Length of Valid Subsequence I
+29. (3202) Find the Maximum Length of Valid Subsequence II
+30. (3330) Find the Original Typed String I
+31. (3333) Find the Original Typed String II
+32. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+33. (3307) Find the K-th Character in String Game II
+34. (3439) Reschedule Meetings for Maximum Free Time I
+35. (3440) Reschedule Meetings for Maximum Free Time II
+36. (3480) Maximize Subarrays After Removing One Conflicting Pair
+37. (3487) Maximum Unique Subarray Sum After Deletion
 
 
 
