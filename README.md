@@ -29,17 +29,18 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 25. (2322) Minimum Score After Removals on a Tree
 26. (2402) Meeting Rooms III
 27. (2410) Maximum Matching of Players With Trainers
-28. (3136) Valid Word
-29. (3201) Find the Maximum Length of Valid Subsequence I
-30. (3202) Find the Maximum Length of Valid Subsequence II
-31. (3330) Find the Original Typed String I
-32. (3333) Find the Original Typed String II
-33. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-34. (3307) Find the K-th Character in String Game II
-35. (3439) Reschedule Meetings for Maximum Free Time I
-36. (3440) Reschedule Meetings for Maximum Free Time II
-37. (3480) Maximize Subarrays After Removing One Conflicting Pair
-38. (3487) Maximum Unique Subarray Sum After Deletion
+28. (2561) Rearranging Fruits 
+29. (3136) Valid Word
+30. (3201) Find the Maximum Length of Valid Subsequence I
+31. (3202) Find the Maximum Length of Valid Subsequence II
+32. (3330) Find the Original Typed String I
+33. (3333) Find the Original Typed String II
+34. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+35. (3307) Find the K-th Character in String Game II
+36. (3439) Reschedule Meetings for Maximum Free Time I
+37. (3440) Reschedule Meetings for Maximum Free Time II
+38. (3480) Maximize Subarrays After Removing One Conflicting Pair
+39. (3487) Maximum Unique Subarray Sum After Deletion
 
 
 
