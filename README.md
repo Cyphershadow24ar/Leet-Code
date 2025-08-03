@@ -24,23 +24,24 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 20. (1900) The Earliest and Latest Rounds Where Players Compete
 21. (1948) Delete Duplicate Folders in System
 22. (1957) Delete Characters to Make Fancy String
-23. (2163) Minimum Difference in Sums After Removal of Elements
-24. (2210) Count Hiils and Valley in an array
-25. (2322) Minimum Score After Removals on a Tree
-26. (2402) Meeting Rooms III
-27. (2410) Maximum Matching of Players With Trainers
-28. (2561) Rearranging Fruits 
-29. (3136) Valid Word
-30. (3201) Find the Maximum Length of Valid Subsequence I
-31. (3202) Find the Maximum Length of Valid Subsequence II
-32. (3330) Find the Original Typed String I
-33. (3333) Find the Original Typed String II
-34. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-35. (3307) Find the K-th Character in String Game II
-36. (3439) Reschedule Meetings for Maximum Free Time I
-37. (3440) Reschedule Meetings for Maximum Free Time II
-38. (3480) Maximize Subarrays After Removing One Conflicting Pair
-39. (3487) Maximum Unique Subarray Sum After Deletion
+23. (2106) Maximum Fruits Harvested After at Most K Steps
+24. (2163) Minimum Difference in Sums After Removal of Elements
+25. (2210) Count Hiils and Valley in an array
+26. (2322) Minimum Score After Removals on a Tree
+27. (2402) Meeting Rooms III
+28. (2410) Maximum Matching of Players With Trainers
+29. (2561) Rearranging Fruits 
+30. (3136) Valid Word
+31. (3201) Find the Maximum Length of Valid Subsequence I
+32. (3202) Find the Maximum Length of Valid Subsequence II
+33. (3330) Find the Original Typed String I
+34. (3333) Find the Original Typed String II
+35. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+36. (3307) Find the K-th Character in String Game II
+37. (3439) Reschedule Meetings for Maximum Free Time I
+38. (3440) Reschedule Meetings for Maximum Free Time II
+39. (3480) Maximize Subarrays After Removing One Conflicting Pair
+40. (3487) Maximum Unique Subarray Sum After Deletion
 
 
 
