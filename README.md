@@ -42,8 +42,10 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 38. (3439) Reschedule Meetings for Maximum Free Time I
 39. (3440) Reschedule Meetings for Maximum Free Time II
 40. (3477) Fruits Into Baskets II
-41. (3480) Maximize Subarrays After Removing One Conflicting Pair
-42. (3487) Maximum Unique Subarray Sum After Deletion
+41. (3479) Fruits Into Baskets III
+42. (3480) Maximize Subarrays After Removing One Conflicting Pair
+43. (3487) Maximum Unique Subarray Sum After Deletion
+    
 
 
 
