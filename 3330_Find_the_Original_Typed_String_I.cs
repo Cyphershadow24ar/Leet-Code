@@ -1,8 +1,9 @@
 // PROBLEM :- 3330. Find the Original Typed String I
 
-public class Solution {
-    public int PossibleStringCount(string word) {
-        int n = word.Length;
+class Solution {
+public:
+    int possibleStringCount(string word) {
+        int n = word.length();
         int count = 0;
         int i=0;
 
@@ -21,4 +22,4 @@ public class Solution {
         // with this +1 to include the orginial word
         return count + 1;
     }
-}
+};
