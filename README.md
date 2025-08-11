@@ -34,21 +34,22 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 30. (2322) Minimum Score After Removals on a Tree
 31. (2402) Meeting Rooms III
 32. (2410) Maximum Matching of Players With Trainers
-33. (2561) Rearranging Fruits 
-34. (3136) Valid Word
-35. (3201) Find the Maximum Length of Valid Subsequence I
-36. (3202) Find the Maximum Length of Valid Subsequence II
-37. (3330) Find the Original Typed String I
-38. (3333) Find the Original Typed String II
-39. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-40. (3307) Find the K-th Character in String Game II
-41. (3439) Reschedule Meetings for Maximum Free Time I
-42. (3440) Reschedule Meetings for Maximum Free Time II
-43. (3363) Find the Maximum Number of Fruits Collected
-44. (3477) Fruits Into Baskets II
-45. (3479) Fruits Into Baskets III
-46. (3480) Maximize Subarrays After Removing One Conflicting Pair
-47. (3487) Maximum Unique Subarray Sum After Deletion
+33. (2438) Range Product Queries of Powers
+34. (2561) Rearranging Fruits 
+35. (3136) Valid Word
+36. (3201) Find the Maximum Length of Valid Subsequence I
+37. (3202) Find the Maximum Length of Valid Subsequence II
+38. (3330) Find the Original Typed String I
+39. (3333) Find the Original Typed String II
+40. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+41. (3307) Find the K-th Character in String Game II
+42. (3439) Reschedule Meetings for Maximum Free Time I
+43. (3440) Reschedule Meetings for Maximum Free Time II
+44. (3363) Find the Maximum Number of Fruits Collected
+45. (3477) Fruits Into Baskets II
+46. (3479) Fruits Into Baskets III
+47. (3480) Maximize Subarrays After Removing One Conflicting Pair
+48. (3487) Maximum Unique Subarray Sum After Deletion
     
 
 
