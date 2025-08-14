@@ -32,26 +32,27 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 28. (2106) Maximum Fruits Harvested After at Most K Steps
 29. (2163) Minimum Difference in Sums After Removal of Elements
 30. (2210) Count Hiils and Valley in an array
-31. (2322) Minimum Score After Removals on a Tree
-32. (2402) Meeting Rooms III
-33. (2410) Maximum Matching of Players With Trainers
-34. (2438) Range Product Queries of Powers
-35. (2561) Rearranging Fruits
-36. (2787) Ways to Express an Integer as Sum of Powers
-37. (3136) Valid Word
-38. (3201) Find the Maximum Length of Valid Subsequence I
-39. (3202) Find the Maximum Length of Valid Subsequence II
-40. (3330) Find the Original Typed String I
-41. (3333) Find the Original Typed String II
-42. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-43. (3307) Find the K-th Character in String Game II
-44. (3439) Reschedule Meetings for Maximum Free Time I
-45. (3440) Reschedule Meetings for Maximum Free Time II
-46. (3363) Find the Maximum Number of Fruits Collected
-47. (3477) Fruits Into Baskets II
-48. (3479) Fruits Into Baskets III
-49. (3480) Maximize Subarrays After Removing One Conflicting Pair
-50. (3487) Maximum Unique Subarray Sum After Deletion
+31. (2264) Largest 3-Same-Digit Number in String
+32. (2322) Minimum Score After Removals on a Tree
+33. (2402) Meeting Rooms III
+34. (2410) Maximum Matching of Players With Trainers
+35. (2438) Range Product Queries of Powers
+36. (2561) Rearranging Fruits
+37. (2787) Ways to Express an Integer as Sum of Powers
+38. (3136) Valid Word
+39. (3201) Find the Maximum Length of Valid Subsequence I
+40. (3202) Find the Maximum Length of Valid Subsequence II
+41. (3330) Find the Original Typed String I
+42. (3333) Find the Original Typed String II
+43. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+44. (3307) Find the K-th Character in String Game II
+45. (3439) Reschedule Meetings for Maximum Free Time I
+46. (3440) Reschedule Meetings for Maximum Free Time II
+47. (3363) Find the Maximum Number of Fruits Collected
+48. (3477) Fruits Into Baskets II
+49. (3479) Fruits Into Baskets III
+50. (3480) Maximize Subarrays After Removing One Conflicting Pair
+51. (3487) Maximum Unique Subarray Sum After Deletion
     
 
 
