@@ -38,25 +38,26 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 34. (2210) Count Hiils and Valley in an array
 35. (2264) Largest 3-Same-Digit Number in String
 36. (2322) Minimum Score After Removals on a Tree
-37. (2402) Meeting Rooms III
-38. (2410) Maximum Matching of Players With Trainers
-39. (2438) Range Product Queries of Powers
-40. (2561) Rearranging Fruits
-41. (2787) Ways to Express an Integer as Sum of Powers
-42. (3136) Valid Word
-43. (3201) Find the Maximum Length of Valid Subsequence I
-44. (3202) Find the Maximum Length of Valid Subsequence II
-45. (3330) Find the Original Typed String I
-46. (3333) Find the Original Typed String II
-47. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-48. (3307) Find the K-th Character in String Game II
-49. (3439) Reschedule Meetings for Maximum Free Time I
-50. (3440) Reschedule Meetings for Maximum Free Time II
-51. (3363) Find the Maximum Number of Fruits Collected
-52. (3477) Fruits Into Baskets II
-53. (3479) Fruits Into Baskets III
-54. (3480) Maximize Subarrays After Removing One Conflicting Pair
-55. (3487) Maximum Unique Subarray Sum After Deletion
+37. (2348) Number of Zero-Filled Subarrays
+38. (2402) Meeting Rooms III
+39. (2410) Maximum Matching of Players With Trainers
+40. (2438) Range Product Queries of Powers
+41. (2561) Rearranging Fruits
+42. (2787) Ways to Express an Integer as Sum of Powers
+43. (3136) Valid Word
+44. (3201) Find the Maximum Length of Valid Subsequence I
+45. (3202) Find the Maximum Length of Valid Subsequence II
+46. (3330) Find the Original Typed String I
+47. (3333) Find the Original Typed String II
+48. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+49. (3307) Find the K-th Character in String Game II
+50. (3439) Reschedule Meetings for Maximum Free Time I
+51. (3440) Reschedule Meetings for Maximum Free Time II
+52. (3363) Find the Maximum Number of Fruits Collected
+53. (3477) Fruits Into Baskets II
+54. (3479) Fruits Into Baskets III
+55. (3480) Maximize Subarrays After Removing One Conflicting Pair
+56. (3487) Maximum Unique Subarray Sum After Deletion
     
 
 
