@@ -47,19 +47,20 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 43. (2561) Rearranging Fruits
 44. (2787) Ways to Express an Integer as Sum of Powers
 45. (3136) Valid Word
-46. (3201) Find the Maximum Length of Valid Subsequence I
-47. (3202) Find the Maximum Length of Valid Subsequence II
-48. (3330) Find the Original Typed String I
-49. (3333) Find the Original Typed String II
-50. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-51. (3307) Find the K-th Character in String Game II
-52. (3439) Reschedule Meetings for Maximum Free Time I
-53. (3440) Reschedule Meetings for Maximum Free Time II
-54. (3363) Find the Maximum Number of Fruits Collected
-55. (3477) Fruits Into Baskets II
-56. (3479) Fruits Into Baskets III
-57. (3480) Maximize Subarrays After Removing One Conflicting Pair
-58. (3487) Maximum Unique Subarray Sum After Deletion
+46. (3195) Find the Minimum Area to Cover All Ones I
+47. (3201) Find the Maximum Length of Valid Subsequence I
+48. (3202) Find the Maximum Length of Valid Subsequence II
+49. (3330) Find the Original Typed String I
+50. (3333) Find the Original Typed String II
+51. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+52. (3307) Find the K-th Character in String Game II
+53. (3439) Reschedule Meetings for Maximum Free Time I
+54. (3440) Reschedule Meetings for Maximum Free Time II
+55. (3363) Find the Maximum Number of Fruits Collected
+56. (3477) Fruits Into Baskets II
+57. (3479) Fruits Into Baskets III
+58. (3480) Maximize Subarrays After Removing One Conflicting Pair
+59. (3487) Maximum Unique Subarray Sum After Deletion
     
 
 
