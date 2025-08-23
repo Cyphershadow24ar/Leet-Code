@@ -1,0 +1,87 @@
+// PROBLEM : (3197) Find the Minimum Area to Cover All Ones II
+
+// SOLUTION :
+
+class Solution {
+public:
+    int minimumSum(vector<vector<int>>& grid) {
+        int n = grid.size(), m = grid[0].size();
+
+        // Function to compute rectangle area for 1s inside [r1..r2][c1..c2]
+        auto getArea = [&](int r1, int r2, int c1, int c2) {
+            int minR = n, maxR = -1, minC = m, maxC = -1;
+            for (int i = r1; i <= r2; i++) {
+                for (int j = c1; j <= c2; j++) {
+                    if (grid[i][j] == 1) {
+                        minR = min(minR, i);
+                        maxR = max(maxR, i);
+                        minC = min(minC, j);
+                        maxC = max(maxC, j);
+                    }
+                }
+            }
+            if (maxR == -1) return 0; // no ones
+            return (maxR - minR + 1) * (maxC - minC + 1);
+        };
+
+        int ans = INT_MAX;
+
+        // Case 1: Split horizontally into 3 strips
+        for (int i = 0; i < n-2; i++) {
+            for (int j = i+1; j < n-1; j++) {
+                int a1 = getArea(0, i, 0, m-1);
+                int a2 = getArea(i+1, j, 0, m-1);
+                int a3 = getArea(j+1, n-1, 0, m-1);
+                if (a1 && a2 && a3) ans = min(ans, a1+a2+a3);
+            }
+        }
+
+        // Case 2: Split vertically into 3 strips
+        for (int i = 0; i < m-2; i++) {
+            for (int j = i+1; j < m-1; j++) {
+                int a1 = getArea(0, n-1, 0, i);
+                int a2 = getArea(0, n-1, i+1, j);
+                int a3 = getArea(0, n-1, j+1, m-1);
+                if (a1 && a2 && a3) ans = min(ans, a1+a2+a3);
+            }
+        }
+
+        // Case 3: First horizontal cut, then vertical cut on one side
+        for (int i = 0; i < n-1; i++) {
+            // Top part split vertically
+            for (int j = 0; j < m-1; j++) {
+                int a1 = getArea(0, i, 0, j);
+                int a2 = getArea(0, i, j+1, m-1);
+                int a3 = getArea(i+1, n-1, 0, m-1);
+                if (a1 && a2 && a3) ans = min(ans, a1+a2+a3);
+            }
+            // Bottom part split vertically
+            for (int j = 0; j < m-1; j++) {
+                int a1 = getArea(i+1, n-1, 0, j);
+                int a2 = getArea(i+1, n-1, j+1, m-1);
+                int a3 = getArea(0, i, 0, m-1);
+                if (a1 && a2 && a3) ans = min(ans, a1+a2+a3);
+            }
+        }
+
+        // Case 4: First vertical cut, then horizontal cut on one side
+        for (int j = 0; j < m-1; j++) {
+            // Left part split horizontally
+            for (int i = 0; i < n-1; i++) {
+                int a1 = getArea(0, i, 0, j);
+                int a2 = getArea(i+1, n-1, 0, j);
+                int a3 = getArea(0, n-1, j+1, m-1);
+                if (a1 && a2 && a3) ans = min(ans, a1+a2+a3);
+            }
+            // Right part split horizontally
+            for (int i = 0; i < n-1; i++) {
+                int a1 = getArea(0, i, j+1, m-1);
+                int a2 = getArea(i+1, n-1, j+1, m-1);
+                int a3 = getArea(0, n-1, 0, j);
+                if (a1 && a2 && a3) ans = min(ans, a1+a2+a3);
+            }
+        }
+
+        return ans;
+    }
+};
