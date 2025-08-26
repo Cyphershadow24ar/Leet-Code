@@ -48,22 +48,23 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 44. (2438) Range Product Queries of Powers
 45. (2561) Rearranging Fruits
 46. (2787) Ways to Express an Integer as Sum of Powers
-47. (3136) Valid Word
-48. (3195) Find the Minimum Area to Cover All Ones I
-49. (3197) Find the Minimum Area to Cover All Ones II
-50. (3201) Find the Maximum Length of Valid Subsequence I
-51. (3202) Find the Maximum Length of Valid Subsequence II
-52. (3330) Find the Original Typed String I
-53. (3333) Find the Original Typed String II
-54. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-55. (3307) Find the K-th Character in String Game II
-56. (3439) Reschedule Meetings for Maximum Free Time I
-57. (3440) Reschedule Meetings for Maximum Free Time II
-58. (3363) Find the Maximum Number of Fruits Collected
-59. (3477) Fruits Into Baskets II
-60. (3479) Fruits Into Baskets III
-61. (3480) Maximize Subarrays After Removing One Conflicting Pair
-62. (3487) Maximum Unique Subarray Sum After Deletion
+47. (3000) Maximum Area of Longest Diagonal Rectangle
+48. (3136) Valid Word
+49. (3195) Find the Minimum Area to Cover All Ones I
+50. (3197) Find the Minimum Area to Cover All Ones II
+51. (3201) Find the Maximum Length of Valid Subsequence I
+52. (3202) Find the Maximum Length of Valid Subsequence II
+53. (3330) Find the Original Typed String I
+54. (3333) Find the Original Typed String II
+55. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+56. (3307) Find the K-th Character in String Game II
+57. (3439) Reschedule Meetings for Maximum Free Time I
+58. (3440) Reschedule Meetings for Maximum Free Time II
+59. (3363) Find the Maximum Number of Fruits Collected
+60. (3477) Fruits Into Baskets II
+61. (3479) Fruits Into Baskets III
+62. (3480) Maximize Subarrays After Removing One Conflicting Pair
+63. (3487) Maximum Unique Subarray Sum After Deletion
     
 
 
