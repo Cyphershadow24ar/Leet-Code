@@ -61,10 +61,11 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 57. (3439) Reschedule Meetings for Maximum Free Time I
 58. (3440) Reschedule Meetings for Maximum Free Time II
 59. (3363) Find the Maximum Number of Fruits Collected
-60. (3477) Fruits Into Baskets II
-61. (3479) Fruits Into Baskets III
-62. (3480) Maximize Subarrays After Removing One Conflicting Pair
-63. (3487) Maximum Unique Subarray Sum After Deletion
+60. (3459) Length of Longest V-Shaped Diagonal Segment
+61. (3477) Fruits Into Baskets II
+62. (3479) Fruits Into Baskets III
+63. (3480) Maximize Subarrays After Removing One Conflicting Pair
+64. (3487) Maximum Unique Subarray Sum After Deletion
     
 
 
