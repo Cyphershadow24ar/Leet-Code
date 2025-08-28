@@ -54,19 +54,20 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 50. (3197) Find the Minimum Area to Cover All Ones II
 51. (3201) Find the Maximum Length of Valid Subsequence I
 52. (3202) Find the Maximum Length of Valid Subsequence II
-53. (3330) Find the Original Typed String I
-54. (3333) Find the Original Typed String II
-55. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-56. (3307) Find the K-th Character in String Game II
-57. (3439) Reschedule Meetings for Maximum Free Time I
-58. (3440) Reschedule Meetings for Maximum Free Time II
-59. (3363) Find the Maximum Number of Fruits Collected
-60. (3459) Length of Longest V-Shaped Diagonal Segment
-61. (3477) Fruits Into Baskets II
-62. (3479) Fruits Into Baskets III
-63. (3480) Maximize Subarrays After Removing One Conflicting Pair
-64. (3487) Maximum Unique Subarray Sum After Deletion
-    
+53. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+54. (3307) Find the K-th Character in String Game II
+55. (3330) Find the Original Typed String I
+56. (3333) Find the Original Typed String II
+57. (3363) Find the Maximum Number of Fruits Collected
+58. (3439) Reschedule Meetings for Maximum Free Time I
+59. (3440) Reschedule Meetings for Maximum Free Time II
+60. (3446) Sort Matrix by Diagonals
+61. (3459) Length of Longest V-Shaped Diagonal Segment
+62. (3477) Fruits Into Baskets II
+63. (3479) Fruits Into Baskets III
+64. (3480) Maximize Subarrays After Removing One Conflicting Pair
+65. (3487) Maximum Unique Subarray Sum After Deletion
+
 
 
 
