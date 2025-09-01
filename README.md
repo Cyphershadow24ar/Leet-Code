@@ -35,40 +35,41 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 31. (1695) Maximum Erasure Value
 32. (1717) Maximum Score From Removing Substrings
 33. (1751) Maximum Number of Events That Can Be Attended II
-34. (1865) Finding Pairs With a Certain Sum
-35. (1900) The Earliest and Latest Rounds Where Players Compete
-36. (1948) Delete Duplicate Folders in System
-37. (1957) Delete Characters to Make Fancy String
-38. (2106) Maximum Fruits Harvested After at Most K Steps
-39. (2163) Minimum Difference in Sums After Removal of Elements
-40. (2210) Count Hiils and Valley in an array
-41. (2264) Largest 3-Same-Digit Number in String
-42. (2322) Minimum Score After Removals on a Tree
-43. (2348) Number of Zero-Filled Subarrays
-44. (2402) Meeting Rooms III
-45. (2410) Maximum Matching of Players With Trainers
-46. (2438) Range Product Queries of Powers
-47. (2561) Rearranging Fruits
-48. (2787) Ways to Express an Integer as Sum of Powers
-49. (3000) Maximum Area of Longest Diagonal Rectangle
-50. (3021) Alice and Bob Playing Flower Game
-51. (3136) Valid Word
-52. (3195) Find the Minimum Area to Cover All Ones I
-53. (3197) Find the Minimum Area to Cover All Ones II
-54. (3201) Find the Maximum Length of Valid Subsequence I
-55. (3202) Find the Maximum Length of Valid Subsequence II
-56. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-57. (3307) Find the K-th Character in String Game II
-58. (3330) Find the Original Typed String I
-59. (3333) Find the Original Typed String II
-60. (3363) Find the Maximum Number of Fruits Collected
-61. (3439) Reschedule Meetings for Maximum Free Time I
-62. (3440) Reschedule Meetings for Maximum Free Time II
-63. (3446) Sort Matrix by Diagonals
-64. (3459) Length of Longest V-Shaped Diagonal Segment
-65. (3477) Fruits Into Baskets II
-66. (3479) Fruits Into Baskets III
-67. (3480) Maximize Subarrays After Removing One Conflicting Pair
+34. (1792) Maximum Average Pass Ratio
+35. (1865) Finding Pairs With a Certain Sum
+36. (1900) The Earliest and Latest Rounds Where Players Compete
+37. (1948) Delete Duplicate Folders in System
+38. (1957) Delete Characters to Make Fancy String
+39. (2106) Maximum Fruits Harvested After at Most K Steps
+40. (2163) Minimum Difference in Sums After Removal of Elements
+41. (2210) Count Hiils and Valley in an array
+42. (2264) Largest 3-Same-Digit Number in String
+43. (2322) Minimum Score After Removals on a Tree
+44. (2348) Number of Zero-Filled Subarrays
+45. (2402) Meeting Rooms III
+46. (2410) Maximum Matching of Players With Trainers
+47. (2438) Range Product Queries of Powers
+48. (2561) Rearranging Fruits
+49. (2787) Ways to Express an Integer as Sum of Powers
+50. (3000) Maximum Area of Longest Diagonal Rectangle
+51. (3021) Alice and Bob Playing Flower Game
+52. (3136) Valid Word
+53. (3195) Find the Minimum Area to Cover All Ones I
+54. (3197) Find the Minimum Area to Cover All Ones II
+55. (3201) Find the Maximum Length of Valid Subsequence I
+56. (3202) Find the Maximum Length of Valid Subsequence II
+57. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+58. (3307) Find the K-th Character in String Game II
+59. (3330) Find the Original Typed String I
+60. (3333) Find the Original Typed String II
+61. (3363) Find the Maximum Number of Fruits Collected
+62. (3439) Reschedule Meetings for Maximum Free Time I
+63. (3440) Reschedule Meetings for Maximum Free Time II
+64. (3446) Sort Matrix by Diagonals
+65. (3459) Length of Longest V-Shaped Diagonal Segment
+66. (3477) Fruits Into Baskets II
+67. (3479) Fruits Into Baskets III
+68. (3480) Maximize Subarrays After Removing One Conflicting Pair
 67. (3487) Maximum Unique Subarray Sum After Deletion
 
 
