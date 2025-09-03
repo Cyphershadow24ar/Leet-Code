@@ -54,23 +54,24 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 50. (3000) Maximum Area of Longest Diagonal Rectangle
 51. (3021) Alice and Bob Playing Flower Game
 52. (3025) Find the Number of Ways to Place People I
-53. (3136) Valid Word
-54. (3195) Find the Minimum Area to Cover All Ones I
-55. (3197) Find the Minimum Area to Cover All Ones II
-56. (3201) Find the Maximum Length of Valid Subsequence I
-57. (3202) Find the Maximum Length of Valid Subsequence II
-58. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-59. (3307) Find the K-th Character in String Game II
-60. (3330) Find the Original Typed String I
-61. (3333) Find the Original Typed String II
-62. (3363) Find the Maximum Number of Fruits Collected
-63. (3439) Reschedule Meetings for Maximum Free Time I
-64. (3440) Reschedule Meetings for Maximum Free Time II
-65. (3446) Sort Matrix by Diagonals
-66. (3459) Length of Longest V-Shaped Diagonal Segment
-67. (3477) Fruits Into Baskets II
-68. (3479) Fruits Into Baskets III
-69. (3480) Maximize Subarrays After Removing One Conflicting Pair
+53. (3027) Find the Number of Ways to Place People II
+54. (3136) Valid Word
+55. (3195) Find the Minimum Area to Cover All Ones I
+56. (3197) Find the Minimum Area to Cover All Ones II
+57. (3201) Find the Maximum Length of Valid Subsequence I
+58. (3202) Find the Maximum Length of Valid Subsequence II
+59. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+60. (3307) Find the K-th Character in String Game II
+61. (3330) Find the Original Typed String I
+62. (3333) Find the Original Typed String II
+63. (3363) Find the Maximum Number of Fruits Collected
+64. (3439) Reschedule Meetings for Maximum Free Time I
+65. (3440) Reschedule Meetings for Maximum Free Time II
+66. (3446) Sort Matrix by Diagonals
+67. (3459) Length of Longest V-Shaped Diagonal Segment
+68. (3477) Fruits Into Baskets II
+69. (3479) Fruits Into Baskets III
+70. (3480) Maximize Subarrays After Removing One Conflicting Pair
 67. (3487) Maximum Unique Subarray Sum After Deletion
 
 
