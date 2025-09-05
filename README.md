@@ -50,28 +50,29 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 46. (2410) Maximum Matching of Players With Trainers
 47. (2438) Range Product Queries of Powers
 48. (2561) Rearranging Fruits
-49. (2787) Ways to Express an Integer as Sum of Powers
-50. (3000) Maximum Area of Longest Diagonal Rectangle
-51. (3021) Alice and Bob Playing Flower Game
-52. (3025) Find the Number of Ways to Place People I
-53. (3027) Find the Number of Ways to Place People II
-54. (3136) Valid Word
-55. (3195) Find the Minimum Area to Cover All Ones I
-56. (3197) Find the Minimum Area to Cover All Ones II
-57. (3201) Find the Maximum Length of Valid Subsequence I
-58. (3202) Find the Maximum Length of Valid Subsequence II
-59. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-60. (3307) Find the K-th Character in String Game II
-61. (3330) Find the Original Typed String I
-62. (3333) Find the Original Typed String II
-63. (3363) Find the Maximum Number of Fruits Collected
-64. (3439) Reschedule Meetings for Maximum Free Time I
-65. (3440) Reschedule Meetings for Maximum Free Time II
-66. (3446) Sort Matrix by Diagonals
-67. (3459) Length of Longest V-Shaped Diagonal Segment
-68. (3477) Fruits Into Baskets II
-69. (3479) Fruits Into Baskets III
-70. (3480) Maximize Subarrays After Removing One Conflicting Pair
+49. (2749) Minimum Operations to Make the Integer Zero
+50. (2787) Ways to Express an Integer as Sum of Powers
+51. (3000) Maximum Area of Longest Diagonal Rectangle
+52. (3021) Alice and Bob Playing Flower Game
+53. (3025) Find the Number of Ways to Place People I
+54. (3027) Find the Number of Ways to Place People II
+55. (3136) Valid Word
+56. (3195) Find the Minimum Area to Cover All Ones I
+57. (3197) Find the Minimum Area to Cover All Ones II
+58. (3201) Find the Maximum Length of Valid Subsequence I
+59. (3202) Find the Maximum Length of Valid Subsequence II
+60. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+61. (3307) Find the K-th Character in String Game II
+62. (3330) Find the Original Typed String I
+63. (3333) Find the Original Typed String II
+64. (3363) Find the Maximum Number of Fruits Collected
+65. (3439) Reschedule Meetings for Maximum Free Time I
+66. (3440) Reschedule Meetings for Maximum Free Time II
+67. (3446) Sort Matrix by Diagonals
+68. (3459) Length of Longest V-Shaped Diagonal Segment
+69. (3477) Fruits Into Baskets II
+70. (3479) Fruits Into Baskets III
+71. (3480) Maximize Subarrays After Removing One Conflicting Pair
 67. (3487) Maximum Unique Subarray Sum After Deletion
 68. (3516) Find Closest Person
 
