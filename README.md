@@ -74,7 +74,8 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 70. (3479) Fruits Into Baskets III
 71. (3480) Maximize Subarrays After Removing One Conflicting Pair
 67. (3487) Maximum Unique Subarray Sum After Deletion
-68. (3516) Find Closest Person
+68. (3495) Minimum Operations to Make Array Elements Zero
+69. (3516) Find Closest Person
 
 
 
