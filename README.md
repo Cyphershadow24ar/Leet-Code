@@ -47,34 +47,35 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 43. (2210) Count Hiils and Valley in an array
 44. (2264) Largest 3-Same-Digit Number in String
 45. (2322) Minimum Score After Removals on a Tree
-46. (2348) Number of Zero-Filled Subarrays
-47. (2402) Meeting Rooms III
-48. (2410) Maximum Matching of Players With Trainers
-49. (2438) Range Product Queries of Powers
-50. (2561) Rearranging Fruits
-51. (2749) Minimum Operations to Make the Integer Zero
-52. (2787) Ways to Express an Integer as Sum of Powers
-53. (3000) Maximum Area of Longest Diagonal Rectangle
-54. (3021) Alice and Bob Playing Flower Game
-55. (3025) Find the Number of Ways to Place People I
-56. (3027) Find the Number of Ways to Place People II
-57. (3136) Valid Word
-58. (3195) Find the Minimum Area to Cover All Ones I
-59. (3197) Find the Minimum Area to Cover All Ones II
-60. (3201) Find the Maximum Length of Valid Subsequence I
-61. (3202) Find the Maximum Length of Valid Subsequence II
-62. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-63. (3307) Find the K-th Character in String Game II
-64. (3330) Find the Original Typed String I
-65. (3333) Find the Original Typed String II
-66. (3363) Find the Maximum Number of Fruits Collected
-67. (3439) Reschedule Meetings for Maximum Free Time I
-68. (3440) Reschedule Meetings for Maximum Free Time II
-69. (3446) Sort Matrix by Diagonals
-70. (3459) Length of Longest V-Shaped Diagonal Segment
-71. (3477) Fruits Into Baskets II
-72. (3479) Fruits Into Baskets III
-73. (3480) Maximize Subarrays After Removing One Conflicting Pair
+46. (2327) Number of People Aware of a Secret
+47. (2348) Number of Zero-Filled Subarrays
+48. (2402) Meeting Rooms III
+49. (2410) Maximum Matching of Players With Trainers
+50. (2438) Range Product Queries of Powers
+51. (2561) Rearranging Fruits
+52. (2749) Minimum Operations to Make the Integer Zero
+53. (2787) Ways to Express an Integer as Sum of Powers
+54. (3000) Maximum Area of Longest Diagonal Rectangle
+55. (3021) Alice and Bob Playing Flower Game
+56. (3025) Find the Number of Ways to Place People I
+57. (3027) Find the Number of Ways to Place People II
+58. (3136) Valid Word
+59. (3195) Find the Minimum Area to Cover All Ones I
+60. (3197) Find the Minimum Area to Cover All Ones II
+61. (3201) Find the Maximum Length of Valid Subsequence I
+62. (3202) Find the Maximum Length of Valid Subsequence II
+63. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+64. (3307) Find the K-th Character in String Game II
+65. (3330) Find the Original Typed String I
+66. (3333) Find the Original Typed String II
+67. (3363) Find the Maximum Number of Fruits Collected
+68. (3439) Reschedule Meetings for Maximum Free Time I
+69. (3440) Reschedule Meetings for Maximum Free Time II
+70. (3446) Sort Matrix by Diagonals
+71. (3459) Length of Longest V-Shaped Diagonal Segment
+72. (3477) Fruits Into Baskets II
+73. (3479) Fruits Into Baskets III
+74. (3480) Maximize Subarrays After Removing One Conflicting Pair
 67. (3487) Maximum Unique Subarray Sum After Deletion
 68. (3495) Minimum Operations to Make Array Elements Zero
 69. (3516) Find Closest Person
