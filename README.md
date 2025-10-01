@@ -35,51 +35,52 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 31. (1394) Find Lucky Integer in an Array
 32. (1493) Longest Subarray of 1's After Deleting One Element
 33. (1504) Count Submatrices With All Ones
-34. (1695) Maximum Erasure Value
-35. (1717) Maximum Score From Removing Substrings
-36. (1733) Minimum Number of People to Teach
-37. (1751) Maximum Number of Events That Can Be Attended II
-38. (1792) Maximum Average Pass Ratio
-39. (1865) Finding Pairs With a Certain Sum
-40. (1900) The Earliest and Latest Rounds Where Players Compete
-41. (1935) Maximum Number of Words You Can Type
-42. (1948) Delete Duplicate Folders in System
-43. (1957) Delete Characters to Make Fancy String
-44. (2106) Maximum Fruits Harvested After at Most K Steps
-45. (2163) Minimum Difference in Sums After Removal of Elements
-46. (2197) Replace Non-Coprime Numbers in Array
-47. (2210) Count Hiils and Valley in an array
-48. (2264) Largest 3-Same-Digit Number in String
-49. (2322) Minimum Score After Removals on a Tree
-50. (2327) Number of People Aware of a Secret
-51. (2348) Number of Zero-Filled Subarrays
-52. (2402) Meeting Rooms III
-53. (2410) Maximum Matching of Players With Trainers
-54. (2438) Range Product Queries of Powers
-55. (2561) Rearranging Fruits
-56. (2749) Minimum Operations to Make the Integer Zero
-57. (2787) Ways to Express an Integer as Sum of Powers
-58. (3000) Maximum Area of Longest Diagonal Rectangle
-59. (3021) Alice and Bob Playing Flower Game
-60. (3025) Find the Number of Ways to Place People I
-61. (3027) Find the Number of Ways to Place People II
-62. (3136) Valid Word
-63. (3195) Find the Minimum Area to Cover All Ones I
-64. (3197) Find the Minimum Area to Cover All Ones II
-65. (3201) Find the Maximum Length of Valid Subsequence I
-66. (3202) Find the Maximum Length of Valid Subsequence II
-67. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-68. (3307) Find the K-th Character in String Game II
-69. (3330) Find the Original Typed String I
-70. (3333) Find the Original Typed String II
-71. (3363) Find the Maximum Number of Fruits Collected
-72. (3439) Reschedule Meetings for Maximum Free Time I
-73. (3440) Reschedule Meetings for Maximum Free Time II
-74. (3446) Sort Matrix by Diagonals
-75. (3459) Length of Longest V-Shaped Diagonal Segment
-76. (3477) Fruits Into Baskets II
-77. (3479) Fruits Into Baskets III
-78. (3480) Maximize Subarrays After Removing One Conflicting Pair
+34. (1518) Water Bottles
+35. (1695) Maximum Erasure Value
+36. (1717) Maximum Score From Removing Substrings
+37. (1733) Minimum Number of People to Teach
+38. (1751) Maximum Number of Events That Can Be Attended II
+39. (1792) Maximum Average Pass Ratio
+40. (1865) Finding Pairs With a Certain Sum
+41. (1900) The Earliest and Latest Rounds Where Players Compete
+42. (1935) Maximum Number of Words You Can Type
+43. (1948) Delete Duplicate Folders in System
+44. (1957) Delete Characters to Make Fancy String
+45. (2106) Maximum Fruits Harvested After at Most K Steps
+46. (2163) Minimum Difference in Sums After Removal of Elements
+47. (2197) Replace Non-Coprime Numbers in Array
+48. (2210) Count Hiils and Valley in an array
+49. (2264) Largest 3-Same-Digit Number in String
+50. (2322) Minimum Score After Removals on a Tree
+51. (2327) Number of People Aware of a Secret
+52. (2348) Number of Zero-Filled Subarrays
+53. (2402) Meeting Rooms III
+54. (2410) Maximum Matching of Players With Trainers
+55. (2438) Range Product Queries of Powers
+56. (2561) Rearranging Fruits
+57. (2749) Minimum Operations to Make the Integer Zero
+58. (2787) Ways to Express an Integer as Sum of Powers
+59. (3000) Maximum Area of Longest Diagonal Rectangle
+60. (3021) Alice and Bob Playing Flower Game
+61. (3025) Find the Number of Ways to Place People I
+62. (3027) Find the Number of Ways to Place People II
+63. (3136) Valid Word
+64. (3195) Find the Minimum Area to Cover All Ones I
+65. (3197) Find the Minimum Area to Cover All Ones II
+66. (3201) Find the Maximum Length of Valid Subsequence I
+67. (3202) Find the Maximum Length of Valid Subsequence II
+68. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+69. (3307) Find the K-th Character in String Game II
+70. (3330) Find the Original Typed String I
+71. (3333) Find the Original Typed String II
+72. (3363) Find the Maximum Number of Fruits Collected
+73. (3439) Reschedule Meetings for Maximum Free Time I
+74. (3440) Reschedule Meetings for Maximum Free Time II
+75. (3446) Sort Matrix by Diagonals
+76. (3459) Length of Longest V-Shaped Diagonal Segment
+77. (3477) Fruits Into Baskets II
+78. (3479) Fruits Into Baskets III
+79. (3480) Maximize Subarrays After Removing One Conflicting Pair
 67. (3487) Maximum Unique Subarray Sum After Deletion
 68. (3495) Minimum Operations to Make Array Elements Zero
 69. (3516) Find Closest Person
