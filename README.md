@@ -64,23 +64,24 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 60. (3021) Alice and Bob Playing Flower Game
 61. (3025) Find the Number of Ways to Place People I
 62. (3027) Find the Number of Ways to Place People II
-63. (3136) Valid Word
-64. (3195) Find the Minimum Area to Cover All Ones I
-65. (3197) Find the Minimum Area to Cover All Ones II
-66. (3201) Find the Maximum Length of Valid Subsequence I
-67. (3202) Find the Maximum Length of Valid Subsequence II
-68. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-69. (3307) Find the K-th Character in String Game II
-70. (3330) Find the Original Typed String I
-71. (3333) Find the Original Typed String II
-72. (3363) Find the Maximum Number of Fruits Collected
-73. (3439) Reschedule Meetings for Maximum Free Time I
-74. (3440) Reschedule Meetings for Maximum Free Time II
-75. (3446) Sort Matrix by Diagonals
-76. (3459) Length of Longest V-Shaped Diagonal Segment
-77. (3477) Fruits Into Baskets II
-78. (3479) Fruits Into Baskets III
-79. (3480) Maximize Subarrays After Removing One Conflicting Pair
+63. (3100) Water Bottles II
+64. (3136) Valid Word
+65. (3195) Find the Minimum Area to Cover All Ones I
+66. (3197) Find the Minimum Area to Cover All Ones II
+67. (3201) Find the Maximum Length of Valid Subsequence I
+68. (3202) Find the Maximum Length of Valid Subsequence II
+69. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+70. (3307) Find the K-th Character in String Game II
+71. (3330) Find the Original Typed String I
+72. (3333) Find the Original Typed String II
+73. (3363) Find the Maximum Number of Fruits Collected
+74. (3439) Reschedule Meetings for Maximum Free Time I
+75. (3440) Reschedule Meetings for Maximum Free Time II
+76. (3446) Sort Matrix by Diagonals
+77. (3459) Length of Longest V-Shaped Diagonal Segment
+78. (3477) Fruits Into Baskets II
+79. (3479) Fruits Into Baskets III
+80. (3480) Maximize Subarrays After Removing One Conflicting Pair
 67. (3487) Maximum Unique Subarray Sum After Deletion
 68. (3495) Minimum Operations to Make Array Elements Zero
 69. (3516) Find Closest Person
