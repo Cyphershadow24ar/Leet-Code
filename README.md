@@ -56,25 +56,26 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 52. (2197) Replace Non-Coprime Numbers in Array
 53. (2210) Count Hiils and Valley in an array
 54. (2264) Largest 3-Same-Digit Number in String
-55. (2322) Minimum Score After Removals on a Tree
-56. (2327) Number of People Aware of a Secret
-57. (2348) Number of Zero-Filled Subarrays
-58. (2402) Meeting Rooms III
-59. (2410) Maximum Matching of Players With Trainers
-60. (2438) Range Product Queries of Powers
-61. (2561) Rearranging Fruits
-62. (2749) Minimum Operations to Make the Integer Zero
-63. (2787) Ways to Express an Integer as Sum of Powers
-64. (3000) Maximum Area of Longest Diagonal Rectangle
-65. (3021) Alice and Bob Playing Flower Game
-66. (3025) Find the Number of Ways to Place People I
-67. (3027) Find the Number of Ways to Place People II
-68. (3100) Water Bottles II
-69. (3136) Valid Word
-70. (3195) Find the Minimum Area to Cover All Ones I
-71. (3197) Find the Minimum Area to Cover All Ones II
-72. (3201) Find the Maximum Length of Valid Subsequence I
-73. (3202) Find the Maximum Length of Valid Subsequence II
+55. (2300) Successful of spells and portions
+56. (2322) Minimum Score After Removals on a Tree
+57. (2327) Number of People Aware of a Secret
+58. (2348) Number of Zero-Filled Subarrays
+59. (2402) Meeting Rooms III
+60. (2410) Maximum Matching of Players With Trainers
+61. (2438) Range Product Queries of Powers
+62. (2561) Rearranging Fruits
+63. (2749) Minimum Operations to Make the Integer Zero
+64. (2787) Ways to Express an Integer as Sum of Powers
+65. (3000) Maximum Area of Longest Diagonal Rectangle
+66. (3021) Alice and Bob Playing Flower Game
+67. (3025) Find the Number of Ways to Place People I
+68. (3027) Find the Number of Ways to Place People II
+69. (3100) Water Bottles II
+70. (3136) Valid Word
+71. (3195) Find the Minimum Area to Cover All Ones I
+72. (3197) Find the Minimum Area to Cover All Ones II
+73. (3201) Find the Maximum Length of Valid Subsequence I
+74. (3202) Find the Maximum Length of Valid Subsequence II
 71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 70. (3307) Find the K-th Character in String Game II
 71. (3330) Find the Original Typed String I
