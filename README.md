@@ -37,43 +37,44 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 33. (1323) Maximum 69 Number
 34. (1353) Maximum Number of Events That Can Be Attended
 35. (1394) Find Lucky Integer in an Array
-36. (1493) Longest Subarray of 1's After Deleting One Element
-37. (1504) Count Submatrices With All Ones
-38. (1518) Water Bottles
-39. (1695) Maximum Erasure Value
-40. (1717) Maximum Score From Removing Substrings
-41. (1733) Minimum Number of People to Teach
-42. (1751) Maximum Number of Events That Can Be Attended II
-43. (1792) Maximum Average Pass Ratio
-44. (1865) Finding Pairs With a Certain Sum
-45. (1900) The Earliest and Latest Rounds Where Players Compete
-46. (1935) Maximum Number of Words You Can Type
-47. (1948) Delete Duplicate Folders in System
-48. (1957) Delete Characters to Make Fancy String
-49. (2106) Maximum Fruits Harvested After at Most K Steps
-50. (2163) Minimum Difference in Sums After Removal of Elements
-51. (2197) Replace Non-Coprime Numbers in Array
-52. (2210) Count Hiils and Valley in an array
-53. (2264) Largest 3-Same-Digit Number in String
-54. (2322) Minimum Score After Removals on a Tree
-55. (2327) Number of People Aware of a Secret
-56. (2348) Number of Zero-Filled Subarrays
-57. (2402) Meeting Rooms III
-58. (2410) Maximum Matching of Players With Trainers
-59. (2438) Range Product Queries of Powers
-60. (2561) Rearranging Fruits
-61. (2749) Minimum Operations to Make the Integer Zero
-62. (2787) Ways to Express an Integer as Sum of Powers
-63. (3000) Maximum Area of Longest Diagonal Rectangle
-64. (3021) Alice and Bob Playing Flower Game
-65. (3025) Find the Number of Ways to Place People I
-66. (3027) Find the Number of Ways to Place People II
-67. (3100) Water Bottles II
-68. (3136) Valid Word
-69. (3195) Find the Minimum Area to Cover All Ones I
-70. (3197) Find the Minimum Area to Cover All Ones II
-71. (3201) Find the Maximum Length of Valid Subsequence I
-72. (3202) Find the Maximum Length of Valid Subsequence II
+36. (1488) Avoid Flood in the City
+37. (1493) Longest Subarray of 1's After Deleting One Element
+38. (1504) Count Submatrices With All Ones
+39. (1518) Water Bottles
+40. (1695) Maximum Erasure Value
+41. (1717) Maximum Score From Removing Substrings
+42. (1733) Minimum Number of People to Teach
+43. (1751) Maximum Number of Events That Can Be Attended II
+44. (1792) Maximum Average Pass Ratio
+45. (1865) Finding Pairs With a Certain Sum
+46. (1900) The Earliest and Latest Rounds Where Players Compete
+47. (1935) Maximum Number of Words You Can Type
+48. (1948) Delete Duplicate Folders in System
+49. (1957) Delete Characters to Make Fancy String
+50. (2106) Maximum Fruits Harvested After at Most K Steps
+51. (2163) Minimum Difference in Sums After Removal of Elements
+52. (2197) Replace Non-Coprime Numbers in Array
+53. (2210) Count Hiils and Valley in an array
+54. (2264) Largest 3-Same-Digit Number in String
+55. (2322) Minimum Score After Removals on a Tree
+56. (2327) Number of People Aware of a Secret
+57. (2348) Number of Zero-Filled Subarrays
+58. (2402) Meeting Rooms III
+59. (2410) Maximum Matching of Players With Trainers
+60. (2438) Range Product Queries of Powers
+61. (2561) Rearranging Fruits
+62. (2749) Minimum Operations to Make the Integer Zero
+63. (2787) Ways to Express an Integer as Sum of Powers
+64. (3000) Maximum Area of Longest Diagonal Rectangle
+65. (3021) Alice and Bob Playing Flower Game
+66. (3025) Find the Number of Ways to Place People I
+67. (3027) Find the Number of Ways to Place People II
+68. (3100) Water Bottles II
+69. (3136) Valid Word
+70. (3195) Find the Minimum Area to Cover All Ones I
+71. (3197) Find the Minimum Area to Cover All Ones II
+72. (3201) Find the Maximum Length of Valid Subsequence I
+73. (3202) Find the Maximum Length of Valid Subsequence II
 71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 70. (3307) Find the K-th Character in String Game II
 71. (3330) Find the Original Typed String I
