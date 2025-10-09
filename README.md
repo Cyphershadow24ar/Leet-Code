@@ -89,9 +89,10 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 79. (3479) Fruits Into Baskets III
 80. (3480) Maximize Subarrays After Removing One Conflicting Pair
 67. (3487) Maximum Unique Subarray Sum After Deletion
-68. (3495) Minimum Operations to Make Array Elements Zero
-69. (3516) Find Closest Person
-70. (3541) Find Most Frequent Vowel and Consonant
+68. (3494) Find the Minimum Amount of Time to Brew Potions
+69. (3495) Minimum Operations to Make Array Elements Zero
+70. (3516) Find Closest Person
+71. (3541) Find Most Frequent Vowel and Consonant
 
 
 
