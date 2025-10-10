@@ -72,10 +72,11 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 68. (3027) Find the Number of Ways to Place People II
 69. (3100) Water Bottles II
 70. (3136) Valid Word
-71. (3195) Find the Minimum Area to Cover All Ones I
-72. (3197) Find the Minimum Area to Cover All Ones II
-73. (3201) Find the Maximum Length of Valid Subsequence I
-74. (3202) Find the Maximum Length of Valid Subsequence II
+71. (3147) Taking Maximum Energy From the Mystic Dungeon
+72. (3195) Find the Minimum Area to Cover All Ones I
+73. (3197) Find the Minimum Area to Cover All Ones II
+74. (3201) Find the Maximum Length of Valid Subsequence I
+75. (3202) Find the Maximum Length of Valid Subsequence II
 71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 70. (3307) Find the K-th Character in String Game II
 71. (3330) Find the Original Typed String I
