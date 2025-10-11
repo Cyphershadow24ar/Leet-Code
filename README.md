@@ -73,10 +73,11 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 69. (3100) Water Bottles II
 70. (3136) Valid Word
 71. (3147) Taking Maximum Energy From the Mystic Dungeon
-72. (3195) Find the Minimum Area to Cover All Ones I
-73. (3197) Find the Minimum Area to Cover All Ones II
-74. (3201) Find the Maximum Length of Valid Subsequence I
-75. (3202) Find the Maximum Length of Valid Subsequence II
+72. (3186) Maximum Total Damage With Spell Casting
+73. (3195) Find the Minimum Area to Cover All Ones I
+74. (3197) Find the Minimum Area to Cover All Ones II
+75. (3201) Find the Maximum Length of Valid Subsequence I
+76. (3202) Find the Maximum Length of Valid Subsequence II
 71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 70. (3307) Find the K-th Character in String Game II
 71. (3330) Find the Original Typed String I
