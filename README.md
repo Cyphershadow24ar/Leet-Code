@@ -94,7 +94,8 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 68. (3494) Find the Minimum Amount of Time to Brew Potions
 69. (3495) Minimum Operations to Make Array Elements Zero
 70. (3516) Find Closest Person
-71. (3541) Find Most Frequent Vowel and Consonant
+71. (3539) Find Sum of Array Product of Magical Sequences
+72. (3541) Find Most Frequent Vowel and Consonant
 
 
 
