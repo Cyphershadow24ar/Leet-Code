@@ -56,28 +56,29 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 52. (2197) Replace Non-Coprime Numbers in Array
 53. (2210) Count Hiils and Valley in an array
 54. (2264) Largest 3-Same-Digit Number in String
-55. (2300) Successful of spells and portions
-56. (2322) Minimum Score After Removals on a Tree
-57. (2327) Number of People Aware of a Secret
-58. (2348) Number of Zero-Filled Subarrays
-59. (2402) Meeting Rooms III
-60. (2410) Maximum Matching of Players With Trainers
-61. (2438) Range Product Queries of Powers
-62. (2561) Rearranging Fruits
-63. (2749) Minimum Operations to Make the Integer Zero
-64. (2787) Ways to Express an Integer as Sum of Powers
-65. (3000) Maximum Area of Longest Diagonal Rectangle
-66. (3021) Alice and Bob Playing Flower Game
-67. (3025) Find the Number of Ways to Place People I
-68. (3027) Find the Number of Ways to Place People II
-69. (3100) Water Bottles II
-70. (3136) Valid Word
-71. (3147) Taking Maximum Energy From the Mystic Dungeon
-72. (3186) Maximum Total Damage With Spell Casting
-73. (3195) Find the Minimum Area to Cover All Ones I
-74. (3197) Find the Minimum Area to Cover All Ones II
-75. (3201) Find the Maximum Length of Valid Subsequence I
-76. (3202) Find the Maximum Length of Valid Subsequence II
+55. (2273) Find Resultant Array After Removing Anagrams
+56. (2300) Successful of spells and portions
+57. (2322) Minimum Score After Removals on a Tree
+58. (2327) Number of People Aware of a Secret
+59. (2348) Number of Zero-Filled Subarrays
+60. (2402) Meeting Rooms III
+61. (2410) Maximum Matching of Players With Trainers
+62. (2438) Range Product Queries of Powers
+63. (2561) Rearranging Fruits
+64. (2749) Minimum Operations to Make the Integer Zero
+65. (2787) Ways to Express an Integer as Sum of Powers
+66. (3000) Maximum Area of Longest Diagonal Rectangle
+67. (3021) Alice and Bob Playing Flower Game
+68. (3025) Find the Number of Ways to Place People I
+69. (3027) Find the Number of Ways to Place People II
+70. (3100) Water Bottles II
+71. (3136) Valid Word
+72. (3147) Taking Maximum Energy From the Mystic Dungeon
+73. (3186) Maximum Total Damage With Spell Casting
+74. (3195) Find the Minimum Area to Cover All Ones I
+75. (3197) Find the Minimum Area to Cover All Ones II
+76. (3201) Find the Maximum Length of Valid Subsequence I
+77. (3202) Find the Maximum Length of Valid Subsequence II
 71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 70. (3307) Find the K-th Character in String Game II
 71. (3330) Find the Original Typed String I
