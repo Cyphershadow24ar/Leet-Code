@@ -69,17 +69,18 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 65. (2749) Minimum Operations to Make the Integer Zero
 66. (2787) Ways to Express an Integer as Sum of Powers
 67. (3000) Maximum Area of Longest Diagonal Rectangle
-68. (3021) Alice and Bob Playing Flower Game
-69. (3025) Find the Number of Ways to Place People I
-70. (3027) Find the Number of Ways to Place People II
-71. (3100) Water Bottles II
-72. (3136) Valid Word
-73. (3147) Taking Maximum Energy From the Mystic Dungeon
-74. (3186) Maximum Total Damage With Spell Casting
-75. (3195) Find the Minimum Area to Cover All Ones I
-76. (3197) Find the Minimum Area to Cover All Ones II
-77. (3201) Find the Maximum Length of Valid Subsequence I
-78. (3202) Find the Maximum Length of Valid Subsequence II
+68. (3003) Maximize the Number of Partitions After Operations
+69. (3021) Alice and Bob Playing Flower Game
+70. (3025) Find the Number of Ways to Place People I
+71. (3027) Find the Number of Ways to Place People II
+72. (3100) Water Bottles II
+73. (3136) Valid Word
+74. (3147) Taking Maximum Energy From the Mystic Dungeon
+75. (3186) Maximum Total Damage With Spell Casting
+76. (3195) Find the Minimum Area to Cover All Ones I
+77. (3197) Find the Minimum Area to Cover All Ones II
+78. (3201) Find the Maximum Length of Valid Subsequence I
+79. (3202) Find the Maximum Length of Valid Subsequence II
 71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 70. (3307) Find the K-th Character in String Game II
 71. (3330) Find the Original Typed String I
