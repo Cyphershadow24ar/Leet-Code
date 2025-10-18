@@ -88,13 +88,14 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 73. (3349) Adjacent Increasing Subarrays Detection I
 74. (3350) Adjacent Increasing Subarrays Detection II
 75. (3363) Find the Maximum Number of Fruits Collected
-76. (3439) Reschedule Meetings for Maximum Free Time I
-77. (3440) Reschedule Meetings for Maximum Free Time II
-78. (3446) Sort Matrix by Diagonals
-79. (3459) Length of Longest V-Shaped Diagonal Segment
-80. (3477) Fruits Into Baskets II
-81. (3479) Fruits Into Baskets III
-82. (3480) Maximize Subarrays After Removing One Conflicting Pair
+76. (3397) Maximum Number of Distinct Elements After Operations
+77. (3439) Reschedule Meetings for Maximum Free Time I
+78. (3440) Reschedule Meetings for Maximum Free Time II
+79. (3446) Sort Matrix by Diagonals
+80. (3459) Length of Longest V-Shaped Diagonal Segment
+81. (3477) Fruits Into Baskets II
+82. (3479) Fruits Into Baskets III
+83. (3480) Maximize Subarrays After Removing One Conflicting Pair
 67. (3487) Maximum Unique Subarray Sum After Deletion
 68. (3494) Find the Minimum Amount of Time to Brew Potions
 69. (3495) Minimum Operations to Make Array Elements Zero
