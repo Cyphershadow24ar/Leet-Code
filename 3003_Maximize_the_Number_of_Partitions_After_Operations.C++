@@ -5,54 +5,60 @@
 class Solution {
 public:
     int maxPartitionsAfterOperations(string s, int k) {
-        int n = s.size();
-        int basePartitions = countPartitions(s, -1, k);
-        int maxPartitions = basePartitions;
-        
-        for (int i = 0; i < n; i++) {
-            int partitions = countPartitions(s, i, k);
-            if (partitions > maxPartitions) {
-                maxPartitions = partitions;
-            }
-        }
-        return maxPartitions;
-    }
-    
-private:
-    int countPartitions(string s, int changeIndex, int k) {
-        int partitions = 0;
-        int currentDistinct = 0;
-        vector<int> freq(26, 0);
-        
-        for (int j = 0; j < s.size(); j++) {
-            if (j == changeIndex) {
-                currentDistinct++;
-            } else {
-                int idx = s[j] - 'a';
-                if (freq[idx] == 0) {
-                    currentDistinct++;
-                }
-                freq[idx]++;
-            }
-            
-            if (currentDistinct > k) {
-                partitions++;
-                currentDistinct = 0;
-                fill(freq.begin(), freq.end(), 0);
-                
-                if (j == changeIndex) {
-                    currentDistinct = 1;
+        int n = s.length();
+        vector<vector<int>> left(n, vector<int>(3)), right(n, vector<int>(3));
+        int num = 0, mask = 0, count = 0;
+        for (int i = 0; i < n - 1; i++) {
+            int binary = 1 << (s[i] - 'a');
+            if (!(mask & binary)) {
+                count++;
+                if (count <= k) {
+                    mask |= binary;
                 } else {
-                    int idx = s[j] - 'a';
-                    freq[idx] = 1;
-                    currentDistinct = 1;
+                    num++;
+                    mask = binary;
+                    count = 1;
                 }
             }
+            left[i + 1][0] = num;
+            left[i + 1][1] = mask;
+            left[i + 1][2] = count;
         }
-        
-        if (currentDistinct > 0) {
-            partitions++;
+
+        num = 0, mask = 0, count = 0;
+        for (int i = n - 1; i > 0; i--) {
+            int binary = 1 << (s[i] - 'a');
+            if (!(mask & binary)) {
+                count++;
+                if (count <= k) {
+                    mask |= binary;
+                } else {
+                    num++;
+                    mask = binary;
+                    count = 1;
+                }
+            }
+            right[i - 1][0] = num;
+            right[i - 1][1] = mask;
+            right[i - 1][2] = count;
         }
-        return partitions;
+
+        int Max = 0;
+        for (int i = 0; i < n; i++) {
+            int seg = left[i][0] + right[i][0] + 2;
+            int totMask = left[i][1] | right[i][1];
+            int totCount = 0;
+            while (totMask) {
+                totMask = totMask & (totMask - 1);
+                totCount++;
+            }
+            if (left[i][2] == k && right[i][2] == k && totCount < 26) {
+                seg++;
+            } else if (min(totCount + 1, 26) <= k) {
+                seg--;
+            }
+            Max = max(Max, seg);
+        }
+        return Max;
     }
 };
