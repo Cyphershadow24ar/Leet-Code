@@ -41,46 +41,47 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 37. (1493) Longest Subarray of 1's After Deleting One Element
 38. (1504) Count Submatrices With All Ones
 39. (1518) Water Bottles
-40. (1695) Maximum Erasure Value
-41. (1717) Maximum Score From Removing Substrings
-42. (1733) Minimum Number of People to Teach
-43. (1751) Maximum Number of Events That Can Be Attended II
-44. (1792) Maximum Average Pass Ratio
-45. (1865) Finding Pairs With a Certain Sum
-46. (1900) The Earliest and Latest Rounds Where Players Compete
-47. (1935) Maximum Number of Words You Can Type
-48. (1948) Delete Duplicate Folders in System
-49. (1957) Delete Characters to Make Fancy String
-50. (2106) Maximum Fruits Harvested After at Most K Steps
-51. (2163) Minimum Difference in Sums After Removal of Elements
-52. (2197) Replace Non-Coprime Numbers in Array
-53. (2210) Count Hiils and Valley in an array
-54. (2264) Largest 3-Same-Digit Number in String
-55. (2273) Find Resultant Array After Removing Anagrams
-56. (2300) Successful of spells and portions
-57. (2322) Minimum Score After Removals on a Tree
-58. (2327) Number of People Aware of a Secret
-59. (2348) Number of Zero-Filled Subarrays
-60. (2402) Meeting Rooms III
-61. (2410) Maximum Matching of Players With Trainers
-62. (2438) Range Product Queries of Powers
-63. (2561) Rearranging Fruits
-64. (2598) Smallest Missing Non-negative Integer After Operations
-65. (2749) Minimum Operations to Make the Integer Zero
-66. (2787) Ways to Express an Integer as Sum of Powers
-67. (3000) Maximum Area of Longest Diagonal Rectangle
-68. (3003) Maximize the Number of Partitions After Operations
-69. (3021) Alice and Bob Playing Flower Game
-70. (3025) Find the Number of Ways to Place People I
-71. (3027) Find the Number of Ways to Place People II
-72. (3100) Water Bottles II
-73. (3136) Valid Word
-74. (3147) Taking Maximum Energy From the Mystic Dungeon
-75. (3186) Maximum Total Damage With Spell Casting
-76. (3195) Find the Minimum Area to Cover All Ones I
-77. (3197) Find the Minimum Area to Cover All Ones II
-78. (3201) Find the Maximum Length of Valid Subsequence I
-79. (3202) Find the Maximum Length of Valid Subsequence II
+40. (1625) Lexicographically Smallest String After Applying Operations 
+41. (1695) Maximum Erasure Value
+42. (1717) Maximum Score From Removing Substrings
+43. (1733) Minimum Number of People to Teach
+44. (1751) Maximum Number of Events That Can Be Attended II
+45. (1792) Maximum Average Pass Ratio
+46. (1865) Finding Pairs With a Certain Sum
+47. (1900) The Earliest and Latest Rounds Where Players Compete
+48. (1935) Maximum Number of Words You Can Type
+49. (1948) Delete Duplicate Folders in System
+50. (1957) Delete Characters to Make Fancy String
+51. (2106) Maximum Fruits Harvested After at Most K Steps
+52. (2163) Minimum Difference in Sums After Removal of Elements
+53. (2197) Replace Non-Coprime Numbers in Array
+54. (2210) Count Hiils and Valley in an array
+55. (2264) Largest 3-Same-Digit Number in String
+56. (2273) Find Resultant Array After Removing Anagrams
+57. (2300) Successful of spells and portions
+58. (2322) Minimum Score After Removals on a Tree
+59. (2327) Number of People Aware of a Secret
+60. (2348) Number of Zero-Filled Subarrays
+61. (2402) Meeting Rooms III
+62. (2410) Maximum Matching of Players With Trainers
+63. (2438) Range Product Queries of Powers
+64. (2561) Rearranging Fruits
+65. (2598) Smallest Missing Non-negative Integer After Operations
+66. (2749) Minimum Operations to Make the Integer Zero
+67. (2787) Ways to Express an Integer as Sum of Powers
+68. (3000) Maximum Area of Longest Diagonal Rectangle
+69. (3003) Maximize the Number of Partitions After Operations
+70. (3021) Alice and Bob Playing Flower Game
+71. (3025) Find the Number of Ways to Place People I
+72. (3027) Find the Number of Ways to Place People II
+73. (3100) Water Bottles II
+74. (3136) Valid Word
+75. (3147) Taking Maximum Energy From the Mystic Dungeon
+76. (3186) Maximum Total Damage With Spell Casting
+77. (3195) Find the Minimum Area to Cover All Ones I
+78. (3197) Find the Minimum Area to Cover All Ones II
+79. (3201) Find the Maximum Length of Valid Subsequence I
+80. (3202) Find the Maximum Length of Valid Subsequence II
 71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 70. (3307) Find the K-th Character in String Game II
 71. (3330) Find the Original Typed String I
