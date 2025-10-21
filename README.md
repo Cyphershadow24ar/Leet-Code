@@ -87,17 +87,18 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 70. (3307) Find the K-th Character in String Game II
 71. (3330) Find the Original Typed String I
 72. (3333) Find the Original Typed String II
-73. (3349) Adjacent Increasing Subarrays Detection I
-74. (3350) Adjacent Increasing Subarrays Detection II
-75. (3363) Find the Maximum Number of Fruits Collected
-76. (3397) Maximum Number of Distinct Elements After Operations
-77. (3439) Reschedule Meetings for Maximum Free Time I
-78. (3440) Reschedule Meetings for Maximum Free Time II
-79. (3446) Sort Matrix by Diagonals
-80. (3459) Length of Longest V-Shaped Diagonal Segment
-81. (3477) Fruits Into Baskets II
-82. (3479) Fruits Into Baskets III
-83. (3480) Maximize Subarrays After Removing One Conflicting Pair
+73. (3346) Maximum Frequency of an Element After Performing Operations I
+74. (3349) Adjacent Increasing Subarrays Detection I
+75. (3350) Adjacent Increasing Subarrays Detection II
+76. (3363) Find the Maximum Number of Fruits Collected
+77. (3397) Maximum Number of Distinct Elements After Operations
+78. (3439) Reschedule Meetings for Maximum Free Time I
+79. (3440) Reschedule Meetings for Maximum Free Time II
+80. (3446) Sort Matrix by Diagonals
+81. (3459) Length of Longest V-Shaped Diagonal Segment
+82. (3477) Fruits Into Baskets II
+83. (3479) Fruits Into Baskets III
+84. (3480) Maximize Subarrays After Removing One Conflicting Pair
 67. (3487) Maximum Unique Subarray Sum After Deletion
 68. (3494) Find the Minimum Amount of Time to Brew Potions
 69. (3495) Minimum Operations to Make Array Elements Zero
