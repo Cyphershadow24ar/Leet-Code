@@ -1,0 +1,19 @@
+// PORBLEM : (2011) Final Value of Variable After Performing Operations
+
+// SOLUTION :
+
+class Solution {
+public:
+    int finalValueAfterOperations(vector<string>& operations) {
+        int X = 0;  // start with 0
+        
+        for (string op : operations) {
+            if (op[1] == '+')  // both "++X" and "X++" have '+' at index 1
+                X++;
+            else                // "--X" or "X--"
+                X--;
+        }
+        
+        return X;  // final value
+    }
+};
