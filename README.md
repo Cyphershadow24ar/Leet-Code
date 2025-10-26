@@ -53,37 +53,38 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 49. (1948) Delete Duplicate Folders in System
 50. (1957) Delete Characters to Make Fancy String
 51. (2011) Final Value of Variable After Performing Operations
-52. (2048) Next Greater Numerically Balanced Number
-53. (2106) Maximum Fruits Harvested After at Most K Steps
-54. (2163) Minimum Difference in Sums After Removal of Elements
-55. (2197) Replace Non-Coprime Numbers in Array
-56. (2210) Count Hiils and Valley in an array
-57. (2264) Largest 3-Same-Digit Number in String
-58. (2273) Find Resultant Array After Removing Anagrams
-59. (2300) Successful of spells and portions
-60. (2322) Minimum Score After Removals on a Tree
-61. (2327) Number of People Aware of a Secret
-62. (2348) Number of Zero-Filled Subarrays
-63. (2402) Meeting Rooms III
-64. (2410) Maximum Matching of Players With Trainers
-65. (2438) Range Product Queries of Powers
-66. (2561) Rearranging Fruits
-67. (2598) Smallest Missing Non-negative Integer After Operations
-68. (2749) Minimum Operations to Make the Integer Zero
-69. (2787) Ways to Express an Integer as Sum of Powers
-70. (3000) Maximum Area of Longest Diagonal Rectangle
-71. (3003) Maximize the Number of Partitions After Operations
-72. (3021) Alice and Bob Playing Flower Game
-73. (3025) Find the Number of Ways to Place People I
-74. (3027) Find the Number of Ways to Place People II
-75. (3100) Water Bottles II
-76. (3136) Valid Word
-77. (3147) Taking Maximum Energy From the Mystic Dungeon
-78. (3186) Maximum Total Damage With Spell Casting
-79. (3195) Find the Minimum Area to Cover All Ones I
-80. (3197) Find the Minimum Area to Cover All Ones II
-81. (3201) Find the Maximum Length of Valid Subsequence I
-82. (3202) Find the Maximum Length of Valid Subsequence II
+52. (2043) Simple Bank System
+53. (2048) Next Greater Numerically Balanced Number
+54. (2106) Maximum Fruits Harvested After at Most K Steps
+55. (2163) Minimum Difference in Sums After Removal of Elements
+56. (2197) Replace Non-Coprime Numbers in Array
+57. (2210) Count Hiils and Valley in an array
+58. (2264) Largest 3-Same-Digit Number in String
+59. (2273) Find Resultant Array After Removing Anagrams
+60. (2300) Successful of spells and portions
+61. (2322) Minimum Score After Removals on a Tree
+62. (2327) Number of People Aware of a Secret
+63. (2348) Number of Zero-Filled Subarrays
+64. (2402) Meeting Rooms III
+65. (2410) Maximum Matching of Players With Trainers
+66. (2438) Range Product Queries of Powers
+67. (2561) Rearranging Fruits
+68. (2598) Smallest Missing Non-negative Integer After Operations
+69. (2749) Minimum Operations to Make the Integer Zero
+70. (2787) Ways to Express an Integer as Sum of Powers
+71. (3000) Maximum Area of Longest Diagonal Rectangle
+72. (3003) Maximize the Number of Partitions After Operations
+73. (3021) Alice and Bob Playing Flower Game
+74. (3025) Find the Number of Ways to Place People I
+75. (3027) Find the Number of Ways to Place People II
+76. (3100) Water Bottles II
+77. (3136) Valid Word
+78. (3147) Taking Maximum Energy From the Mystic Dungeon
+79. (3186) Maximum Total Damage With Spell Casting
+80. (3195) Find the Minimum Area to Cover All Ones I
+81. (3197) Find the Minimum Area to Cover All Ones II
+82. (3201) Find the Maximum Length of Valid Subsequence I
+83. (3202) Find the Maximum Length of Valid Subsequence II
 71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 70. (3307) Find the K-th Character in String Game II
 71. (3330) Find the Original Typed String I
