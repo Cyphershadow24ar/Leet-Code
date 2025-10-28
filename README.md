@@ -94,16 +94,17 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 74. (3347) Maximum Frequency of an Element After Performing Operations II
 75. (3349) Adjacent Increasing Subarrays Detection I
 76. (3350) Adjacent Increasing Subarrays Detection II
-77. (3363) Find the Maximum Number of Fruits Collected
-78. (3397) Maximum Number of Distinct Elements After Operations
-79. (3439) Reschedule Meetings for Maximum Free Time I
-80. (3440) Reschedule Meetings for Maximum Free Time II
-81. (3446) Sort Matrix by Diagonals
-82. (3459) Length of Longest V-Shaped Diagonal Segment
-83. (3461) Check If Digits Are Equal in String After Operations I
-84. (3477) Fruits Into Baskets II
-85. (3479) Fruits Into Baskets III
-86. (3480) Maximize Subarrays After Removing One Conflicting Pair
+77. (3354) Make Array Elements Equal to Zero
+78. (3363) Find the Maximum Number of Fruits Collected
+79. (3397) Maximum Number of Distinct Elements After Operations
+80. (3439) Reschedule Meetings for Maximum Free Time I
+81. (3440) Reschedule Meetings for Maximum Free Time II
+82. (3446) Sort Matrix by Diagonals
+83. (3459) Length of Longest V-Shaped Diagonal Segment
+84. (3461) Check If Digits Are Equal in String After Operations I
+85. (3477) Fruits Into Baskets II
+86. (3479) Fruits Into Baskets III
+87. (3480) Maximize Subarrays After Removing One Conflicting Pair
 67. (3487) Maximum Unique Subarray Sum After Deletion
 68. (3494) Find the Minimum Amount of Time to Brew Potions
 69. (3495) Minimum Operations to Make Array Elements Zero
