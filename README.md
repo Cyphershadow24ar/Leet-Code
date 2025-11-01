@@ -87,7 +87,8 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 83. (3197) Find the Minimum Area to Cover All Ones II
 84. (3201) Find the Maximum Length of Valid Subsequence I
 85. (3202) Find the Maximum Length of Valid Subsequence II
-86. (3289) The Two Sneaky Numbers of Digitville
+86. (3217) Delete Nodes From Linked List Present in Array
+87. (3289) The Two Sneaky Numbers of Digitville
 71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 70. (3307) Find the K-th Character in String Game II
 71. (3330) Find the Original Typed String I
