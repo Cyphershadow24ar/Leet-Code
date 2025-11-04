@@ -93,24 +93,25 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 89. (3289) The Two Sneaky Numbers of Digitville
 71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 70. (3307) Find the K-th Character in String Game II
-71. (3330) Find the Original Typed String I
-72. (3333) Find the Original Typed String II
-73. (3346) Maximum Frequency of an Element After Performing Operations I
-74. (3347) Maximum Frequency of an Element After Performing Operations II
-75. (3349) Adjacent Increasing Subarrays Detection I
-76. (3350) Adjacent Increasing Subarrays Detection II
-77. (3354) Make Array Elements Equal to Zero
-78. (3363) Find the Maximum Number of Fruits Collected
-79. (3370) Smallest Number With All Set Bits
-80. (3397) Maximum Number of Distinct Elements After Operations
-81. (3439) Reschedule Meetings for Maximum Free Time I
-82. (3440) Reschedule Meetings for Maximum Free Time II
-83. (3446) Sort Matrix by Diagonals
-84. (3459) Length of Longest V-Shaped Diagonal Segment
-85. (3461) Check If Digits Are Equal in String After Operations I
-86. (3477) Fruits Into Baskets II
-87. (3479) Fruits Into Baskets III
-88. (3480) Maximize Subarrays After Removing One Conflicting Pair
+71. (3318) Find X-Sum of All K-Long Subarrays I
+72. (3330) Find the Original Typed String I
+73. (3333) Find the Original Typed String II
+74. (3346) Maximum Frequency of an Element After Performing Operations I
+75. (3347) Maximum Frequency of an Element After Performing Operations II
+76. (3349) Adjacent Increasing Subarrays Detection I
+77. (3350) Adjacent Increasing Subarrays Detection II
+78. (3354) Make Array Elements Equal to Zero
+79. (3363) Find the Maximum Number of Fruits Collected
+80. (3370) Smallest Number With All Set Bits
+81. (3397) Maximum Number of Distinct Elements After Operations
+82. (3439) Reschedule Meetings for Maximum Free Time I
+83. (3440) Reschedule Meetings for Maximum Free Time II
+84. (3446) Sort Matrix by Diagonals
+85. (3459) Length of Longest V-Shaped Diagonal Segment
+86. (3461) Check If Digits Are Equal in String After Operations I
+87. (3477) Fruits Into Baskets II
+88. (3479) Fruits Into Baskets III
+89. (3480) Maximize Subarrays After Removing One Conflicting Pair
 67. (3487) Maximum Unique Subarray Sum After Deletion
 68. (3494) Find the Minimum Amount of Time to Brew Potions
 69. (3495) Minimum Operations to Make Array Elements Zero
