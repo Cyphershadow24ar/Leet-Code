@@ -118,6 +118,7 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 70. (3516) Find Closest Person
 71. (3539) Find Sum of Array Product of Magical Sequences
 72. (3541) Find Most Frequent Vowel and Consonant
+73. (3607) Power Grid Maintenance 
 
 
 
