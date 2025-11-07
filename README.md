@@ -72,25 +72,26 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 68. (2402) Meeting Rooms III
 69. (2410) Maximum Matching of Players With Trainers
 70. (2438) Range Product Queries of Powers
-71. (2561) Rearranging Fruits
-72. (2598) Smallest Missing Non-negative Integer After Operations
-73. (2749) Minimum Operations to Make the Integer Zero
-74. (2787) Ways to Express an Integer as Sum of Powers
-75. (3000) Maximum Area of Longest Diagonal Rectangle
-76. (3003) Maximize the Number of Partitions After Operations
-77. (3021) Alice and Bob Playing Flower Game
-78. (3025) Find the Number of Ways to Place People I
-79. (3027) Find the Number of Ways to Place People II
-80. (3100) Water Bottles II
-81. (3136) Valid Word
-82. (3147) Taking Maximum Energy From the Mystic Dungeon
-83. (3186) Maximum Total Damage With Spell Casting
-84. (3195) Find the Minimum Area to Cover All Ones I
-85. (3197) Find the Minimum Area to Cover All Ones II
-86. (3201) Find the Maximum Length of Valid Subsequence I
-87. (3202) Find the Maximum Length of Valid Subsequence II
-88. (3217) Delete Nodes From Linked List Present in Array
-89. (3289) The Two Sneaky Numbers of Digitville
+71. (2528) Maximize the minimum Powered City
+72. (2561) Rearranging Fruits
+73. (2598) Smallest Missing Non-negative Integer After Operations
+74. (2749) Minimum Operations to Make the Integer Zero
+75. (2787) Ways to Express an Integer as Sum of Powers
+76. (3000) Maximum Area of Longest Diagonal Rectangle
+77. (3003) Maximize the Number of Partitions After Operations
+78. (3021) Alice and Bob Playing Flower Game
+79. (3025) Find the Number of Ways to Place People I
+80. (3027) Find the Number of Ways to Place People II
+81. (3100) Water Bottles II
+82. (3136) Valid Word
+83. (3147) Taking Maximum Energy From the Mystic Dungeon
+84. (3186) Maximum Total Damage With Spell Casting
+85. (3195) Find the Minimum Area to Cover All Ones I
+86. (3197) Find the Minimum Area to Cover All Ones II
+87. (3201) Find the Maximum Length of Valid Subsequence I
+88. (3202) Find the Maximum Length of Valid Subsequence II
+89. (3217) Delete Nodes From Linked List Present in Array
+90. (3289) The Two Sneaky Numbers of Digitville
 71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 70. (3307) Find the K-th Character in String Game II
 71. (3318) Find X-Sum of All K-Long Subarrays I
