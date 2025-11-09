@@ -61,38 +61,39 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 57. (2106) Maximum Fruits Harvested After at Most K Steps
 58. (2125) Number of Laser Beams in a Bank
 59. (2163) Minimum Difference in Sums After Removal of Elements
-60. (2197) Replace Non-Coprime Numbers in Array
-61. (2210) Count Hiils and Valley in an array
-62. (2257) Count Unguarded Cells in the Gird
-63. (2264) Largest 3-Same-Digit Number in String
-64. (2273) Find Resultant Array After Removing Anagrams
-65. (2300) Successful of spells and portions
-66. (2322) Minimum Score After Removals on a Tree
-67. (2327) Number of People Aware of a Secret
-68. (2348) Number of Zero-Filled Subarrays
-69. (2402) Meeting Rooms III
-70. (2410) Maximum Matching of Players With Trainers
-71. (2438) Range Product Queries of Powers
-72. (2528) Maximize the minimum Powered City
-73. (2561) Rearranging Fruits
-74. (2598) Smallest Missing Non-negative Integer After Operations
-75. (2749) Minimum Operations to Make the Integer Zero
-76. (2787) Ways to Express an Integer as Sum of Powers
-77. (3000) Maximum Area of Longest Diagonal Rectangle
-78. (3003) Maximize the Number of Partitions After Operations
-79. (3021) Alice and Bob Playing Flower Game
-80. (3025) Find the Number of Ways to Place People I
-81. (3027) Find the Number of Ways to Place People II
-82. (3100) Water Bottles II
-83. (3136) Valid Word
-84. (3147) Taking Maximum Energy From the Mystic Dungeon
-85. (3186) Maximum Total Damage With Spell Casting
-86. (3195) Find the Minimum Area to Cover All Ones I
-87. (3197) Find the Minimum Area to Cover All Ones II
-88. (3201) Find the Maximum Length of Valid Subsequence I
-89. (3202) Find the Maximum Length of Valid Subsequence II
-90. (3217) Delete Nodes From Linked List Present in Array
-91. (3289) The Two Sneaky Numbers of Digitville
+60. (2169) Count Operations to Obtain Zero
+61. (2197) Replace Non-Coprime Numbers in Array
+62. (2210) Count Hiils and Valley in an array
+63. (2257) Count Unguarded Cells in the Gird
+64. (2264) Largest 3-Same-Digit Number in String
+65. (2273) Find Resultant Array After Removing Anagrams
+66. (2300) Successful of spells and portions
+67. (2322) Minimum Score After Removals on a Tree
+68. (2327) Number of People Aware of a Secret
+69. (2348) Number of Zero-Filled Subarrays
+70. (2402) Meeting Rooms III
+71. (2410) Maximum Matching of Players With Trainers
+72. (2438) Range Product Queries of Powers
+73. (2528) Maximize the minimum Powered City
+74. (2561) Rearranging Fruits
+75. (2598) Smallest Missing Non-negative Integer After Operations
+76. (2749) Minimum Operations to Make the Integer Zero
+77. (2787) Ways to Express an Integer as Sum of Powers
+78. (3000) Maximum Area of Longest Diagonal Rectangle
+79. (3003) Maximize the Number of Partitions After Operations
+80. (3021) Alice and Bob Playing Flower Game
+81. (3025) Find the Number of Ways to Place People I
+82. (3027) Find the Number of Ways to Place People II
+83. (3100) Water Bottles II
+84. (3136) Valid Word
+85. (3147) Taking Maximum Energy From the Mystic Dungeon
+86. (3186) Maximum Total Damage With Spell Casting
+87. (3195) Find the Minimum Area to Cover All Ones I
+88. (3197) Find the Minimum Area to Cover All Ones II
+89. (3201) Find the Maximum Length of Valid Subsequence I
+90. (3202) Find the Maximum Length of Valid Subsequence II
+91. (3217) Delete Nodes From Linked List Present in Array
+92. (3289) The Two Sneaky Numbers of Digitville
 71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 70. (3307) Find the K-th Character in String Game II
 71. (3318) Find X-Sum of All K-Long Subarrays I
