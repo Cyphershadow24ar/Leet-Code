@@ -20,7 +20,7 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 16. (342) Power of Four
 17. (407) Trapping Rain Water II
 18. (417) Pacific Atlantic Water Flow
-19. (474)_Ones_and_Zeroes
+19. (474) Ones and Zeroes
 20. (498) Diagonal Traverse
 21. (594) Longest Harmonious Subsequence
 22. (679) 24 Game
