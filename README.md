@@ -78,23 +78,24 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 73. (2528) Maximize the minimum Powered City
 74. (2561) Rearranging Fruits
 75. (2598) Smallest Missing Non-negative Integer After Operations
-76. (2749) Minimum Operations to Make the Integer Zero
-77. (2787) Ways to Express an Integer as Sum of Powers
-78. (3000) Maximum Area of Longest Diagonal Rectangle
-79. (3003) Maximize the Number of Partitions After Operations
-80. (3021) Alice and Bob Playing Flower Game
-81. (3025) Find the Number of Ways to Place People I
-82. (3027) Find the Number of Ways to Place People II
-83. (3100) Water Bottles II
-84. (3136) Valid Word
-85. (3147) Taking Maximum Energy From the Mystic Dungeon
-86. (3186) Maximum Total Damage With Spell Casting
-87. (3195) Find the Minimum Area to Cover All Ones I
-88. (3197) Find the Minimum Area to Cover All Ones II
-89. (3201) Find the Maximum Length of Valid Subsequence I
-90. (3202) Find the Maximum Length of Valid Subsequence II
-91. (3217) Delete Nodes From Linked List Present in Array
-92. (3289) The Two Sneaky Numbers of Digitville
+76. (2654) Minimum Number of Operations to Make All Array Elements Equal to 1
+77. (2749) Minimum Operations to Make the Integer Zero
+78. (2787) Ways to Express an Integer as Sum of Powers
+79. (3000) Maximum Area of Longest Diagonal Rectangle
+80. (3003) Maximize the Number of Partitions After Operations
+81. (3021) Alice and Bob Playing Flower Game
+82. (3025) Find the Number of Ways to Place People I
+83. (3027) Find the Number of Ways to Place People II
+84. (3100) Water Bottles II
+85. (3136) Valid Word
+86. (3147) Taking Maximum Energy From the Mystic Dungeon
+87. (3186) Maximum Total Damage With Spell Casting
+88. (3195) Find the Minimum Area to Cover All Ones I
+89. (3197) Find the Minimum Area to Cover All Ones II
+90. (3201) Find the Maximum Length of Valid Subsequence I
+91. (3202) Find the Maximum Length of Valid Subsequence II
+92. (3217) Delete Nodes From Linked List Present in Array
+93. (3289) The Two Sneaky Numbers of Digitville
 71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 70. (3307) Find the K-th Character in String Game II
 71. (3318) Find X-Sum of All K-Long Subarrays I
