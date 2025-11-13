@@ -95,7 +95,8 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 90. (3201) Find the Maximum Length of Valid Subsequence I
 91. (3202) Find the Maximum Length of Valid Subsequence II
 92. (3217) Delete Nodes From Linked List Present in Array
-93. (3289) The Two Sneaky Numbers of Digitville
+93. (3228) Maximum Number of Operations to Move Ones to the End
+94. (3289) The Two Sneaky Numbers of Digitville
 71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 70. (3307) Find the K-th Character in String Game II
 71. (3318) Find X-Sum of All K-Long Subarrays I
