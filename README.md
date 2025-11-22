@@ -90,13 +90,14 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 85. (3136) Valid Word
 86. (3147) Taking Maximum Energy From the Mystic Dungeon
 87. (3186) Maximum Total Damage With Spell Casting
-88. (3195) Find the Minimum Area to Cover All Ones I
-89. (3197) Find the Minimum Area to Cover All Ones II
-90. (3201) Find the Maximum Length of Valid Subsequence I
-91. (3202) Find the Maximum Length of Valid Subsequence II
-92. (3217) Delete Nodes From Linked List Present in Array
-93. (3228) Maximum Number of Operations to Move Ones to the End
-94. (3289) The Two Sneaky Numbers of Digitville
+88. (3190) Find Minimum Operations to Make All Elements Divisible by Three
+89. (3195) Find the Minimum Area to Cover All Ones I
+90. (3197) Find the Minimum Area to Cover All Ones II
+91. (3201) Find the Maximum Length of Valid Subsequence I
+92. (3202) Find the Maximum Length of Valid Subsequence II
+93. (3217) Delete Nodes From Linked List Present in Array
+94. (3228) Maximum Number of Operations to Move Ones to the End
+95. (3289) The Two Sneaky Numbers of Digitville
 71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 70. (3307) Find the K-th Character in String Game II
 71. (3318) Find X-Sum of All K-Long Subarrays I
