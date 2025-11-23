@@ -31,46 +31,47 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 27. (904) Fruit Into Baskets
 28. (966) Vowel Spellchecker
 29. (1233) Remove Sub-Folders from the Filesystem
-30. (1277) Count Square Submatrices with All Ones
-31. (1290) Convert Binary Number in a Linked List to Integer
-32. (1304) Find N Unique Integers Sum up to Zero
-33. (1317) Convert Integer to the Sum of Two No-Zero Integers
-34. (1323) Maximum 69 Number
-35. (1353) Maximum Number of Events That Can Be Attended
-36. (1394) Find Lucky Integer in an Array
-37. (1488) Avoid Flood in the City
-38. (1493) Longest Subarray of 1's After Deleting One Element
-39. (1504) Count Submatrices With All Ones
-40. (1518) Water Bottles
-41. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
-42. (1578) Minimum Time to Make Rope Colorful
-43. (1611) Minimum ONe bit Operations to Make intergers Zero
-44. (1625) Lexicographically Smallest String After Applying Operations 
-45. (1695) Maximum Erasure Value
-46. (1717) Maximum Score From Removing Substrings
-47. (1733) Minimum Number of People to Teach
-48. (1751) Maximum Number of Events That Can Be Attended II
-49. (1792) Maximum Average Pass Ratio
-50. (1865) Finding Pairs With a Certain Sum
-51. (1900) The Earliest and Latest Rounds Where Players Compete
-52. (1935) Maximum Number of Words You Can Type
-53. (1948) Delete Duplicate Folders in System
-54. (1957) Delete Characters to Make Fancy String
-55. (2011) Final Value of Variable After Performing Operations
-56. (2043) Simple Bank System
-57. (2048) Next Greater Numerically Balanced Number
-58. (2106) Maximum Fruits Harvested After at Most K Steps
-59. (2125) Number of Laser Beams in a Bank
-60. (2163) Minimum Difference in Sums After Removal of Elements
-61. (2169) Count Operations to Obtain Zero
-62. (2197) Replace Non-Coprime Numbers in Array
-63. (2210) Count Hiils and Valley in an array
-64. (2257) Count Unguarded Cells in the Gird
-65. (2264) Largest 3-Same-Digit Number in String
-66. (2273) Find Resultant Array After Removing Anagrams
-67. (2300) Successful of spells and portions
-68. (2322) Minimum Score After Removals on a Tree
-69. (2327) Number of People Aware of a Secret
+30. (1262) Greatest Sum Divisible by Three
+31. (1277) Count Square Submatrices with All Ones
+32. (1290) Convert Binary Number in a Linked List to Integer
+33. (1304) Find N Unique Integers Sum up to Zero
+34. (1317) Convert Integer to the Sum of Two No-Zero Integers
+35. (1323) Maximum 69 Number
+36. (1353) Maximum Number of Events That Can Be Attended
+37. (1394) Find Lucky Integer in an Array
+38. (1488) Avoid Flood in the City
+39. (1493) Longest Subarray of 1's After Deleting One Element
+40. (1504) Count Submatrices With All Ones
+41. (1518) Water Bottles
+42. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
+43. (1578) Minimum Time to Make Rope Colorful
+44. (1611) Minimum ONe bit Operations to Make intergers Zero
+45. (1625) Lexicographically Smallest String After Applying Operations 
+46. (1695) Maximum Erasure Value
+47. (1717) Maximum Score From Removing Substrings
+48. (1733) Minimum Number of People to Teach
+49. (1751) Maximum Number of Events That Can Be Attended II
+50. (1792) Maximum Average Pass Ratio
+51. (1865) Finding Pairs With a Certain Sum
+52. (1900) The Earliest and Latest Rounds Where Players Compete
+53. (1935) Maximum Number of Words You Can Type
+54. (1948) Delete Duplicate Folders in System
+55. (1957) Delete Characters to Make Fancy String
+56. (2011) Final Value of Variable After Performing Operations
+57. (2043) Simple Bank System
+58. (2048) Next Greater Numerically Balanced Number
+59. (2106) Maximum Fruits Harvested After at Most K Steps
+60. (2125) Number of Laser Beams in a Bank
+61. (2163) Minimum Difference in Sums After Removal of Elements
+62. (2169) Count Operations to Obtain Zero
+63. (2197) Replace Non-Coprime Numbers in Array
+64. (2210) Count Hiils and Valley in an array
+65. (2257) Count Unguarded Cells in the Gird
+66. (2264) Largest 3-Same-Digit Number in String
+67. (2273) Find Resultant Array After Removing Anagrams
+68. (2300) Successful of spells and portions
+69. (2322) Minimum Score After Removals on a Tree
+70. (2327) Number of People Aware of a Secret
 70. (2348) Number of Zero-Filled Subarrays
 70. (2402) Meeting Rooms III
 71. (2410) Maximum Matching of Players With Trainers
