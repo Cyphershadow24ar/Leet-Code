@@ -3,26 +3,31 @@
 // SOLUTION :
 
 class Solution {
-public:
-    bool isValid(string word) {
-        if (word.length() < 3) return false;
 
-        string vowels = "aeiouAEIOU";
-        bool hasVowel = false;
-        bool hasConsonant = false;
-
-        for (char ch : word) {
-            if (!isalnum(ch)) return false;  // Reject '@', '#', '$' or any invalid char
-
-            if (isalpha(ch)) {
-                if (vowels.find(ch) != string::npos) {
+    public boolean isValid(String word) {
+        if (word.length() < 3) {
+            return false;
+        }
+        boolean hasVowel = false;
+        boolean hasConsonant = false;
+        for (char c : word.toCharArray()) {
+            if (Character.isLetter(c)) {
+                char ch = Character.toLowerCase(c);
+                if (
+                    ch == 'a' ||
+                    ch == 'e' ||
+                    ch == 'i' ||
+                    ch == 'o' ||
+                    ch == 'u'
+                ) {
                     hasVowel = true;
                 } else {
                     hasConsonant = true;
                 }
+            } else if (!Character.isDigit(c)) {
+                return false;
             }
         }
-
         return hasVowel && hasConsonant;
     }
-};
+}
