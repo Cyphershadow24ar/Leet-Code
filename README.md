@@ -77,30 +77,31 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 70. (2348) Number of Zero-Filled Subarrays
 70. (2402) Meeting Rooms III
 71. (2410) Maximum Matching of Players With Trainers
-72. (2438) Range Product Queries of Powers
-73. (2528) Maximize the minimum Powered City
-74. (2561) Rearranging Fruits
-75. (2598) Smallest Missing Non-negative Integer After Operations
-76. (2654) Minimum Number of Operations to Make All Array Elements Equal to 1
-77. (2749) Minimum Operations to Make the Integer Zero
-78. (2787) Ways to Express an Integer as Sum of Powers
-79. (3000) Maximum Area of Longest Diagonal Rectangle
-80. (3003) Maximize the Number of Partitions After Operations
-81. (3021) Alice and Bob Playing Flower Game
-82. (3025) Find the Number of Ways to Place People I
-83. (3027) Find the Number of Ways to Place People II
-84. (3100) Water Bottles II
-85. (3136) Valid Word
-86. (3147) Taking Maximum Energy From the Mystic Dungeon
-87. (3186) Maximum Total Damage With Spell Casting
-88. (3190) Find Minimum Operations to Make All Elements Divisible by Three
-89. (3195) Find the Minimum Area to Cover All Ones I
-90. (3197) Find the Minimum Area to Cover All Ones II
-91. (3201) Find the Maximum Length of Valid Subsequence I
-92. (3202) Find the Maximum Length of Valid Subsequence II
-93. (3217) Delete Nodes From Linked List Present in Array
-94. (3228) Maximum Number of Operations to Move Ones to the End
-95. (3289) The Two Sneaky Numbers of Digitville
+72. (2435) Paths in Matrix Whose Sum is Divisible by K
+73. (2438) Range Product Queries of Powers
+74. (2528) Maximize the minimum Powered City
+75. (2561) Rearranging Fruits
+76. (2598) Smallest Missing Non-negative Integer After Operations
+77. (2654) Minimum Number of Operations to Make All Array Elements Equal to 1
+78. (2749) Minimum Operations to Make the Integer Zero
+79. (2787) Ways to Express an Integer as Sum of Powers
+80. (3000) Maximum Area of Longest Diagonal Rectangle
+81. (3003) Maximize the Number of Partitions After Operations
+82. (3021) Alice and Bob Playing Flower Game
+83. (3025) Find the Number of Ways to Place People I
+84. (3027) Find the Number of Ways to Place People II
+85. (3100) Water Bottles II
+86. (3136) Valid Word
+87. (3147) Taking Maximum Energy From the Mystic Dungeon
+88. (3186) Maximum Total Damage With Spell Casting
+89. (3190) Find Minimum Operations to Make All Elements Divisible by Three
+90. (3195) Find the Minimum Area to Cover All Ones I
+91. (3197) Find the Minimum Area to Cover All Ones II
+92. (3201) Find the Maximum Length of Valid Subsequence I
+93. (3202) Find the Maximum Length of Valid Subsequence II
+94. (3217) Delete Nodes From Linked List Present in Array
+95. (3228) Maximum Number of Operations to Move Ones to the End
+96. (3289) The Two Sneaky Numbers of Digitville
 71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 70. (3307) Find the K-th Character in String Game II
 71. (3318) Find X-Sum of All K-Long Subarrays I
