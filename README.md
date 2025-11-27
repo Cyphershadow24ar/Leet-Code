@@ -114,15 +114,16 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 78. (3354) Make Array Elements Equal to Zero
 79. (3363) Find the Maximum Number of Fruits Collected
 80. (3370) Smallest Number With All Set Bits
-81. (3397) Maximum Number of Distinct Elements After Operations
-82. (3439) Reschedule Meetings for Maximum Free Time I
-83. (3440) Reschedule Meetings for Maximum Free Time II
-84. (3446) Sort Matrix by Diagonals
-85. (3459) Length of Longest V-Shaped Diagonal Segment
-86. (3461) Check If Digits Are Equal in String After Operations I
-87. (3477) Fruits Into Baskets II
-88. (3479) Fruits Into Baskets III
-89. (3480) Maximize Subarrays After Removing One Conflicting Pair
+81. (3381) Maximum subarray sum with length Divisible by K
+82. (3397) Maximum Number of Distinct Elements After Operations
+83. (3439) Reschedule Meetings for Maximum Free Time I
+84. (3440) Reschedule Meetings for Maximum Free Time II
+85. (3446) Sort Matrix by Diagonals
+86. (3459) Length of Longest V-Shaped Diagonal Segment
+87. (3461) Check If Digits Are Equal in String After Operations I
+88. (3477) Fruits Into Baskets II
+89. (3479) Fruits Into Baskets III
+90. (3480) Maximize Subarrays After Removing One Conflicting Pair
 67. (3487) Maximum Unique Subarray Sum After Deletion
 68. (3494) Find the Minimum Amount of Time to Brew Potions
 69. (3495) Minimum Operations to Make Array Elements Zero
