@@ -85,23 +85,24 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 77. (2654) Minimum Number of Operations to Make All Array Elements Equal to 1
 78. (2749) Minimum Operations to Make the Integer Zero
 79. (2787) Ways to Express an Integer as Sum of Powers
-80. (3000) Maximum Area of Longest Diagonal Rectangle
-81. (3003) Maximize the Number of Partitions After Operations
-82. (3021) Alice and Bob Playing Flower Game
-83. (3025) Find the Number of Ways to Place People I
-84. (3027) Find the Number of Ways to Place People II
-85. (3100) Water Bottles II
-86. (3136) Valid Word
-87. (3147) Taking Maximum Energy From the Mystic Dungeon
-88. (3186) Maximum Total Damage With Spell Casting
-89. (3190) Find Minimum Operations to Make All Elements Divisible by Three
-90. (3195) Find the Minimum Area to Cover All Ones I
-91. (3197) Find the Minimum Area to Cover All Ones II
-92. (3201) Find the Maximum Length of Valid Subsequence I
-93. (3202) Find the Maximum Length of Valid Subsequence II
-94. (3217) Delete Nodes From Linked List Present in Array
-95. (3228) Maximum Number of Operations to Move Ones to the End
-96. (3289) The Two Sneaky Numbers of Digitville
+80. (2872) Maximum Number of K-Divisible Components
+81. (3000) Maximum Area of Longest Diagonal Rectangle
+82. (3003) Maximize the Number of Partitions After Operations
+83. (3021) Alice and Bob Playing Flower Game
+84. (3025) Find the Number of Ways to Place People I
+85. (3027) Find the Number of Ways to Place People II
+86. (3100) Water Bottles II
+87. (3136) Valid Word
+88. (3147) Taking Maximum Energy From the Mystic Dungeon
+89. (3186) Maximum Total Damage With Spell Casting
+90. (3190) Find Minimum Operations to Make All Elements Divisible by Three
+91. (3195) Find the Minimum Area to Cover All Ones I
+92. (3197) Find the Minimum Area to Cover All Ones II
+93. (3201) Find the Maximum Length of Valid Subsequence I
+94. (3202) Find the Maximum Length of Valid Subsequence II
+95. (3217) Delete Nodes From Linked List Present in Array
+96. (3228) Maximum Number of Operations to Move Ones to the End
+97. (3289) The Two Sneaky Numbers of Digitville
 71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 70. (3307) Find the K-th Character in String Game II
 71. (3318) Find X-Sum of All K-Long Subarrays I
