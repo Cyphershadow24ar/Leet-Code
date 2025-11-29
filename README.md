@@ -128,10 +128,11 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 67. (3487) Maximum Unique Subarray Sum After Deletion
 68. (3494) Find the Minimum Amount of Time to Brew Potions
 69. (3495) Minimum Operations to Make Array Elements Zero
-70. (3516) Find Closest Person
-71. (3539) Find Sum of Array Product of Magical Sequences
-72. (3541) Find Most Frequent Vowel and Consonant
-73. (3607) Power Grid Maintenance 
+70. (3512) Minimum Operations to Make Array Sum Divisible by K
+71. (3516) Find Closest Person
+72. (3539) Find Sum of Array Product of Magical Sequences
+73. (3541) Find Most Frequent Vowel and Consonant
+74. (3607) Power Grid Maintenance 
 
 
 
