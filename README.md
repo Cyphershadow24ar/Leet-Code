@@ -47,32 +47,33 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 43. (1518) Water Bottles
 44. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
 45. (1578) Minimum Time to Make Rope Colorful
-46. (1611) Minimum ONe bit Operations to Make intergers Zero
-47. (1625) Lexicographically Smallest String After Applying Operations 
-48. (1695) Maximum Erasure Value
-49. (1717) Maximum Score From Removing Substrings
-50. (1733) Minimum Number of People to Teach
-51. (1751) Maximum Number of Events That Can Be Attended II
-52. (1792) Maximum Average Pass Ratio
-53. (1865) Finding Pairs With a Certain Sum
-54. (1900) The Earliest and Latest Rounds Where Players Compete
-55. (1935) Maximum Number of Words You Can Type
-56. (1948) Delete Duplicate Folders in System
-57. (1957) Delete Characters to Make Fancy String
-58. (2011) Final Value of Variable After Performing Operations
-59. (2043) Simple Bank System
-60. (2048) Next Greater Numerically Balanced Number
-61. (2106) Maximum Fruits Harvested After at Most K Steps
-62. (2125) Number of Laser Beams in a Bank
-63. (2163) Minimum Difference in Sums After Removal of Elements
-64. (2169) Count Operations to Obtain Zero
-65. (2197) Replace Non-Coprime Numbers in Array
-66. (2210) Count Hiils and Valley in an array
-67. (2257) Count Unguarded Cells in the Gird
-68. (2264) Largest 3-Same-Digit Number in String
-69. (2273) Find Resultant Array After Removing Anagrams
-70. (2300) Successful of spells and portions
-71. (2322) Minimum Score After Removals on a Tree
+46. (1590) Make Sum Divisible by P
+47. (1611) Minimum ONe bit Operations to Make intergers Zero
+48. (1625) Lexicographically Smallest String After Applying Operations 
+49. (1695) Maximum Erasure Value
+50. (1717) Maximum Score From Removing Substrings
+51. (1733) Minimum Number of People to Teach
+52. (1751) Maximum Number of Events That Can Be Attended II
+53. (1792) Maximum Average Pass Ratio
+54. (1865) Finding Pairs With a Certain Sum
+55. (1900) The Earliest and Latest Rounds Where Players Compete
+56. (1935) Maximum Number of Words You Can Type
+57. (1948) Delete Duplicate Folders in System
+58. (1957) Delete Characters to Make Fancy String
+59. (2011) Final Value of Variable After Performing Operations
+60. (2043) Simple Bank System
+61. (2048) Next Greater Numerically Balanced Number
+62. (2106) Maximum Fruits Harvested After at Most K Steps
+63. (2125) Number of Laser Beams in a Bank
+64. (2163) Minimum Difference in Sums After Removal of Elements
+65. (2169) Count Operations to Obtain Zero
+66. (2197) Replace Non-Coprime Numbers in Array
+67. (2210) Count Hiils and Valley in an array
+68. (2257) Count Unguarded Cells in the Gird
+69. (2264) Largest 3-Same-Digit Number in String
+70. (2273) Find Resultant Array After Removing Anagrams
+71. (2300) Successful of spells and portions
+72. (2322) Minimum Score After Removals on a Tree
 70. (2327) Number of People Aware of a Secret
 70. (2348) Number of Zero-Filled Subarrays
 70. (2402) Meeting Rooms III
