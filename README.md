@@ -64,13 +64,13 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 60. (2043) Simple Bank System
 61. (2048) Next Greater Numerically Balanced Number
 62. (2106) Maximum Fruits Harvested After at Most K Steps
-63. (2211) Count Collisions on a Road
-64. (2125) Number of Laser Beams in a Bank
-65. (2141) Maximum Running Time of N Computers
-66. (2163) Minimum Difference in Sums After Removal of Elements
-67. (2169) Count Operations to Obtain Zero
-68. (2197) Replace Non-Coprime Numbers in Array
-69. (2210) Count Hiils and Valley in an array
+63. (2125) Number of Laser Beams in a Bank
+64. (2141) Maximum Running Time of N Computers
+65. (2163) Minimum Difference in Sums After Removal of Elements
+66. (2169) Count Operations to Obtain Zero
+67. (2197) Replace Non-Coprime Numbers in Array
+68. (2210) Count Hiils and Valley in an array
+69. (2211) Count Collisions on a Road
 70. (2257) Count Unguarded Cells in the Gird
 71. (2264) Largest 3-Same-Digit Number in String
 72. (2273) Find Resultant Array After Removing Anagrams
@@ -106,38 +106,35 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 95. (3217) Delete Nodes From Linked List Present in Array
 96. (3228) Maximum Number of Operations to Move Ones to the End
 97. (3289) The Two Sneaky Numbers of Digitville
-71. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-70. (3307) Find the K-th Character in String Game II
-71. (3318) Find X-Sum of All K-Long Subarrays I
-72. (3330) Find the Original Typed String I
-73. (3333) Find the Original Typed String II
-74. (3346) Maximum Frequency of an Element After Performing Operations I
-75. (3347) Maximum Frequency of an Element After Performing Operations II
-76. (3349) Adjacent Increasing Subarrays Detection I
-77. (3350) Adjacent Increasing Subarrays Detection II
-78. (3354) Make Array Elements Equal to Zero
-79. (3363) Find the Maximum Number of Fruits Collected
-80. (3370) Smallest Number With All Set Bits
-81. (3381) Maximum subarray sum with length Divisible by K
-82. (3397) Maximum Number of Distinct Elements After Operations
-83. (3439) Reschedule Meetings for Maximum Free Time I
-84. (3440) Reschedule Meetings for Maximum Free Time II
-85. (3446) Sort Matrix by Diagonals
-86. (3459) Length of Longest V-Shaped Diagonal Segment
-87. (3461) Check If Digits Are Equal in String After Operations I
-88. (3477) Fruits Into Baskets II
-89. (3479) Fruits Into Baskets III
-90. (3480) Maximize Subarrays After Removing One Conflicting Pair
-67. (3487) Maximum Unique Subarray Sum After Deletion
-68. (3494) Find the Minimum Amount of Time to Brew Potions
-69. (3495) Minimum Operations to Make Array Elements Zero
-70. (3512) Minimum Operations to Make Array Sum Divisible by K
-71. (3516) Find Closest Person
-72. (3539) Find Sum of Array Product of Magical Sequences
-73. (3541) Find Most Frequent Vowel and Consonant
-74. (3607) Power Grid Maintenance
-75. (3623) Count Number of Trapezoids I
-
-
-
-
+98. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+99. (3307) Find the K-th Character in String Game II
+100. (3318) Find X-Sum of All K-Long Subarrays I
+101. (3330) Find the Original Typed String I
+102. (3333) Find the Original Typed String II
+103. (3346) Maximum Frequency of an Element After Performing Operations I
+104. (3347) Maximum Frequency of an Element After Performing Operations II
+105. (3349) Adjacent Increasing Subarrays Detection I
+106. (3350) Adjacent Increasing Subarrays Detection II
+107. (3354) Make Array Elements Equal to Zero
+108. (3363) Find the Maximum Number of Fruits Collected
+109. (3370) Smallest Number With All Set Bits
+110. (3381) Maximum subarray sum with length Divisible by K
+111. (3397) Maximum Number of Distinct Elements After Operations
+112. (3439) Reschedule Meetings for Maximum Free Time I
+113. (3440) Reschedule Meetings for Maximum Free Time II
+114. (3446) Sort Matrix by Diagonals
+115. (3459) Length of Longest V-Shaped Diagonal Segment
+116. (3461) Check If Digits Are Equal in String After Operations I
+117. (3477) Fruits Into Baskets II
+118. (3479) Fruits Into Baskets III
+119. (3480) Maximize Subarrays After Removing One Conflicting Pair
+120. (3487) Maximum Unique Subarray Sum After Deletion
+121. (3494) Find the Minimum Amount of Time to Brew Potions
+122. (3495) Minimum Operations to Make Array Elements Zero
+123. (3512) Minimum Operations to Make Array Sum Divisible by K
+124. (3516) Find Closest Person
+125. (3539) Find Sum of Array Product of Magical Sequences
+126. (3541) Find Most Frequent Vowel and Consonant
+127. (3607) Power Grid Maintenance
+128. (3623) Count Number of Trapezoids I
+129. (3625) Count Number of Trapezoids II
