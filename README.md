@@ -120,21 +120,22 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 109. (3370) Smallest Number With All Set Bits
 110. (3381) Maximum subarray sum with length Divisible by K
 111. (3397) Maximum Number of Distinct Elements After Operations
-112. (3439) Reschedule Meetings for Maximum Free Time I
-113. (3440) Reschedule Meetings for Maximum Free Time II
-114. (3446) Sort Matrix by Diagonals
-115. (3459) Length of Longest V-Shaped Diagonal Segment
-116. (3461) Check If Digits Are Equal in String After Operations I
-117. (3477) Fruits Into Baskets II
-118. (3479) Fruits Into Baskets III
-119. (3480) Maximize Subarrays After Removing One Conflicting Pair
-120. (3487) Maximum Unique Subarray Sum After Deletion
-121. (3494) Find the Minimum Amount of Time to Brew Potions
-122. (3495) Minimum Operations to Make Array Elements Zero
-123. (3512) Minimum Operations to Make Array Sum Divisible by K
-124. (3516) Find Closest Person
-125. (3539) Find Sum of Array Product of Magical Sequences
-126. (3541) Find Most Frequent Vowel and Consonant
-127. (3607) Power Grid Maintenance
-128. (3623) Count Number of Trapezoids I
-129. (3625) Count Number of Trapezoids II
+112. (3432) Count Partitions with Even Sum Difference
+113. (3439) Reschedule Meetings for Maximum Free Time I
+114. (3440) Reschedule Meetings for Maximum Free Time II
+115. (3446) Sort Matrix by Diagonals
+116. (3459) Length of Longest V-Shaped Diagonal Segment
+117. (3461) Check If Digits Are Equal in String After Operations I
+118. (3477) Fruits Into Baskets II
+119. (3479) Fruits Into Baskets III
+120. (3480) Maximize Subarrays After Removing One Conflicting Pair
+121. (3487) Maximum Unique Subarray Sum After Deletion
+122. (3494) Find the Minimum Amount of Time to Brew Potions
+123. (3495) Minimum Operations to Make Array Elements Zero
+124. (3512) Minimum Operations to Make Array Sum Divisible by K
+125. (3516) Find Closest Person
+126. (3539) Find Sum of Array Product of Magical Sequences
+127. (3541) Find Most Frequent Vowel and Consonant
+128. (3607) Power Grid Maintenance
+129. (3623) Count Number of Trapezoids I
+130. (3625) Count Number of Trapezoids II
