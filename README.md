@@ -136,6 +136,7 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 125. (3516) Find Closest Person
 126. (3539) Find Sum of Array Product of Magical Sequences
 127. (3541) Find Most Frequent Vowel and Consonant
-128. (3607) Power Grid Maintenance
-129. (3623) Count Number of Trapezoids I
-130. (3625) Count Number of Trapezoids II
+128. (3578) Count Partitions With Max-Min Difference at Most K
+129. (3607) Power Grid Maintenance
+130. (3623) Count Number of Trapezoids I
+131. (3625) Count Number of Trapezoids II
