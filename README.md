@@ -58,25 +58,26 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 54. (1792) Maximum Average Pass Ratio
 55. (1865) Finding Pairs With a Certain Sum
 56. (1900) The Earliest and Latest Rounds Where Players Compete
-57. (1935) Maximum Number of Words You Can Type
-58. (1948) Delete Duplicate Folders in System
-59. (1957) Delete Characters to Make Fancy String
-60. (2011) Final Value of Variable After Performing Operations
-61. (2043) Simple Bank System
-62. (2048) Next Greater Numerically Balanced Number
-63. (2106) Maximum Fruits Harvested After at Most K Steps
-64. (2125) Number of Laser Beams in a Bank
-65. (2141) Maximum Running Time of N Computers
-66. (2163) Minimum Difference in Sums After Removal of Elements
-67. (2169) Count Operations to Obtain Zero
-68. (2197) Replace Non-Coprime Numbers in Array
-69. (2210) Count Hiils and Valley in an array
-70. (2211) Count Collisions on a Road
-71. (2257) Count Unguarded Cells in the Gird
-72. (2264) Largest 3-Same-Digit Number in String
-73. (2273) Find Resultant Array After Removing Anagrams
-74. (2300) Successful of spells and portions
-75. (2322) Minimum Score After Removals on a Tree
+57. (1925) Count Square Sum Triples
+58. (1935) Maximum Number of Words You Can Type
+59. (1948) Delete Duplicate Folders in System
+60. (1957) Delete Characters to Make Fancy String
+61. (2011) Final Value of Variable After Performing Operations
+62. (2043) Simple Bank System
+63. (2048) Next Greater Numerically Balanced Number
+64. (2106) Maximum Fruits Harvested After at Most K Steps
+65. (2125) Number of Laser Beams in a Bank
+66. (2141) Maximum Running Time of N Computers
+67. (2163) Minimum Difference in Sums After Removal of Elements
+68. (2169) Count Operations to Obtain Zero
+69. (2197) Replace Non-Coprime Numbers in Array
+70. (2210) Count Hiils and Valley in an array
+71. (2211) Count Collisions on a Road
+72. (2257) Count Unguarded Cells in the Gird
+73. (2264) Largest 3-Same-Digit Number in String
+74. (2273) Find Resultant Array After Removing Anagrams
+75. (2300) Successful of spells and portions
+76. (2322) Minimum Score After Removals on a Tree
 70. (2327) Number of People Aware of a Secret
 70. (2348) Number of Zero-Filled Subarrays
 70. (2402) Meeting Rooms III
