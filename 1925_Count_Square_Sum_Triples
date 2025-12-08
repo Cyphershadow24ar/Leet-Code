@@ -1,0 +1,25 @@
+// PROBLEM : (1925) Count Square Sum Triples
+
+// SOLUTION :
+
+class Solution {
+    public int countTriples(int n) {
+        int count = 0;
+        
+        // Iterate through all pairs of (a, b)
+        for (int a = 1; a <= n; a++) {
+            for (int b = 1; b <= n; b++) {
+                
+                int sumSquares = a * a + b * b;
+                int c = (int) Math.sqrt(sumSquares);
+                
+                // Check if c is a perfect square root and within the limit n
+                if (c * c == sumSquares && c <= n) {
+                    count++;
+                }
+            }
+        }
+        
+        return count;
+    }
+}
