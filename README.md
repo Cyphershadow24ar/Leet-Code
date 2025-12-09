@@ -139,6 +139,8 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 126. (3539) Find Sum of Array Product of Magical Sequences
 127. (3541) Find Most Frequent Vowel and Consonant
 128. (3578) Count Partitions With Max-Min Difference at Most K
-129. (3607) Power Grid Maintenance
-130. (3623) Count Number of Trapezoids I
-131. (3625) Count Number of Trapezoids II
+129. (3583) Count Special Triplets
+130. (3607) Power Grid Maintenance
+131. (3623) Count Number of Trapezoids I
+132. (3625) Count Number of Trapezoids II
+
