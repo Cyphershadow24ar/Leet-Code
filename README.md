@@ -136,12 +136,13 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 123. (3495) Minimum Operations to Make Array Elements Zero
 124. (3512) Minimum Operations to Make Array Sum Divisible by K
 125. (3516) Find Closest Person
-126. (3539) Find Sum of Array Product of Magical Sequences
-127. (3541) Find Most Frequent Vowel and Consonant
-128. (3577) Count the Number of Computer Unlocking Permutations
-129. (3578) Count Partitions With Max-Min Difference at Most K
-130. (3583) Count Special Triplets
-131. (3607) Power Grid Maintenance
-132. (3623) Count Number of Trapezoids I
-133. (3625) Count Number of Trapezoids II
+126. (3531) Count Covered Buildings
+127. (3539) Find Sum of Array Product of Magical Sequences
+128. (3541) Find Most Frequent Vowel and Consonant
+129. (3577) Count the Number of Computer Unlocking Permutations
+130. (3578) Count Partitions With Max-Min Difference at Most K
+131. (3583) Count Special Triplets
+132. (3607) Power Grid Maintenance
+133. (3623) Count Number of Trapezoids I
+134. (3625) Count Number of Trapezoids II
 
