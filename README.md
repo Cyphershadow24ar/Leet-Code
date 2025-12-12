@@ -123,26 +123,27 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 110. (3381) Maximum subarray sum with length Divisible by K
 111. (3397) Maximum Number of Distinct Elements After Operations
 112. (3432) Count Partitions with Even Sum Difference
-113. (3439) Reschedule Meetings for Maximum Free Time I
-114. (3440) Reschedule Meetings for Maximum Free Time II
-115. (3446) Sort Matrix by Diagonals
-116. (3459) Length of Longest V-Shaped Diagonal Segment
-117. (3461) Check If Digits Are Equal in String After Operations I
-118. (3477) Fruits Into Baskets II
-119. (3479) Fruits Into Baskets III
-120. (3480) Maximize Subarrays After Removing One Conflicting Pair
-121. (3487) Maximum Unique Subarray Sum After Deletion
-122. (3494) Find the Minimum Amount of Time to Brew Potions
-123. (3495) Minimum Operations to Make Array Elements Zero
-124. (3512) Minimum Operations to Make Array Sum Divisible by K
-125. (3516) Find Closest Person
-126. (3531) Count Covered Buildings
-127. (3539) Find Sum of Array Product of Magical Sequences
-128. (3541) Find Most Frequent Vowel and Consonant
-129. (3577) Count the Number of Computer Unlocking Permutations
-130. (3578) Count Partitions With Max-Min Difference at Most K
-131. (3583) Count Special Triplets
-132. (3607) Power Grid Maintenance
-133. (3623) Count Number of Trapezoids I
-134. (3625) Count Number of Trapezoids II
+113. (3433) Count Mentions Per User
+114. (3439) Reschedule Meetings for Maximum Free Time I
+115. (3440) Reschedule Meetings for Maximum Free Time II
+116. (3446) Sort Matrix by Diagonals
+117. (3459) Length of Longest V-Shaped Diagonal Segment
+118. (3461) Check If Digits Are Equal in String After Operations I
+119. (3477) Fruits Into Baskets II
+120. (3479) Fruits Into Baskets III
+121. (3480) Maximize Subarrays After Removing One Conflicting Pair
+122. (3487) Maximum Unique Subarray Sum After Deletion
+123. (3494) Find the Minimum Amount of Time to Brew Potions
+124. (3495) Minimum Operations to Make Array Elements Zero
+125. (3512) Minimum Operations to Make Array Sum Divisible by K
+126. (3516) Find Closest Person
+127. (3531) Count Covered Buildings
+128. (3539) Find Sum of Array Product of Magical Sequences
+129. (3541) Find Most Frequent Vowel and Consonant
+130. (3577) Count the Number of Computer Unlocking Permutations
+131. (3578) Count Partitions With Max-Min Difference at Most K
+132. (3583) Count Special Triplets
+133. (3607) Power Grid Maintenance
+134. (3623) Count Number of Trapezoids I
+135. (3625) Count Number of Trapezoids II
 
