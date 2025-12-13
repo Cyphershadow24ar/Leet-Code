@@ -143,7 +143,8 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 130. (3577) Count the Number of Computer Unlocking Permutations
 131. (3578) Count Partitions With Max-Min Difference at Most K
 132. (3583) Count Special Triplets
-133. (3607) Power Grid Maintenance
-134. (3623) Count Number of Trapezoids I
-135. (3625) Count Number of Trapezoids II
+133. (3606) Coupon Code Validator
+134. (3607) Power Grid Maintenance
+135. (3623) Count Number of Trapezoids I
+136. (3625) Count Number of Trapezoids II
 
