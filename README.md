@@ -68,16 +68,17 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 64. (2106) Maximum Fruits Harvested After at Most K Steps
 65. (2125) Number of Laser Beams in a Bank
 66. (2141) Maximum Running Time of N Computers
-67. (2163) Minimum Difference in Sums After Removal of Elements
-68. (2169) Count Operations to Obtain Zero
-69. (2197) Replace Non-Coprime Numbers in Array
-70. (2210) Count Hiils and Valley in an array
-71. (2211) Count Collisions on a Road
-72. (2257) Count Unguarded Cells in the Gird
-73. (2264) Largest 3-Same-Digit Number in String
-74. (2273) Find Resultant Array After Removing Anagrams
-75. (2300) Successful of spells and portions
-76. (2322) Minimum Score After Removals on a Tree
+67. (2147) Number of Ways to Divide a Long Corridor
+68. (2163) Minimum Difference in Sums After Removal of Elements
+69. (2169) Count Operations to Obtain Zero
+70. (2197) Replace Non-Coprime Numbers in Array
+71. (2210) Count Hiils and Valley in an array
+72. (2211) Count Collisions on a Road
+73. (2257) Count Unguarded Cells in the Gird
+74. (2264) Largest 3-Same-Digit Number in String
+75. (2273) Find Resultant Array After Removing Anagrams
+76. (2300) Successful of spells and portions
+77. (2322) Minimum Score After Removals on a Tree
 70. (2327) Number of People Aware of a Secret
 70. (2348) Number of Zero-Filled Subarrays
 70. (2402) Meeting Rooms III
