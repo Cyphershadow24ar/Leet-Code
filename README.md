@@ -66,19 +66,20 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 62. (2043) Simple Bank System
 63. (2048) Next Greater Numerically Balanced Number
 64. (2106) Maximum Fruits Harvested After at Most K Steps
-65. (2125) Number of Laser Beams in a Bank
-66. (2141) Maximum Running Time of N Computers
-67. (2147) Number of Ways to Divide a Long Corridor
-68. (2163) Minimum Difference in Sums After Removal of Elements
-69. (2169) Count Operations to Obtain Zero
-70. (2197) Replace Non-Coprime Numbers in Array
-71. (2210) Count Hiils and Valley in an array
-72. (2211) Count Collisions on a Road
-73. (2257) Count Unguarded Cells in the Gird
-74. (2264) Largest 3-Same-Digit Number in String
-75. (2273) Find Resultant Array After Removing Anagrams
-76. (2300) Successful of spells and portions
-77. (2322) Minimum Score After Removals on a Tree
+65. (2110) Number of Smooth Descent Periods of a Stock
+66. (2125) Number of Laser Beams in a Bank
+67. (2141) Maximum Running Time of N Computers
+68. (2147) Number of Ways to Divide a Long Corridor
+69. (2163) Minimum Difference in Sums After Removal of Elements
+70. (2169) Count Operations to Obtain Zero
+71. (2197) Replace Non-Coprime Numbers in Array
+72. (2210) Count Hiils and Valley in an array
+73. (2211) Count Collisions on a Road
+74. (2257) Count Unguarded Cells in the Gird
+75. (2264) Largest 3-Same-Digit Number in String
+76. (2273) Find Resultant Array After Removing Anagrams
+77. (2300) Successful of spells and portions
+78. (2322) Minimum Score After Removals on a Tree
 70. (2327) Number of People Aware of a Secret
 70. (2348) Number of Zero-Filled Subarrays
 70. (2402) Meeting Rooms III
