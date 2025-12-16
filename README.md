@@ -142,11 +142,12 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 127. (3531) Count Covered Buildings
 128. (3539) Find Sum of Array Product of Magical Sequences
 129. (3541) Find Most Frequent Vowel and Consonant
-130. (3577) Count the Number of Computer Unlocking Permutations
-131. (3578) Count Partitions With Max-Min Difference at Most K
-132. (3583) Count Special Triplets
-133. (3606) Coupon Code Validator
-134. (3607) Power Grid Maintenance
-135. (3623) Count Number of Trapezoids I
-136. (3625) Count Number of Trapezoids II
+130. (3562) Maximum Profit from Trading Stocks with Discounts
+131. (3577) Count the Number of Computer Unlocking Permutations
+132. (3578) Count Partitions With Max-Min Difference at Most K
+133. (3583) Count Special Triplets
+134. (3606) Coupon Code Validator
+135. (3607) Power Grid Maintenance
+136. (3623) Count Number of Trapezoids I
+137. (3625) Count Number of Trapezoids II
 
