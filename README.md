@@ -65,21 +65,22 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 61. (2011) Final Value of Variable After Performing Operations
 62. (2043) Simple Bank System
 63. (2048) Next Greater Numerically Balanced Number
-64. (2106) Maximum Fruits Harvested After at Most K Steps
-65. (2110) Number of Smooth Descent Periods of a Stock
-66. (2125) Number of Laser Beams in a Bank
-67. (2141) Maximum Running Time of N Computers
-68. (2147) Number of Ways to Divide a Long Corridor
-69. (2163) Minimum Difference in Sums After Removal of Elements
-70. (2169) Count Operations to Obtain Zero
-71. (2197) Replace Non-Coprime Numbers in Array
-72. (2210) Count Hiils and Valley in an array
-73. (2211) Count Collisions on a Road
-74. (2257) Count Unguarded Cells in the Gird
-75. (2264) Largest 3-Same-Digit Number in String
-76. (2273) Find Resultant Array After Removing Anagrams
-77. (2300) Successful of spells and portions
-78. (2322) Minimum Score After Removals on a Tree
+64. (2092) Find All People With Secret
+65. (2106) Maximum Fruits Harvested After at Most K Steps
+66. (2110) Number of Smooth Descent Periods of a Stock
+67. (2125) Number of Laser Beams in a Bank
+68. (2141) Maximum Running Time of N Computers
+69. (2147) Number of Ways to Divide a Long Corridor
+70. (2163) Minimum Difference in Sums After Removal of Elements
+71. (2169) Count Operations to Obtain Zero
+72. (2197) Replace Non-Coprime Numbers in Array
+73. (2210) Count Hiils and Valley in an array
+74. (2211) Count Collisions on a Road
+75. (2257) Count Unguarded Cells in the Gird
+76. (2264) Largest 3-Same-Digit Number in String
+77. (2273) Find Resultant Array After Removing Anagrams
+78. (2300) Successful of spells and portions
+79. (2322) Minimum Score After Removals on a Tree
 70. (2327) Number of People Aware of a Secret
 70. (2348) Number of Zero-Filled Subarrays
 70. (2402) Meeting Rooms III
