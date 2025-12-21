@@ -2,7 +2,7 @@
 This Repository is made for Maintaining DSA solution In Different Programming Language.
 
 # PROBLEMS
-1. Two Sum
+1. (1) Two Sum
 2. Palindrome Number
 3. Maximum score after splitting a string
 4. Merge Two Sorted List
@@ -49,31 +49,32 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 45. (1518) Water Bottles
 46. (1523) Count Odd Numbers in an Interval Range
 47. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
-48. (1578) Minimum Time to Make Rope Colorful
-49. (1590) Make Sum Divisible by P
-50. (1611) Minimum ONe bit Operations to Make intergers Zero
-51. (1625) Lexicographically Smallest String After Applying Operations 
-52. (1695) Maximum Erasure Value
-53. (1717) Maximum Score From Removing Substrings
-54. (1733) Minimum Number of People to Teach
-55. (1751) Maximum Number of Events That Can Be Attended II
-56. (1792) Maximum Average Pass Ratio
-57. (1865) Finding Pairs With a Certain Sum
-58. (1900) The Earliest and Latest Rounds Where Players Compete
-59. (1925) Count Square Sum Triples
-60. (1935) Maximum Number of Words You Can Type
-61. (1948) Delete Duplicate Folders in System
-62. (1957) Delete Characters to Make Fancy String
-63. (2011) Final Value of Variable After Performing Operations
-64. (2043) Simple Bank System
-65. (2048) Next Greater Numerically Balanced Number
-66. (2092) Find All People With Secret
-67. (2106) Maximum Fruits Harvested After at Most K Steps
-68. (2110) Number of Smooth Descent Periods of a Stock
-69. (2125) Number of Laser Beams in a Bank
-70. (2141) Maximum Running Time of N Computers
-71. (2147) Number of Ways to Divide a Long Corridor
-72. (2163) Minimum Difference in Sums After Removal of Elements
+48. (1572) Matrix Diagonal Sum
+49. (1578) Minimum Time to Make Rope Colorful
+50. (1590) Make Sum Divisible by P
+51. (1611) Minimum ONe bit Operations to Make intergers Zero
+52. (1625) Lexicographically Smallest String After Applying Operations 
+53. (1695) Maximum Erasure Value
+54. (1717) Maximum Score From Removing Substrings
+55. (1733) Minimum Number of People to Teach
+56. (1751) Maximum Number of Events That Can Be Attended II
+57. (1792) Maximum Average Pass Ratio
+58. (1865) Finding Pairs With a Certain Sum
+59. (1900) The Earliest and Latest Rounds Where Players Compete
+60. (1925) Count Square Sum Triples
+61. (1935) Maximum Number of Words You Can Type
+62. (1948) Delete Duplicate Folders in System
+63. (1957) Delete Characters to Make Fancy String
+64. (2011) Final Value of Variable After Performing Operations
+65. (2043) Simple Bank System
+66. (2048) Next Greater Numerically Balanced Number
+67. (2092) Find All People With Secret
+68. (2106) Maximum Fruits Harvested After at Most K Steps
+69. (2110) Number of Smooth Descent Periods of a Stock
+70. (2125) Number of Laser Beams in a Bank
+71. (2141) Maximum Running Time of N Computers
+72. (2147) Number of Ways to Divide a Long Corridor
+73. (2163) Minimum Difference in Sums After Removal of Elements
 72. (2169) Count Operations to Obtain Zero
 73. (2197) Replace Non-Coprime Numbers in Array
 74. (2210) Count Hiils and Valley in an array
