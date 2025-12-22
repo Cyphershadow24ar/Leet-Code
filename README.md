@@ -32,48 +32,49 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 28. (904) Fruit Into Baskets
 29. (944) Delete Columns to Make Sorted
 30. (955) Delete Columns to Make Sorted II
-31. (966) Vowel Spellchecker
-32. (1015) Smallest Integer Divisible by K
-33. (1018) Binary Prefix Divisible By 5
-34. (1233) Remove Sub-Folders from the Filesystem
-35. (1262) Greatest Sum Divisible by Three
-36. (1277) Count Square Submatrices with All Ones
-37. (1290) Convert Binary Number in a Linked List to Integer
-38. (1304) Find N Unique Integers Sum up to Zero
-39. (1317) Convert Integer to the Sum of Two No-Zero Integers
-40. (1323) Maximum 69 Number
-41. (1353) Maximum Number of Events That Can Be Attended
-42. (1394) Find Lucky Integer in an Array
-43. (1488) Avoid Flood in the City
-44. (1493) Longest Subarray of 1's After Deleting One Element
-45. (1504) Count Submatrices With All Ones
-46. (1518) Water Bottles
-47. (1523) Count Odd Numbers in an Interval Range
-48. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
-49. (1572) Matrix Diagonal Sum
-50. (1578) Minimum Time to Make Rope Colorful
-51. (1590) Make Sum Divisible by P
-52. (1611) Minimum ONe bit Operations to Make intergers Zero
-53. (1625) Lexicographically Smallest String After Applying Operations 
-54. (1695) Maximum Erasure Value
-55. (1717) Maximum Score From Removing Substrings
-56. (1733) Minimum Number of People to Teach
-57. (1751) Maximum Number of Events That Can Be Attended II
-58. (1792) Maximum Average Pass Ratio
-59. (1865) Finding Pairs With a Certain Sum
-60. (1900) The Earliest and Latest Rounds Where Players Compete
-61. (1925) Count Square Sum Triples
-62. (1935) Maximum Number of Words You Can Type
-63. (1948) Delete Duplicate Folders in System
-64. (1957) Delete Characters to Make Fancy String
-65. (2011) Final Value of Variable After Performing Operations
-66. (2043) Simple Bank System
-67. (2048) Next Greater Numerically Balanced Number
-68. (2092) Find All People With Secret
-69. (2106) Maximum Fruits Harvested After at Most K Steps
-70. (2110) Number of Smooth Descent Periods of a Stock
-71. (2125) Number of Laser Beams in a Bank
-72. (2141) Maximum Running Time of N Computers
+31. (960) Delete Columns to Make Sorted III
+32. (966) Vowel Spellchecker
+33. (1015) Smallest Integer Divisible by K
+34. (1018) Binary Prefix Divisible By 5
+35. (1233) Remove Sub-Folders from the Filesystem
+36. (1262) Greatest Sum Divisible by Three
+37. (1277) Count Square Submatrices with All Ones
+38. (1290) Convert Binary Number in a Linked List to Integer
+39. (1304) Find N Unique Integers Sum up to Zero
+40. (1317) Convert Integer to the Sum of Two No-Zero Integers
+41. (1323) Maximum 69 Number
+42. (1353) Maximum Number of Events That Can Be Attended
+43. (1394) Find Lucky Integer in an Array
+44. (1488) Avoid Flood in the City
+45. (1493) Longest Subarray of 1's After Deleting One Element
+46. (1504) Count Submatrices With All Ones
+47. (1518) Water Bottles
+48. (1523) Count Odd Numbers in an Interval Range
+49. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
+50. (1572) Matrix Diagonal Sum
+51. (1578) Minimum Time to Make Rope Colorful
+52. (1590) Make Sum Divisible by P
+53. (1611) Minimum ONe bit Operations to Make intergers Zero
+54. (1625) Lexicographically Smallest String After Applying Operations 
+55. (1695) Maximum Erasure Value
+56. (1717) Maximum Score From Removing Substrings
+57. (1733) Minimum Number of People to Teach
+58. (1751) Maximum Number of Events That Can Be Attended II
+59. (1792) Maximum Average Pass Ratio
+60. (1865) Finding Pairs With a Certain Sum
+61. (1900) The Earliest and Latest Rounds Where Players Compete
+62. (1925) Count Square Sum Triples
+63. (1935) Maximum Number of Words You Can Type
+64. (1948) Delete Duplicate Folders in System
+65. (1957) Delete Characters to Make Fancy String
+66. (2011) Final Value of Variable After Performing Operations
+67. (2043) Simple Bank System
+68. (2048) Next Greater Numerically Balanced Number
+69. (2092) Find All People With Secret
+70. (2106) Maximum Fruits Harvested After at Most K Steps
+71. (2110) Number of Smooth Descent Periods of a Stock
+72. (2125) Number of Laser Beams in a Bank
+73. (2141) Maximum Running Time of N Computers
 72. (2147) Number of Ways to Divide a Long Corridor
 73. (2163) Minimum Difference in Sums After Removal of Elements
 72. (2169) Count Operations to Obtain Zero
