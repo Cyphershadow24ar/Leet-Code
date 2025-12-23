@@ -70,11 +70,12 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 66. (2011) Final Value of Variable After Performing Operations
 67. (2043) Simple Bank System
 68. (2048) Next Greater Numerically Balanced Number
-69. (2092) Find All People With Secret
-70. (2106) Maximum Fruits Harvested After at Most K Steps
-71. (2110) Number of Smooth Descent Periods of a Stock
-72. (2125) Number of Laser Beams in a Bank
-73. (2141) Maximum Running Time of N Computers
+69. (2054) Two Best Non-Overlapping Events
+70. (2092) Find All People With Secret
+71. (2106) Maximum Fruits Harvested After at Most K Steps
+72. (2110) Number of Smooth Descent Periods of a Stock
+73. (2125) Number of Laser Beams in a Bank
+74. (2141) Maximum Running Time of N Computers
 72. (2147) Number of Ways to Divide a Long Corridor
 73. (2163) Minimum Difference in Sums After Removal of Elements
 72. (2169) Count Operations to Obtain Zero
