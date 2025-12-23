@@ -12,68 +12,69 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 8. Minimum Number of Operations to Move All Balls to Each Box
 9. Number of Subsequences that satisfy the given Sum Condition
 10. (11) Container With Most Water
-11. (36) Valid Sudoku
-12. (37) Sudoku Solver
-13. (118) Pascal's Triangle
-14. (136) Single Number
-15. (231) Power of Two
-16. (326) Power of Three
-17. (342) Power of Four
-18. (407) Trapping Rain Water II
-19. (417) Pacific Atlantic Water Flow
-20. (459) Repeated Substring Pattern 
-21. (474) Ones and Zeroes
-22. (498) Diagonal Traverse
-23. (594) Longest Harmonious Subsequence
-24. (679) 24 Game
-25. (778) Swim in Rising Water
-26. (808) Soup Servings
-27. (837) New 21 Game
-28. (869) Reordered Power of 2
-29. (904) Fruit Into Baskets
-30. (944) Delete Columns to Make Sorted
-31. (955) Delete Columns to Make Sorted II
-32. (960) Delete Columns to Make Sorted III
-33. (966) Vowel Spellchecker
-34. (1015) Smallest Integer Divisible by K
-35. (1018) Binary Prefix Divisible By 5
-36. (1233) Remove Sub-Folders from the Filesystem
-37. (1262) Greatest Sum Divisible by Three
-38. (1277) Count Square Submatrices with All Ones
-39. (1290) Convert Binary Number in a Linked List to Integer
-40. (1304) Find N Unique Integers Sum up to Zero
-41. (1317) Convert Integer to the Sum of Two No-Zero Integers
-42. (1323) Maximum 69 Number
-43. (1353) Maximum Number of Events That Can Be Attended
-44. (1394) Find Lucky Integer in an Array
-45. (1488) Avoid Flood in the City
-46. (1493) Longest Subarray of 1's After Deleting One Element
-47. (1504) Count Submatrices With All Ones
-48. (1518) Water Bottles
-49. (1523) Count Odd Numbers in an Interval Range
-50. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
-51. (1572) Matrix Diagonal Sum
-52. (1578) Minimum Time to Make Rope Colorful
-53. (1590) Make Sum Divisible by P
-54. (1611) Minimum ONe bit Operations to Make intergers Zero
-55. (1625) Lexicographically Smallest String After Applying Operations 
-56. (1695) Maximum Erasure Value
-57. (1717) Maximum Score From Removing Substrings
-58. (1733) Minimum Number of People to Teach
-59. (1751) Maximum Number of Events That Can Be Attended II
-60. (1792) Maximum Average Pass Ratio
-61. (1865) Finding Pairs With a Certain Sum
-62. (1900) The Earliest and Latest Rounds Where Players Compete
-63. (1925) Count Square Sum Triples
-64. (1935) Maximum Number of Words You Can Type
-65. (1948) Delete Duplicate Folders in System
-66. (1957) Delete Characters to Make Fancy String
-67. (2011) Final Value of Variable After Performing Operations
-68. (2043) Simple Bank System
-69. (2048) Next Greater Numerically Balanced Number
-70. (2054) Two Best Non-Overlapping Events
-71. (2092) Find All People With Secret
-72. (2106) Maximum Fruits Harvested After at Most K Steps
+11. (14) Longest Common Prefix
+12. (36) Valid Sudoku
+13. (37) Sudoku Solver
+14. (118) Pascal's Triangle
+15. (136) Single Number
+16. (231) Power of Two
+17. (326) Power of Three
+18. (342) Power of Four
+19. (407) Trapping Rain Water II
+20. (417) Pacific Atlantic Water Flow
+21. (459) Repeated Substring Pattern 
+22. (474) Ones and Zeroes
+23. (498) Diagonal Traverse
+24. (594) Longest Harmonious Subsequence
+25. (679) 24 Game
+26. (778) Swim in Rising Water
+27. (808) Soup Servings
+28. (837) New 21 Game
+29. (869) Reordered Power of 2
+30. (904) Fruit Into Baskets
+31. (944) Delete Columns to Make Sorted
+32. (955) Delete Columns to Make Sorted II
+33. (960) Delete Columns to Make Sorted III
+34. (966) Vowel Spellchecker
+35. (1015) Smallest Integer Divisible by K
+36. (1018) Binary Prefix Divisible By 5
+37. (1233) Remove Sub-Folders from the Filesystem
+38. (1262) Greatest Sum Divisible by Three
+39. (1277) Count Square Submatrices with All Ones
+40. (1290) Convert Binary Number in a Linked List to Integer
+41. (1304) Find N Unique Integers Sum up to Zero
+42. (1317) Convert Integer to the Sum of Two No-Zero Integers
+43. (1323) Maximum 69 Number
+44. (1353) Maximum Number of Events That Can Be Attended
+45. (1394) Find Lucky Integer in an Array
+46. (1488) Avoid Flood in the City
+47. (1493) Longest Subarray of 1's After Deleting One Element
+48. (1504) Count Submatrices With All Ones
+49. (1518) Water Bottles
+50. (1523) Count Odd Numbers in an Interval Range
+51. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
+52. (1572) Matrix Diagonal Sum
+53. (1578) Minimum Time to Make Rope Colorful
+54. (1590) Make Sum Divisible by P
+55. (1611) Minimum ONe bit Operations to Make intergers Zero
+56. (1625) Lexicographically Smallest String After Applying Operations 
+57. (1695) Maximum Erasure Value
+58. (1717) Maximum Score From Removing Substrings
+59. (1733) Minimum Number of People to Teach
+60. (1751) Maximum Number of Events That Can Be Attended II
+61. (1792) Maximum Average Pass Ratio
+62. (1865) Finding Pairs With a Certain Sum
+63. (1900) The Earliest and Latest Rounds Where Players Compete
+64. (1925) Count Square Sum Triples
+65. (1935) Maximum Number of Words You Can Type
+66. (1948) Delete Duplicate Folders in System
+67. (1957) Delete Characters to Make Fancy String
+68. (2011) Final Value of Variable After Performing Operations
+69. (2043) Simple Bank System
+70. (2048) Next Greater Numerically Balanced Number
+71. (2054) Two Best Non-Overlapping Events
+72. (2092) Find All People With Secret
+73. (2106) Maximum Fruits Harvested After at Most K Steps
 73. (2110) Number of Smooth Descent Periods of a Stock
 74. (2125) Number of Laser Beams in a Bank
 75. (2141) Maximum Running Time of N Computers
