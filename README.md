@@ -73,12 +73,13 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 69. (1935) Maximum Number of Words You Can Type
 70. (1948) Delete Duplicate Folders in System
 71. (1957) Delete Characters to Make Fancy String
-72. (2011) Final Value of Variable After Performing Operations
-73. (2043) Simple Bank System
-74. (2048) Next Greater Numerically Balanced Number
-75. (2054) Two Best Non-Overlapping Events
-76. (2092) Find All People With Secret
-77. (2106) Maximum Fruits Harvested After at Most K Steps
+72. (1970) Last Day Where you can still Cross
+73. (2011) Final Value of Variable After Performing Operations
+74. (2043) Simple Bank System
+75. (2048) Next Greater Numerically Balanced Number
+76. (2054) Two Best Non-Overlapping Events
+77. (2092) Find All People With Secret
+78. (2106) Maximum Fruits Harvested After at Most K Steps
 73. (2110) Number of Smooth Descent Periods of a Stock
 74. (2125) Number of Laser Beams in a Bank
 75. (2141) Maximum Running Time of N Computers
