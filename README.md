@@ -39,43 +39,44 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 35. (944) Delete Columns to Make Sorted
 36. (955) Delete Columns to Make Sorted II
 37. (960) Delete Columns to Make Sorted III
-38. (966) Vowel Spellchecker
-39. (1015) Smallest Integer Divisible by K
-40. (1018) Binary Prefix Divisible By 5
-41. (1233) Remove Sub-Folders from the Filesystem
-42. (1262) Greatest Sum Divisible by Three
-43. (1277) Count Square Submatrices with All Ones
-44. (1290) Convert Binary Number in a Linked List to Integer
-45. (1304) Find N Unique Integers Sum up to Zero
-46. (1317) Convert Integer to the Sum of Two No-Zero Integers
-47. (1323) Maximum 69 Number
-48. (1351) Count Negative Numbers in a Sorted Matrix
-49. (1353) Maximum Number of Events That Can Be Attended
-50. (1394) Find Lucky Integer in an Array
-51. (1488) Avoid Flood in the City
-52. (1493) Longest Subarray of 1's After Deleting One Element
-53. (1504) Count Submatrices With All Ones
-54. (1518) Water Bottles
-55. (1523) Count Odd Numbers in an Interval Range
-56. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
-57. (1572) Matrix Diagonal Sum
-58. (1578) Minimum Time to Make Rope Colorful
-59. (1590) Make Sum Divisible by P
-60. (1611) Minimum ONe bit Operations to Make intergers Zero
-61. (1625) Lexicographically Smallest String After Applying Operations 
-62. (1695) Maximum Erasure Value
-63. (1717) Maximum Score From Removing Substrings
-64. (1733) Minimum Number of People to Teach
-65. (1751) Maximum Number of Events That Can Be Attended II
-66. (1792) Maximum Average Pass Ratio
-67. (1865) Finding Pairs With a Certain Sum
-68. (1900) The Earliest and Latest Rounds Where Players Compete
-69. (1925) Count Square Sum Triples
-70. (1935) Maximum Number of Words You Can Type
-71. (1948) Delete Duplicate Folders in System
-72. (1957) Delete Characters to Make Fancy String
-73. (1970) Last Day Where you can still Cross
-74. (2011) Final Value of Variable After Performing Operations
+38. (961) N-Repeated Element in Size 2N Array
+39. (966) Vowel Spellchecker
+40. (1015) Smallest Integer Divisible by K
+41. (1018) Binary Prefix Divisible By 5
+42. (1233) Remove Sub-Folders from the Filesystem
+43. (1262) Greatest Sum Divisible by Three
+44. (1277) Count Square Submatrices with All Ones
+45. (1290) Convert Binary Number in a Linked List to Integer
+46. (1304) Find N Unique Integers Sum up to Zero
+47. (1317) Convert Integer to the Sum of Two No-Zero Integers
+48. (1323) Maximum 69 Number
+49. (1351) Count Negative Numbers in a Sorted Matrix
+50. (1353) Maximum Number of Events That Can Be Attended
+51. (1394) Find Lucky Integer in an Array
+52. (1488) Avoid Flood in the City
+53. (1493) Longest Subarray of 1's After Deleting One Element
+54. (1504) Count Submatrices With All Ones
+55. (1518) Water Bottles
+56. (1523) Count Odd Numbers in an Interval Range
+57. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
+58. (1572) Matrix Diagonal Sum
+59. (1578) Minimum Time to Make Rope Colorful
+60. (1590) Make Sum Divisible by P
+61. (1611) Minimum ONe bit Operations to Make intergers Zero
+62. (1625) Lexicographically Smallest String After Applying Operations 
+63. (1695) Maximum Erasure Value
+64. (1717) Maximum Score From Removing Substrings
+65. (1733) Minimum Number of People to Teach
+66. (1751) Maximum Number of Events That Can Be Attended II
+67. (1792) Maximum Average Pass Ratio
+68. (1865) Finding Pairs With a Certain Sum
+69. (1900) The Earliest and Latest Rounds Where Players Compete
+70. (1925) Count Square Sum Triples
+71. (1935) Maximum Number of Words You Can Type
+72. (1948) Delete Duplicate Folders in System
+73. (1957) Delete Characters to Make Fancy String
+74. (1970) Last Day Where you can still Cross
+75. (2011) Final Value of Variable After Performing Operations
 74. (2043) Simple Bank System
 75. (2048) Next Greater Numerically Balanced Number
 76. (2054) Two Best Non-Overlapping Events
