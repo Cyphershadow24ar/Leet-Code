@@ -78,7 +78,8 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 74. (1948) Delete Duplicate Folders in System
 75. (1957) Delete Characters to Make Fancy String
 76. (1970) Last Day Where you can still Cross
-77. (2011) Final Value of Variable After Performing Operations
+77. (1975) Maximum Matrix Sum
+78. (2011) Final Value of Variable After Performing Operations
 74. (2043) Simple Bank System
 75. (2048) Next Greater Numerically Balanced Number
 76. (2054) Two Best Non-Overlapping Events
