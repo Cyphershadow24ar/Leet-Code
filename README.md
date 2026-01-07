@@ -51,36 +51,37 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 47. (1304) Find N Unique Integers Sum up to Zero
 48. (1317) Convert Integer to the Sum of Two No-Zero Integers
 49. (1323) Maximum 69 Number
-50. (1351) Count Negative Numbers in a Sorted Matrix
-51. (1353) Maximum Number of Events That Can Be Attended
-52. (1390) Four Divisors 
-53. (1394) Find Lucky Integer in an Array
-54. (1411) Number of Ways to Paint N × 3 Grid
-55. (1488) Avoid Flood in the City
-56. (1493) Longest Subarray of 1's After Deleting One Element
-57. (1504) Count Submatrices With All Ones
-58. (1518) Water Bottles
-59. (1523) Count Odd Numbers in an Interval Range
-60. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
-61. (1572) Matrix Diagonal Sum
-62. (1578) Minimum Time to Make Rope Colorful
-63. (1590) Make Sum Divisible by P
-64. (1611) Minimum ONe bit Operations to Make intergers Zero
-65. (1625) Lexicographically Smallest String After Applying Operations 
-66. (1695) Maximum Erasure Value
-67. (1717) Maximum Score From Removing Substrings
-68. (1733) Minimum Number of People to Teach
-69. (1751) Maximum Number of Events That Can Be Attended II
-70. (1792) Maximum Average Pass Ratio
-71. (1865) Finding Pairs With a Certain Sum
-72. (1900) The Earliest and Latest Rounds Where Players Compete
-73. (1925) Count Square Sum Triples
-74. (1935) Maximum Number of Words You Can Type
-75. (1948) Delete Duplicate Folders in System
-76. (1957) Delete Characters to Make Fancy String
-77. (1970) Last Day Where you can still Cross
-78. (1975) Maximum Matrix Sum
-79. (2011) Final Value of Variable After Performing Operations
+50. (1339) Maximum Product of Splitted Binary Tree
+51. (1351) Count Negative Numbers in a Sorted Matrix
+52. (1353) Maximum Number of Events That Can Be Attended
+53. (1390) Four Divisors 
+54. (1394) Find Lucky Integer in an Array
+55. (1411) Number of Ways to Paint N × 3 Grid
+56. (1488) Avoid Flood in the City
+57. (1493) Longest Subarray of 1's After Deleting One Element
+58. (1504) Count Submatrices With All Ones
+59. (1518) Water Bottles
+60. (1523) Count Odd Numbers in an Interval Range
+61. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
+62. (1572) Matrix Diagonal Sum
+63. (1578) Minimum Time to Make Rope Colorful
+64. (1590) Make Sum Divisible by P
+65. (1611) Minimum ONe bit Operations to Make intergers Zero
+66. (1625) Lexicographically Smallest String After Applying Operations 
+67. (1695) Maximum Erasure Value
+68. (1717) Maximum Score From Removing Substrings
+69. (1733) Minimum Number of People to Teach
+70. (1751) Maximum Number of Events That Can Be Attended II
+71. (1792) Maximum Average Pass Ratio
+72. (1865) Finding Pairs With a Certain Sum
+73. (1900) The Earliest and Latest Rounds Where Players Compete
+74. (1925) Count Square Sum Triples
+75. (1935) Maximum Number of Words You Can Type
+76. (1948) Delete Duplicate Folders in System
+77. (1957) Delete Characters to Make Fancy String
+78. (1970) Last Day Where you can still Cross
+79. (1975) Maximum Matrix Sum
+80. (2011) Final Value of Variable After Performing Operations
 74. (2043) Simple Bank System
 75. (2048) Next Greater Numerically Balanced Number
 76. (2054) Two Best Non-Overlapping Events
