@@ -57,31 +57,32 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 53. (1390) Four Divisors 
 54. (1394) Find Lucky Integer in an Array
 55. (1411) Number of Ways to Paint N × 3 Grid
-56. (1488) Avoid Flood in the City
-57. (1493) Longest Subarray of 1's After Deleting One Element
-58. (1504) Count Submatrices With All Ones
-59. (1518) Water Bottles
-60. (1523) Count Odd Numbers in an Interval Range
-61. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
-62. (1572) Matrix Diagonal Sum
-63. (1578) Minimum Time to Make Rope Colorful
-64. (1590) Make Sum Divisible by P
-65. (1611) Minimum ONe bit Operations to Make intergers Zero
-66. (1625) Lexicographically Smallest String After Applying Operations 
-67. (1695) Maximum Erasure Value
-68. (1717) Maximum Score From Removing Substrings
-69. (1733) Minimum Number of People to Teach
-70. (1751) Maximum Number of Events That Can Be Attended II
-71. (1792) Maximum Average Pass Ratio
-72. (1865) Finding Pairs With a Certain Sum
-73. (1900) The Earliest and Latest Rounds Where Players Compete
-74. (1925) Count Square Sum Triples
-75. (1935) Maximum Number of Words You Can Type
-76. (1948) Delete Duplicate Folders in System
-77. (1957) Delete Characters to Make Fancy String
-78. (1970) Last Day Where you can still Cross
-79. (1975) Maximum Matrix Sum
-80. (2011) Final Value of Variable After Performing Operations
+56. (1458) Max Dot Product of Two Subsequences
+57. (1488) Avoid Flood in the City
+58. (1493) Longest Subarray of 1's After Deleting One Element
+59. (1504) Count Submatrices With All Ones
+60. (1518) Water Bottles
+61. (1523) Count Odd Numbers in an Interval Range
+62. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
+63. (1572) Matrix Diagonal Sum
+64. (1578) Minimum Time to Make Rope Colorful
+65. (1590) Make Sum Divisible by P
+66. (1611) Minimum ONe bit Operations to Make intergers Zero
+67. (1625) Lexicographically Smallest String After Applying Operations 
+68. (1695) Maximum Erasure Value
+69. (1717) Maximum Score From Removing Substrings
+70. (1733) Minimum Number of People to Teach
+71. (1751) Maximum Number of Events That Can Be Attended II
+72. (1792) Maximum Average Pass Ratio
+73. (1865) Finding Pairs With a Certain Sum
+74. (1900) The Earliest and Latest Rounds Where Players Compete
+75. (1925) Count Square Sum Triples
+76. (1935) Maximum Number of Words You Can Type
+77. (1948) Delete Duplicate Folders in System
+78. (1957) Delete Characters to Make Fancy String
+79. (1970) Last Day Where you can still Cross
+80. (1975) Maximum Matrix Sum
+81. (2011) Final Value of Variable After Performing Operations
 74. (2043) Simple Bank System
 75. (2048) Next Greater Numerically Balanced Number
 76. (2054) Two Best Non-Overlapping Events
