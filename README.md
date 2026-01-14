@@ -182,5 +182,6 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 141. (3623) Count Number of Trapezoids I
 142. (3625) Count Number of Trapezoids II
 143. (3652) Best Time to Buy and Sell Stock using Strategy
+144. (3454) Separate Squares II
 
 
