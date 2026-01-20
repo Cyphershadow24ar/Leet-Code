@@ -147,47 +147,48 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 103. (3289) The Two Sneaky Numbers of Digitville
 104. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
 105. (3307) Find the K-th Character in String Game II
-106. (3318) Find X-Sum of All K-Long Subarrays I
-107. (3330) Find the Original Typed String I
-108. (3333) Find the Original Typed String II
-109. (3346) Maximum Frequency of an Element After Performing Operations I
-110. (3347) Maximum Frequency of an Element After Performing Operations II
-111. (3349) Adjacent Increasing Subarrays Detection I
-112. (3350) Adjacent Increasing Subarrays Detection II
-113. (3354) Make Array Elements Equal to Zero
-114. (3363) Find the Maximum Number of Fruits Collected
-115. (3370) Smallest Number With All Set Bits
-116. (3381) Maximum subarray sum with length Divisible by K
-117. (3397) Maximum Number of Distinct Elements After Operations
-118. (3432) Count Partitions with Even Sum Difference
-119. (3433) Count Mentions Per User
-120. (3439) Reschedule Meetings for Maximum Free Time I
-121. (3440) Reschedule Meetings for Maximum Free Time II
-122. (3446) Sort Matrix by Diagonals
-123. (3453) Separate Squares I
-124. (3459) Length of Longest V-Shaped Diagonal Segment
-125. (3461) Check If Digits Are Equal in String After Operations I
-126. (3477) Fruits Into Baskets II
-127. (3479) Fruits Into Baskets III
-128. (3480) Maximize Subarrays After Removing One Conflicting Pair
-129. (3487) Maximum Unique Subarray Sum After Deletion
-130. (3494) Find the Minimum Amount of Time to Brew Potions
-131. (3495) Minimum Operations to Make Array Elements Zero
-132. (3512) Minimum Operations to Make Array Sum Divisible by K
-133. (3516) Find Closest Person
-134. (3531) Count Covered Buildings
-135. (3539) Find Sum of Array Product of Magical Sequences
-136. (3541) Find Most Frequent Vowel and Consonant
-137. (3562) Maximum Profit from Trading Stocks with Discounts
-138. (3573) Best Time to Buy and Sell Stock V
-139. (3577) Count the Number of Computer Unlocking Permutations
-140. (3578) Count Partitions With Max-Min Difference at Most K
-141. (3583) Count Special Triplets
-142. (3606) Coupon Code Validator
-143. (3607) Power Grid Maintenance
-144. (3623) Count Number of Trapezoids I
-145. (3625) Count Number of Trapezoids II
-146. (3652) Best Time to Buy and Sell Stock using Strategy
-147. (3454) Separate Squares II
+106. (3314) Construct the Minimum Bitwise Array I
+107. (3318) Find X-Sum of All K-Long Subarrays I
+108. (3330) Find the Original Typed String I
+109. (3333) Find the Original Typed String II
+110. (3346) Maximum Frequency of an Element After Performing Operations I
+111. (3347) Maximum Frequency of an Element After Performing Operations II
+112. (3349) Adjacent Increasing Subarrays Detection I
+113. (3350) Adjacent Increasing Subarrays Detection II
+114. (3354) Make Array Elements Equal to Zero
+115. (3363) Find the Maximum Number of Fruits Collected
+116. (3370) Smallest Number With All Set Bits
+117. (3381) Maximum subarray sum with length Divisible by K
+118. (3397) Maximum Number of Distinct Elements After Operations
+119. (3432) Count Partitions with Even Sum Difference
+120. (3433) Count Mentions Per User
+121. (3439) Reschedule Meetings for Maximum Free Time I
+122. (3440) Reschedule Meetings for Maximum Free Time II
+123. (3446) Sort Matrix by Diagonals
+124. (3453) Separate Squares I
+125. (3459) Length of Longest V-Shaped Diagonal Segment
+126. (3461) Check If Digits Are Equal in String After Operations I
+127. (3477) Fruits Into Baskets II
+128. (3479) Fruits Into Baskets III
+129. (3480) Maximize Subarrays After Removing One Conflicting Pair
+130. (3487) Maximum Unique Subarray Sum After Deletion
+131. (3494) Find the Minimum Amount of Time to Brew Potions
+132. (3495) Minimum Operations to Make Array Elements Zero
+133. (3512) Minimum Operations to Make Array Sum Divisible by K
+134. (3516) Find Closest Person
+135. (3531) Count Covered Buildings
+136. (3539) Find Sum of Array Product of Magical Sequences
+137. (3541) Find Most Frequent Vowel and Consonant
+138. (3562) Maximum Profit from Trading Stocks with Discounts
+139. (3573) Best Time to Buy and Sell Stock V
+140. (3577) Count the Number of Computer Unlocking Permutations
+141. (3578) Count Partitions With Max-Min Difference at Most K
+142. (3583) Count Special Triplets
+143. (3606) Coupon Code Validator
+144. (3607) Power Grid Maintenance
+145. (3623) Count Number of Trapezoids I
+146. (3625) Count Number of Trapezoids II
+147. (3652) Best Time to Buy and Sell Stock using Strategy
+148. (3454) Separate Squares II
 
 
