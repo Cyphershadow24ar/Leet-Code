@@ -175,21 +175,22 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 131. (3487) Maximum Unique Subarray Sum After Deletion
 132. (3494) Find the Minimum Amount of Time to Brew Potions
 133. (3495) Minimum Operations to Make Array Elements Zero
-134. (3512) Minimum Operations to Make Array Sum Divisible by K
-135. (3516) Find Closest Person
-136. (3531) Count Covered Buildings
-137. (3539) Find Sum of Array Product of Magical Sequences
-138. (3541) Find Most Frequent Vowel and Consonant
-139. (3562) Maximum Profit from Trading Stocks with Discounts
-140. (3573) Best Time to Buy and Sell Stock V
-141. (3577) Count the Number of Computer Unlocking Permutations
-142. (3578) Count Partitions With Max-Min Difference at Most K
-143. (3583) Count Special Triplets
-144. (3606) Coupon Code Validator
-145. (3607) Power Grid Maintenance
-146. (3623) Count Number of Trapezoids I
-147. (3625) Count Number of Trapezoids II
-148. (3652) Best Time to Buy and Sell Stock using Strategy
-149. (3454) Separate Squares II
+134. (3507) Minimum Pair Removal to Sort Array I
+135. (3512) Minimum Operations to Make Array Sum Divisible by K
+136. (3516) Find Closest Person
+137. (3531) Count Covered Buildings
+138. (3539) Find Sum of Array Product of Magical Sequences
+139. (3541) Find Most Frequent Vowel and Consonant
+140. (3562) Maximum Profit from Trading Stocks with Discounts
+141. (3573) Best Time to Buy and Sell Stock V
+142. (3577) Count the Number of Computer Unlocking Permutations
+143. (3578) Count Partitions With Max-Min Difference at Most K
+144. (3583) Count Special Triplets
+145. (3606) Coupon Code Validator
+146. (3607) Power Grid Maintenance
+147. (3623) Count Number of Trapezoids I
+148. (3625) Count Number of Trapezoids II
+149. (3652) Best Time to Buy and Sell Stock using Strategy
+150. (3454) Separate Squares II
 
 
