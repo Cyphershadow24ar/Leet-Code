@@ -81,15 +81,16 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 77. (1751) Maximum Number of Events That Can Be Attended II
 76. (1792) Maximum Average Pass Ratio
 75. (1865) Finding Pairs With a Certain Sum
-76. (1895) Largest Magic Square
-77. (1900) The Earliest and Latest Rounds Where Players Compete
-78. (1925) Count Square Sum Triples
-79. (1935) Maximum Number of Words You Can Type
-80. (1948) Delete Duplicate Folders in System
-81. (1957) Delete Characters to Make Fancy String
-82. (1970) Last Day Where you can still Cross
-83. (1975) Maximum Matrix Sum
-84. (2011) Final Value of Variable After Performing Operations
+76. (1877) Minimize Maximum Pair Sum in Array
+77. (1895) Largest Magic Square
+78. (1900) The Earliest and Latest Rounds Where Players Compete
+79. (1925) Count Square Sum Triples
+80. (1935) Maximum Number of Words You Can Type
+81. (1948) Delete Duplicate Folders in System
+82. (1957) Delete Characters to Make Fancy String
+83. (1970) Last Day Where you can still Cross
+84. (1975) Maximum Matrix Sum
+85. (2011) Final Value of Variable After Performing Operations
 74. (2043) Simple Bank System
 75. (2048) Next Greater Numerically Balanced Number
 76. (2054) Two Best Non-Overlapping Events
