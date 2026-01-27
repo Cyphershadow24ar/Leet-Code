@@ -194,7 +194,8 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 147. (3607) Power Grid Maintenance
 148. (3623) Count Number of Trapezoids I
 149. (3625) Count Number of Trapezoids II
-150. (3652) Best Time to Buy and Sell Stock using Strategy
-151. (3454) Separate Squares II
+150. (3650) Minimum Cost Path with Edge Reversals
+151. (3652) Best Time to Buy and Sell Stock using Strategy
+152. (3454) Separate Squares II
 
 
