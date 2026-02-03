@@ -175,33 +175,35 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 127. (3440) Reschedule Meetings for Maximum Free Time II
 128. (3446) Sort Matrix by Diagonals
 129. (3453) Separate Squares I
-130. (3459) Length of Longest V-Shaped Diagonal Segment
-131. (3461) Check If Digits Are Equal in String After Operations I
-132. (3477) Fruits Into Baskets II
-133. (3479) Fruits Into Baskets III
-134. (3480) Maximize Subarrays After Removing One Conflicting Pair
-135. (3487) Maximum Unique Subarray Sum After Deletion
-136. (3494) Find the Minimum Amount of Time to Brew Potions
-137. (3495) Minimum Operations to Make Array Elements Zero
-138. (3507) Minimum Pair Removal to Sort Array I
-139. (3510) Minimum Pair Removal to Sort Array II
-140. (3512) Minimum Operations to Make Array Sum Divisible by K
-141. (3516) Find Closest Person
-142. (3531) Count Covered Buildings
-143. (3539) Find Sum of Array Product of Magical Sequences
-144. (3541) Find Most Frequent Vowel and Consonant
-145. (3562) Maximum Profit from Trading Stocks with Discounts
-146. (3573) Best Time to Buy and Sell Stock V
-147. (3577) Count the Number of Computer Unlocking Permutations
-148. (3578) Count Partitions With Max-Min Difference at Most K
-149. (3583) Count Special Triplets
-150. (3606) Coupon Code Validator
-151. (3607) Power Grid Maintenance
-152. (3623) Count Number of Trapezoids I
-153. (3625) Count Number of Trapezoids II
-154. (3650) Minimum Cost Path with Edge Reversals
-155. (3651) Minimum Cost Path with Teleportations
-156. (3652) Best Time to Buy and Sell Stock using Strategy
-157. (3454) Separate Squares II
+130. (3454) Separate Squares II
+131. (3459) Length of Longest V-Shaped Diagonal Segment
+132. (3461) Check If Digits Are Equal in String After Operations I
+133. (3477) Fruits Into Baskets II
+134. (3479) Fruits Into Baskets III
+135. (3480) Maximize Subarrays After Removing One Conflicting Pair
+136. (3487) Maximum Unique Subarray Sum After Deletion
+137. (3494) Find the Minimum Amount of Time to Brew Potions
+138. (3495) Minimum Operations to Make Array Elements Zero
+139. (3507) Minimum Pair Removal to Sort Array I
+140. (3510) Minimum Pair Removal to Sort Array II
+141. (3512) Minimum Operations to Make Array Sum Divisible by K
+142. (3516) Find Closest Person
+143. (3531) Count Covered Buildings
+144. (3539) Find Sum of Array Product of Magical Sequences
+145. (3541) Find Most Frequent Vowel and Consonant
+146. (3562) Maximum Profit from Trading Stocks with Discounts
+147. (3573) Best Time to Buy and Sell Stock V
+148. (3577) Count the Number of Computer Unlocking Permutations
+149. (3578) Count Partitions With Max-Min Difference at Most K
+150. (3583) Count Special Triplets
+151. (3606) Coupon Code Validator
+152. (3607) Power Grid Maintenance
+153. (3623) Count Number of Trapezoids I
+154. (3625) Count Number of Trapezoids II
+155. (3650) Minimum Cost Path with Edge Reversals
+156. (3651) Minimum Cost Path with Teleportations
+157. (3652) Best Time to Buy and Sell Stock using Strategy
+158. (3637) Trionic Array I
+
 
 
