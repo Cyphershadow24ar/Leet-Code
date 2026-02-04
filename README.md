@@ -200,10 +200,11 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 152. (3607) Power Grid Maintenance
 153. (3623) Count Number of Trapezoids I
 154. (3625) Count Number of Trapezoids II
-155. (3650) Minimum Cost Path with Edge Reversals
-156. (3651) Minimum Cost Path with Teleportations
-157. (3652) Best Time to Buy and Sell Stock using Strategy
-158. (3637) Trionic Array I
+155. (3640) Trionic Array II
+156. (3650) Minimum Cost Path with Edge Reversals
+157. (3651) Minimum Cost Path with Teleportations
+158. (3652) Best Time to Buy and Sell Stock using Strategy
+159. (3637) Trionic Array I
 
 
 
