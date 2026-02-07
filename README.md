@@ -76,11 +76,12 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 72. (1578) Minimum Time to Make Rope Colorful
 73. (1590) Make Sum Divisible by P
 74. (1611) Minimum ONe bit Operations to Make intergers Zero
-75. (1625) Lexicographically Smallest String After Applying Operations 
-76. (1695) Maximum Erasure Value
-77. (1717) Maximum Score From Removing Substrings
-78. (1733) Minimum Number of People to Teach
-79. (1751) Maximum Number of Events That Can Be Attended II
+75. (1625) Lexicographically Smallest String After Applying Operations
+76. (1653) Minimum Deletions to Make String Balanced
+77. (1695) Maximum Erasure Value
+78. (1717) Maximum Score From Removing Substrings
+79. (1733) Minimum Number of People to Teach
+80. (1751) Maximum Number of Events That Can Be Attended II
 76. (1792) Maximum Average Pass Ratio
 75. (1865) Finding Pairs With a Certain Sum
 76. (1877) Minimize Maximum Pair Sum in Array
