@@ -63,21 +63,22 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 59. (1339) Maximum Product of Splitted Binary Tree
 60. (1351) Count Negative Numbers in a Sorted Matrix
 61. (1353) Maximum Number of Events That Can Be Attended
-62. (1390) Four Divisors 
-63. (1394) Find Lucky Integer in an Array
-64. (1411) Number of Ways to Paint N × 3 Grid
-65. (1458) Max Dot Product of Two Subsequences
-66. (1488) Avoid Flood in the City
-67. (1493) Longest Subarray of 1's After Deleting One Element
-68. (1504) Count Submatrices With All Ones
-69. (1518) Water Bottles
-70. (1523) Count Odd Numbers in an Interval Range
-71. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
-72. (1572) Matrix Diagonal Sum
-73. (1578) Minimum Time to Make Rope Colorful
-74. (1590) Make Sum Divisible by P
-75. (1611) Minimum ONe bit Operations to Make intergers Zero
-76. (1625) Lexicographically Smallest String After Applying Operations
+62. (1382) Balance a Binary Search Tree
+63. (1390) Four Divisors 
+64. (1394) Find Lucky Integer in an Array
+65. (1411) Number of Ways to Paint N × 3 Grid
+66. (1458) Max Dot Product of Two Subsequences
+67. (1488) Avoid Flood in the City
+68. (1493) Longest Subarray of 1's After Deleting One Element
+69. (1504) Count Submatrices With All Ones
+70. (1518) Water Bottles
+71. (1523) Count Odd Numbers in an Interval Range
+72. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
+73. (1572) Matrix Diagonal Sum
+74. (1578) Minimum Time to Make Rope Colorful
+75. (1590) Make Sum Divisible by P
+76. (1611) Minimum ONe bit Operations to Make intergers Zero
+77. (1625) Lexicographically Smallest String After Applying Operations
 76. (1653) Minimum Deletions to Make String Balanced
 77. (1695) Maximum Erasure Value
 78. (1717) Maximum Score From Removing Substrings
