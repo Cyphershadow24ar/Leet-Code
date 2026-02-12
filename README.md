@@ -210,8 +210,9 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 159. (3650) Minimum Cost Path with Edge Reversals
 160. (3651) Minimum Cost Path with Teleportations
 161. (3652) Best Time to Buy and Sell Stock using Strategy
-162. (3719) Longest Balanced Subarry I
-163. (3721) Longest Balanced Subarray II
+162. (3713) Longest Balanced Substring I
+163. (3719) Longest Balanced Subarry I
+164. (3721) Longest Balanced Subarray II
      
 
 
