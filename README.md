@@ -35,50 +35,51 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 31. (744) Find Smallest Letter Greater Than Target
 32. (756) Pyramid Transition Matrix
 33. (778) Swim in Rising Water
-34. (808) Soup Servings
-35. (837) New 21 Game
-36. (840) Magic Squares In Grid
-37. (865) Smallest Subtree With all the Deepest Nodes
-38. (869) Reordered Power of 2
-39. (876) Middle of the Linked List
-40. (904) Fruit Into Baskets
-41. (944) Delete Columns to Make Sorted
-42. (955) Delete Columns to Make Sorted II
-43. (960) Delete Columns to Make Sorted III
-44. (961) N-Repeated Element in Size 2N Array
-45. (966) Vowel Spellchecker
-46. (1015) Smallest Integer Divisible by K
-47. (1018) Binary Prefix Divisible By 5
-48. (1161) Maximum level Sum of BInary Tree
-49. (1200) Minimum Absolute Difference
-50. (1233) Remove Sub-Folders from the Filesystem
-51. (1262) Greatest Sum Divisible by Three
-52. (1266) Minimum Time Visiting All Points
-53. (1277) Count Square Submatrices with All Ones
-54. (1290) Convert Binary Number in a Linked List to Integer
-55. (1292) Maximum Side Length of a Square with Sum less than or Equal to threshold
-56. (1304) Find N Unique Integers Sum up to Zero
-57. (1317) Convert Integer to the Sum of Two No-Zero Integers
-58. (1323) Maximum 69 Number
-59. (1339) Maximum Product of Splitted Binary Tree
-60. (1351) Count Negative Numbers in a Sorted Matrix
-61. (1353) Maximum Number of Events That Can Be Attended
-62. (1382) Balance a Binary Search Tree
-63. (1390) Four Divisors 
-64. (1394) Find Lucky Integer in an Array
-65. (1411) Number of Ways to Paint N × 3 Grid
-66. (1458) Max Dot Product of Two Subsequences
-67. (1488) Avoid Flood in the City
-68. (1493) Longest Subarray of 1's After Deleting One Element
-69. (1504) Count Submatrices With All Ones
-70. (1518) Water Bottles
-71. (1523) Count Odd Numbers in an Interval Range
-72. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
-73. (1572) Matrix Diagonal Sum
-74. (1578) Minimum Time to Make Rope Colorful
-75. (1590) Make Sum Divisible by P
-76. (1611) Minimum ONe bit Operations to Make intergers Zero
-77. (1625) Lexicographically Smallest String After Applying Operations
+34. (799) Champagne Tower
+35. (808) Soup Servings
+36. (837) New 21 Game
+37. (840) Magic Squares In Grid
+38. (865) Smallest Subtree With all the Deepest Nodes
+39. (869) Reordered Power of 2
+40. (876) Middle of the Linked List
+41. (904) Fruit Into Baskets
+42. (944) Delete Columns to Make Sorted
+43. (955) Delete Columns to Make Sorted II
+44. (960) Delete Columns to Make Sorted III
+45. (961) N-Repeated Element in Size 2N Array
+46. (966) Vowel Spellchecker
+47. (1015) Smallest Integer Divisible by K
+48. (1018) Binary Prefix Divisible By 5
+49. (1161) Maximum level Sum of BInary Tree
+50. (1200) Minimum Absolute Difference
+51. (1233) Remove Sub-Folders from the Filesystem
+52. (1262) Greatest Sum Divisible by Three
+53. (1266) Minimum Time Visiting All Points
+54. (1277) Count Square Submatrices with All Ones
+55. (1290) Convert Binary Number in a Linked List to Integer
+56. (1292) Maximum Side Length of a Square with Sum less than or Equal to threshold
+57. (1304) Find N Unique Integers Sum up to Zero
+58. (1317) Convert Integer to the Sum of Two No-Zero Integers
+59. (1323) Maximum 69 Number
+60. (1339) Maximum Product of Splitted Binary Tree
+61. (1351) Count Negative Numbers in a Sorted Matrix
+62. (1353) Maximum Number of Events That Can Be Attended
+63. (1382) Balance a Binary Search Tree
+64. (1390) Four Divisors 
+65. (1394) Find Lucky Integer in an Array
+66. (1411) Number of Ways to Paint N × 3 Grid
+67. (1458) Max Dot Product of Two Subsequences
+68. (1488) Avoid Flood in the City
+69. (1493) Longest Subarray of 1's After Deleting One Element
+70. (1504) Count Submatrices With All Ones
+71. (1518) Water Bottles
+72. (1523) Count Odd Numbers in an Interval Range
+73. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
+74. (1572) Matrix Diagonal Sum
+75. (1578) Minimum Time to Make Rope Colorful
+76. (1590) Make Sum Divisible by P
+77. (1611) Minimum ONe bit Operations to Make intergers Zero
+78. (1625) Lexicographically Smallest String After Applying Operations
 76. (1653) Minimum Deletions to Make String Balanced
 77. (1695) Maximum Erasure Value
 78. (1717) Maximum Score From Removing Substrings
