@@ -17,69 +17,70 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 13. (37) Sudoku Solver
 14. (58) Length of last Word
 15. (66) Plus One
-16. (85) Maximal Rectangle
-17. (110) Balanced Binary Tree
-18. (118) Pascal's Triangle
-19. (136) Single Number
-20. (231) Power of Two
-21. (326) Power of Three
-22. (342) Power of Four
-23. (407) Trapping Rain Water II
-24. (417) Pacific Atlantic Water Flow
-25. (459) Repeated Substring Pattern 
-26. (474) Ones and Zeroes
-27. (498) Diagonal Traverse
-28. (594) Longest Harmonious Subsequence
-29. (679) 24 Game
-30. (712) Minimum ASCII Delete Sum for Two Strings
-31. (744) Find Smallest Letter Greater Than Target
-32. (756) Pyramid Transition Matrix
-33. (778) Swim in Rising Water
-34. (799) Champagne Tower
-35. (808) Soup Servings
-36. (837) New 21 Game
-37. (840) Magic Squares In Grid
-38. (865) Smallest Subtree With all the Deepest Nodes
-39. (869) Reordered Power of 2
-40. (876) Middle of the Linked List
-41. (904) Fruit Into Baskets
-42. (944) Delete Columns to Make Sorted
-43. (955) Delete Columns to Make Sorted II
-44. (960) Delete Columns to Make Sorted III
-45. (961) N-Repeated Element in Size 2N Array
-46. (966) Vowel Spellchecker
-47. (1015) Smallest Integer Divisible by K
-48. (1018) Binary Prefix Divisible By 5
-49. (1161) Maximum level Sum of BInary Tree
-50. (1200) Minimum Absolute Difference
-51. (1233) Remove Sub-Folders from the Filesystem
-52. (1262) Greatest Sum Divisible by Three
-53. (1266) Minimum Time Visiting All Points
-54. (1277) Count Square Submatrices with All Ones
-55. (1290) Convert Binary Number in a Linked List to Integer
-56. (1292) Maximum Side Length of a Square with Sum less than or Equal to threshold
-57. (1304) Find N Unique Integers Sum up to Zero
-58. (1317) Convert Integer to the Sum of Two No-Zero Integers
-59. (1323) Maximum 69 Number
-60. (1339) Maximum Product of Splitted Binary Tree
-61. (1351) Count Negative Numbers in a Sorted Matrix
-62. (1353) Maximum Number of Events That Can Be Attended
-63. (1382) Balance a Binary Search Tree
-64. (1390) Four Divisors 
-65. (1394) Find Lucky Integer in an Array
-66. (1411) Number of Ways to Paint N × 3 Grid
-67. (1458) Max Dot Product of Two Subsequences
-68. (1488) Avoid Flood in the City
-69. (1493) Longest Subarray of 1's After Deleting One Element
-70. (1504) Count Submatrices With All Ones
-71. (1518) Water Bottles
-72. (1523) Count Odd Numbers in an Interval Range
-73. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
-74. (1572) Matrix Diagonal Sum
-75. (1578) Minimum Time to Make Rope Colorful
-76. (1590) Make Sum Divisible by P
-77. (1611) Minimum ONe bit Operations to Make intergers Zero
-78. (1625) Lexicographically Smallest String After Applying Operations
+16. (67) Add Binary
+17. (85) Maximal Rectangle
+18. (110) Balanced Binary Tree
+19. (118) Pascal's Triangle
+20. (136) Single Number
+21. (231) Power of Two
+22. (326) Power of Three
+23. (342) Power of Four
+24. (407) Trapping Rain Water II
+25. (417) Pacific Atlantic Water Flow
+26. (459) Repeated Substring Pattern 
+27. (474) Ones and Zeroes
+28. (498) Diagonal Traverse
+29. (594) Longest Harmonious Subsequence
+30. (679) 24 Game
+31. (712) Minimum ASCII Delete Sum for Two Strings
+32. (744) Find Smallest Letter Greater Than Target
+33. (756) Pyramid Transition Matrix
+34. (778) Swim in Rising Water
+35. (799) Champagne Tower
+36. (808) Soup Servings
+37. (837) New 21 Game
+38. (840) Magic Squares In Grid
+39. (865) Smallest Subtree With all the Deepest Nodes
+40. (869) Reordered Power of 2
+41. (876) Middle of the Linked List
+42. (904) Fruit Into Baskets
+43. (944) Delete Columns to Make Sorted
+44. (955) Delete Columns to Make Sorted II
+45. (960) Delete Columns to Make Sorted III
+46. (961) N-Repeated Element in Size 2N Array
+47. (966) Vowel Spellchecker
+48. (1015) Smallest Integer Divisible by K
+49. (1018) Binary Prefix Divisible By 5
+50. (1161) Maximum level Sum of BInary Tree
+51. (1200) Minimum Absolute Difference
+52. (1233) Remove Sub-Folders from the Filesystem
+53. (1262) Greatest Sum Divisible by Three
+54. (1266) Minimum Time Visiting All Points
+55. (1277) Count Square Submatrices with All Ones
+56. (1290) Convert Binary Number in a Linked List to Integer
+57. (1292) Maximum Side Length of a Square with Sum less than or Equal to threshold
+58. (1304) Find N Unique Integers Sum up to Zero
+59. (1317) Convert Integer to the Sum of Two No-Zero Integers
+60. (1323) Maximum 69 Number
+61. (1339) Maximum Product of Splitted Binary Tree
+62. (1351) Count Negative Numbers in a Sorted Matrix
+63. (1353) Maximum Number of Events That Can Be Attended
+64. (1382) Balance a Binary Search Tree
+65. (1390) Four Divisors 
+66. (1394) Find Lucky Integer in an Array
+67. (1411) Number of Ways to Paint N × 3 Grid
+68. (1458) Max Dot Product of Two Subsequences
+69. (1488) Avoid Flood in the City
+70. (1493) Longest Subarray of 1's After Deleting One Element
+71. (1504) Count Submatrices With All Ones
+72. (1518) Water Bottles
+73. (1523) Count Odd Numbers in an Interval Range
+74. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
+75. (1572) Matrix Diagonal Sum
+76. (1578) Minimum Time to Make Rope Colorful
+77. (1590) Make Sum Divisible by P
+78. (1611) Minimum ONe bit Operations to Make intergers Zero
+79. (1625) Lexicographically Smallest String After Applying Operations
 76. (1653) Minimum Deletions to Make String Balanced
 77. (1695) Maximum Erasure Value
 78. (1717) Maximum Score From Removing Substrings
