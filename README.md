@@ -39,47 +39,48 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 35. (712) Minimum ASCII Delete Sum for Two Strings
 36. (744) Find Smallest Letter Greater Than Target
 37. (756) Pyramid Transition Matrix
-38. (778) Swim in Rising Water
-39. (799) Champagne Tower
-40. (808) Soup Servings
-41. (837) New 21 Game
-42. (840) Magic Squares In Grid
-43. (865) Smallest Subtree With all the Deepest Nodes
-44. (869) Reordered Power of 2
-45. (876) Middle of the Linked List
-46. (904) Fruit Into Baskets
-47. (944) Delete Columns to Make Sorted
-48. (955) Delete Columns to Make Sorted II
-49. (960) Delete Columns to Make Sorted III
-50. (961) N-Repeated Element in Size 2N Array
-51. (966) Vowel Spellchecker
-52. (1015) Smallest Integer Divisible by K
-53. (1018) Binary Prefix Divisible By 5
-54. (1161) Maximum level Sum of BInary Tree
-55. (1200) Minimum Absolute Difference
-56. (1233) Remove Sub-Folders from the Filesystem
-57. (1262) Greatest Sum Divisible by Three
-58. (1266) Minimum Time Visiting All Points
-59. (1277) Count Square Submatrices with All Ones
-60. (1290) Convert Binary Number in a Linked List to Integer
-61. (1292) Maximum Side Length of a Square with Sum less than or Equal to threshold
-62. (1304) Find N Unique Integers Sum up to Zero
-63. (1317) Convert Integer to the Sum of Two No-Zero Integers
-64. (1323) Maximum 69 Number
-65. (1339) Maximum Product of Splitted Binary Tree
-66. (1351) Count Negative Numbers in a Sorted Matrix
-67. (1353) Maximum Number of Events That Can Be Attended
-68. (1382) Balance a Binary Search Tree
-69. (1390) Four Divisors 
-70. (1394) Find Lucky Integer in an Array
-71. (1411) Number of Ways to Paint N × 3 Grid
-72. (1458) Max Dot Product of Two Subsequences
-73. (1488) Avoid Flood in the City
-74. (1493) Longest Subarray of 1's After Deleting One Element
-75. (1504) Count Submatrices With All Ones
-76. (1518) Water Bottles
-77. (1523) Count Odd Numbers in an Interval Range
-78. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
+38. (761) Special Binary String
+39. (778) Swim in Rising Water
+40. (799) Champagne Tower
+41. (808) Soup Servings
+42. (837) New 21 Game
+43. (840) Magic Squares In Grid
+44. (865) Smallest Subtree With all the Deepest Nodes
+45. (869) Reordered Power of 2
+46. (876) Middle of the Linked List
+47. (904) Fruit Into Baskets
+48. (944) Delete Columns to Make Sorted
+49. (955) Delete Columns to Make Sorted II
+50. (960) Delete Columns to Make Sorted III
+51. (961) N-Repeated Element in Size 2N Array
+52. (966) Vowel Spellchecker
+53. (1015) Smallest Integer Divisible by K
+54. (1018) Binary Prefix Divisible By 5
+55. (1161) Maximum level Sum of BInary Tree
+56. (1200) Minimum Absolute Difference
+57. (1233) Remove Sub-Folders from the Filesystem
+58. (1262) Greatest Sum Divisible by Three
+59. (1266) Minimum Time Visiting All Points
+60. (1277) Count Square Submatrices with All Ones
+61. (1290) Convert Binary Number in a Linked List to Integer
+62. (1292) Maximum Side Length of a Square with Sum less than or Equal to threshold
+63. (1304) Find N Unique Integers Sum up to Zero
+64. (1317) Convert Integer to the Sum of Two No-Zero Integers
+65. (1323) Maximum 69 Number
+66. (1339) Maximum Product of Splitted Binary Tree
+67. (1351) Count Negative Numbers in a Sorted Matrix
+68. (1353) Maximum Number of Events That Can Be Attended
+69. (1382) Balance a Binary Search Tree
+70. (1390) Four Divisors 
+71. (1394) Find Lucky Integer in an Array
+72. (1411) Number of Ways to Paint N × 3 Grid
+73. (1458) Max Dot Product of Two Subsequences
+74. (1488) Avoid Flood in the City
+75. (1493) Longest Subarray of 1's After Deleting One Element
+76. (1504) Count Submatrices With All Ones
+77. (1518) Water Bottles
+78. (1523) Count Odd Numbers in an Interval Range
+79. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
 78. (1572) Matrix Diagonal Sum
 78. (1578) Minimum Time to Make Rope Colorful
 77. (1590) Make Sum Divisible by P
