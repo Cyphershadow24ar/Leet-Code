@@ -58,29 +58,30 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 54. (966) Vowel Spellchecker
 55. (1015) Smallest Integer Divisible by K
 56. (1018) Binary Prefix Divisible By 5
-57. (1161) Maximum level Sum of BInary Tree
-58. (1200) Minimum Absolute Difference
-59. (1233) Remove Sub-Folders from the Filesystem
-60. (1262) Greatest Sum Divisible by Three
-61. (1266) Minimum Time Visiting All Points
-62. (1277) Count Square Submatrices with All Ones
-63. (1290) Convert Binary Number in a Linked List to Integer
-64. (1292) Maximum Side Length of a Square with Sum less than or Equal to threshold
-65. (1304) Find N Unique Integers Sum up to Zero
-66. (1317) Convert Integer to the Sum of Two No-Zero Integers
-67. (1323) Maximum 69 Number
-68. (1339) Maximum Product of Splitted Binary Tree
-69. (1351) Count Negative Numbers in a Sorted Matrix
-70. (1353) Maximum Number of Events That Can Be Attended
-71. (1382) Balance a Binary Search Tree
-72. (1390) Four Divisors 
-73. (1394) Find Lucky Integer in an Array
-74. (1411) Number of Ways to Paint N × 3 Grid
-75. (1458) Max Dot Product of Two Subsequences
-76. (1461) Check If a String Contains All Binary Codes of Size K
-77. (1488) Avoid Flood in the City
-78. (1493) Longest Subarray of 1's After Deleting One Element
-79. (1504) Count Submatrices With All Ones
+57. (1022) Sum of Root To Leaf Binary Numbers
+58. (1161) Maximum level Sum of BInary Tree
+59. (1200) Minimum Absolute Difference
+60. (1233) Remove Sub-Folders from the Filesystem
+61. (1262) Greatest Sum Divisible by Three
+62. (1266) Minimum Time Visiting All Points
+63. (1277) Count Square Submatrices with All Ones
+64. (1290) Convert Binary Number in a Linked List to Integer
+65. (1292) Maximum Side Length of a Square with Sum less than or Equal to threshold
+66. (1304) Find N Unique Integers Sum up to Zero
+67. (1317) Convert Integer to the Sum of Two No-Zero Integers
+68. (1323) Maximum 69 Number
+69. (1339) Maximum Product of Splitted Binary Tree
+70. (1351) Count Negative Numbers in a Sorted Matrix
+71. (1353) Maximum Number of Events That Can Be Attended
+72. (1382) Balance a Binary Search Tree
+73. (1390) Four Divisors 
+74. (1394) Find Lucky Integer in an Array
+75. (1411) Number of Ways to Paint N × 3 Grid
+76. (1458) Max Dot Product of Two Subsequences
+77. (1461) Check If a String Contains All Binary Codes of Size K
+78. (1488) Avoid Flood in the City
+79. (1493) Longest Subarray of 1's After Deleting One Element
+80. (1504) Count Submatrices With All Ones
 78. (1518) Water Bottles
 79. (1523) Count Odd Numbers in an Interval Range
 80. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
