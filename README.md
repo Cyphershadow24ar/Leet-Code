@@ -77,12 +77,13 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 73. (1382) Balance a Binary Search Tree
 74. (1390) Four Divisors 
 75. (1394) Find Lucky Integer in an Array
-76. (1411) Number of Ways to Paint N × 3 Grid
-77. (1458) Max Dot Product of Two Subsequences
-78. (1461) Check If a String Contains All Binary Codes of Size K
-79. (1488) Avoid Flood in the City
-80. (1493) Longest Subarray of 1's After Deleting One Element
-81. (1504) Count Submatrices With All Ones
+76. (1404) Number of Steps to Reduce a Number in Binary Representation to One
+77. (1411) Number of Ways to Paint N × 3 Grid
+78. (1458) Max Dot Product of Two Subsequences
+79. (1461) Check If a String Contains All Binary Codes of Size K
+80. (1488) Avoid Flood in the City
+81. (1493) Longest Subarray of 1's After Deleting One Element
+82. (1504) Count Submatrices With All Ones
 78. (1518) Water Bottles
 79. (1523) Count Odd Numbers in an Interval Range
 80. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
