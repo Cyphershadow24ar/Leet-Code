@@ -88,6 +88,7 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 79. (1523) Count Odd Numbers in an Interval Range
 80. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
 81. (1536) Minimum Swaps to Arrange a Binary Grid
+82. (1545) Find Kth Bit in Nth Binary String
 78. (1572) Matrix Diagonal Sum
 78. (1578) Minimum Time to Make Rope Colorful
 77. (1590) Make Sum Divisible by P
