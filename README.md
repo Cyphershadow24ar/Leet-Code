@@ -91,6 +91,7 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 82. (1545) Find Kth Bit in Nth Binary String
 78. (1572) Matrix Diagonal Sum
 78. (1578) Minimum Time to Make Rope Colorful
+79. (1582) Special Postions in a Binary Matrix
 77. (1590) Make Sum Divisible by P
 78. (1611) Minimum ONe bit Operations to Make intergers Zero
 79. (1625) Lexicographically Smallest String After Applying Operations
