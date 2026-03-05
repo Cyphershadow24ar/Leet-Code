@@ -102,6 +102,7 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 80. (1717) Maximum Score From Removing Substrings
 81. (1733) Minimum Number of People to Teach
 82. (1751) Maximum Number of Events That Can Be Attended II
+83. (1758) Minimum Changes To Make Alternating Binary String
 76. (1792) Maximum Average Pass Ratio
 75. (1865) Finding Pairs With a Certain Sum
 76. (1877) Minimize Maximum Pair Sum in Array
