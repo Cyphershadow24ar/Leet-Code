@@ -114,8 +114,9 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 82. (1957) Delete Characters to Make Fancy String
 83. (1970) Last Day Where you can still Cross
 84. (1975) Maximum Matrix Sum
-85. (1984) Minimum Difference Between Highest and Lowest of K Scores
-86. (2011) Final Value of Variable After Performing Operations
+85. (1980) Find Unique Binary String
+86. (1984) Minimum Difference Between Highest and Lowest of K Scores
+87. (2011) Final Value of Variable After Performing Operations
 74. (2043) Simple Bank System
 75. (2048) Next Greater Numerically Balanced Number
 76. (2054) Two Best Non-Overlapping Events
