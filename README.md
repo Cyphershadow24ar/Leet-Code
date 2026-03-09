@@ -11,80 +11,81 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 7. Longest Palindromic Substring
 8. Minimum Number of Operations to Move All Balls to Each Box
 9. Number of Subsequences that satisfy the given Sum Condition
-10. (7) Reverse Integer
-11. (11) Container With Most Water
-12. (14) Longest Common Prefix
-13. (36) Valid Sudoku
-14. (37) Sudoku Solver
-15. (58) Length of last Word
-16. (66) Plus One
-17. (67) Add Binary
-18. (85) Maximal Rectangle
-19. (110) Balanced Binary Tree
-20. (118) Pascal's Triangle
-21. (136) Single Number
-22. (190) Reverse Bits
-23. (231) Power of Two
-24. (326) Power of Three
-25. (342) Power of Four
-26. (401) Binary Watch
-27. (407) Trapping Rain Water II
-28. (417) Pacific Atlantic Water Flow
-29. (459) Repeated Substring Pattern 
-30. (474) Ones and Zeroes
-31. (498) Diagonal Traverse
-32. (594) Longest Harmonious Subsequence
-33. (679) 24 Game
-34. (693) Binary Number with Alternating Bits
-35. (696) Count Binary Substrings
-36. (712) Minimum ASCII Delete Sum for Two Strings
-37. (744) Find Smallest Letter Greater Than Target
-38. (756) Pyramid Transition Matrix
-39. (761) Special Binary String
-40. (762) Prime Number of Set Bits in Binary Representation
-41. (778) Swim in Rising Water
-42. (799) Champagne Tower
-43. (808) Soup Servings
-44. (837) New 21 Game
-45. (840) Magic Squares In Grid
-46. (865) Smallest Subtree With all the Deepest Nodes
-47. (868) Binary Gap
-48. (869) Reordered Power of 2
-49. (876) Middle of the Linked List
-50. (904) Fruit Into Baskets
-51. (944) Delete Columns to Make Sorted
-52. (955) Delete Columns to Make Sorted II
-53. (960) Delete Columns to Make Sorted III
-54. (961) N-Repeated Element in Size 2N Array
-55. (966) Vowel Spellchecker
-56. (1015) Smallest Integer Divisible by K
-57. (1018) Binary Prefix Divisible By 5
-58. (1022) Sum of Root To Leaf Binary Numbers
-59. (1161) Maximum level Sum of BInary Tree
-60. (1200) Minimum Absolute Difference
-61. (1233) Remove Sub-Folders from the Filesystem
-62. (1262) Greatest Sum Divisible by Three
-63. (1266) Minimum Time Visiting All Points
-64. (1277) Count Square Submatrices with All Ones
-65. (1290) Convert Binary Number in a Linked List to Integer
-66. (1292) Maximum Side Length of a Square with Sum less than or Equal to threshold
-67. (1304) Find N Unique Integers Sum up to Zero
-68. (1317) Convert Integer to the Sum of Two No-Zero Integers
-69. (1323) Maximum 69 Number
-70. (1339) Maximum Product of Splitted Binary Tree
-71. (1351) Count Negative Numbers in a Sorted Matrix
-72. (1353) Maximum Number of Events That Can Be Attended
-73. (1356) Sort Integers by The Number of 1 Bits
-74. (1382) Balance a Binary Search Tree
-75. (1390) Four Divisors 
-76. (1394) Find Lucky Integer in an Array
-77. (1404) Number of Steps to Reduce a Number in Binary Representation to One
-78. (1411) Number of Ways to Paint N × 3 Grid
-79. (1458) Max Dot Product of Two Subsequences
-80. (1461) Check If a String Contains All Binary Codes of Size K
-81. (1488) Avoid Flood in the City
-82. (1493) Longest Subarray of 1's After Deleting One Element
-83. (1504) Count Submatrices With All Ones
+10. (4) Median of Two Sorted Arrays
+11. (7) Reverse Integer
+12. (11) Container With Most Water
+13. (14) Longest Common Prefix
+14. (36) Valid Sudoku
+15. (37) Sudoku Solver
+16. (58) Length of last Word
+17. (66) Plus One
+18. (67) Add Binary
+19. (85) Maximal Rectangle
+20. (110) Balanced Binary Tree
+21. (118) Pascal's Triangle
+22. (136) Single Number
+23. (190) Reverse Bits
+24. (231) Power of Two
+25. (326) Power of Three
+26. (342) Power of Four
+27. (401) Binary Watch
+28. (407) Trapping Rain Water II
+29. (417) Pacific Atlantic Water Flow
+30. (459) Repeated Substring Pattern 
+31. (474) Ones and Zeroes
+32. (498) Diagonal Traverse
+33. (594) Longest Harmonious Subsequence
+34. (679) 24 Game
+35. (693) Binary Number with Alternating Bits
+36. (696) Count Binary Substrings
+37. (712) Minimum ASCII Delete Sum for Two Strings
+38. (744) Find Smallest Letter Greater Than Target
+39. (756) Pyramid Transition Matrix
+40. (761) Special Binary String
+41. (762) Prime Number of Set Bits in Binary Representation
+42. (778) Swim in Rising Water
+43. (799) Champagne Tower
+44. (808) Soup Servings
+45. (837) New 21 Game
+46. (840) Magic Squares In Grid
+47. (865) Smallest Subtree With all the Deepest Nodes
+48. (868) Binary Gap
+49. (869) Reordered Power of 2
+50. (876) Middle of the Linked List
+51. (904) Fruit Into Baskets
+52. (944) Delete Columns to Make Sorted
+53. (955) Delete Columns to Make Sorted II
+54. (960) Delete Columns to Make Sorted III
+55. (961) N-Repeated Element in Size 2N Array
+56. (966) Vowel Spellchecker
+57. (1015) Smallest Integer Divisible by K
+58. (1018) Binary Prefix Divisible By 5
+59. (1022) Sum of Root To Leaf Binary Numbers
+60. (1161) Maximum level Sum of BInary Tree
+61. (1200) Minimum Absolute Difference
+62. (1233) Remove Sub-Folders from the Filesystem
+63. (1262) Greatest Sum Divisible by Three
+64. (1266) Minimum Time Visiting All Points
+65. (1277) Count Square Submatrices with All Ones
+66. (1290) Convert Binary Number in a Linked List to Integer
+67. (1292) Maximum Side Length of a Square with Sum less than or Equal to threshold
+68. (1304) Find N Unique Integers Sum up to Zero
+69. (1317) Convert Integer to the Sum of Two No-Zero Integers
+70. (1323) Maximum 69 Number
+71. (1339) Maximum Product of Splitted Binary Tree
+72. (1351) Count Negative Numbers in a Sorted Matrix
+73. (1353) Maximum Number of Events That Can Be Attended
+74. (1356) Sort Integers by The Number of 1 Bits
+75. (1382) Balance a Binary Search Tree
+76. (1390) Four Divisors 
+77. (1394) Find Lucky Integer in an Array
+78. (1404) Number of Steps to Reduce a Number in Binary Representation to One
+79. (1411) Number of Ways to Paint N × 3 Grid
+80. (1458) Max Dot Product of Two Subsequences
+81. (1461) Check If a String Contains All Binary Codes of Size K
+82. (1488) Avoid Flood in the City
+83. (1493) Longest Subarray of 1's After Deleting One Element
+84. (1504) Count Submatrices With All Ones
 78. (1518) Water Bottles
 79. (1523) Count Odd Numbers in an Interval Range
 80. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
