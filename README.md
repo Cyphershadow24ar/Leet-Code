@@ -224,21 +224,22 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 150. (3577) Count the Number of Computer Unlocking Permutations
 151. (3578) Count Partitions With Max-Min Difference at Most K
 152. (3583) Count Special Triplets
-153. (3606) Coupon Code Validator
-154. (3607) Power Grid Maintenance
-155. (3623) Count Number of Trapezoids I
-156. (3625) Count Number of Trapezoids II
-157. (3634) Minimum Removals to Balance Array
-158. (3637) Trionic Array I
-159. (3640) Trionic Array II
-160. (3650) Minimum Cost Path with Edge Reversals
-161. (3651) Minimum Cost Path with Teleportations
-162. (3652) Best Time to Buy and Sell Stock using Strategy
-163. (3666) Minimum Operations to Equalize Binary String
-164. (3713) Longest Balanced Substring I
-165. (3714) Longest Balanced Substring II
-166. (3719) Longest Balanced Subarry I
-167. (3721) Longest Balanced Subarray II
+153. (3600) Maximize Spanning Tree Stability with Upgrades
+154. (3606) Coupon Code Validator
+155. (3607) Power Grid Maintenance
+156. (3623) Count Number of Trapezoids I
+157. (3625) Count Number of Trapezoids II
+158. (3634) Minimum Removals to Balance Array
+159. (3637) Trionic Array I
+160. (3640) Trionic Array II
+161. (3650) Minimum Cost Path with Edge Reversals
+162. (3651) Minimum Cost Path with Teleportations
+163. (3652) Best Time to Buy and Sell Stock using Strategy
+164. (3666) Minimum Operations to Equalize Binary String
+165. (3713) Longest Balanced Substring I
+166. (3714) Longest Balanced Substring II
+167. (3719) Longest Balanced Subarry I
+168. (3721) Longest Balanced Subarray II
      
 
 
