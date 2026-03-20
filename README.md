@@ -227,26 +227,27 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 149. (3539) Find Sum of Array Product of Magical Sequences
 150. (3541) Find Most Frequent Vowel and Consonant
 151. (3562) Maximum Profit from Trading Stocks with Discounts
-152. (3573) Best Time to Buy and Sell Stock V
-153. (3577) Count the Number of Computer Unlocking Permutations
-154. (3578) Count Partitions With Max-Min Difference at Most K
-155. (3583) Count Special Triplets
-156. (3600) Maximize Spanning Tree Stability with Upgrades
-157. (3606) Coupon Code Validator
-158. (3607) Power Grid Maintenance
-159. (3623) Count Number of Trapezoids I
-160. (3625) Count Number of Trapezoids II
-161. (3634) Minimum Removals to Balance Array
-162. (3637) Trionic Array I
-163. (3640) Trionic Array II
-164. (3650) Minimum Cost Path with Edge Reversals
-165. (3651) Minimum Cost Path with Teleportations
-166. (3652) Best Time to Buy and Sell Stock using Strategy
-167. (3666) Minimum Operations to Equalize Binary String
-168. (3713) Longest Balanced Substring I
-169. (3714) Longest Balanced Substring II
-170. (3719) Longest Balanced Subarry I
-171. (3721) Longest Balanced Subarray II
+152. (3567) Minimum Absolute Difference in Sliding Submatrix
+153. (3573) Best Time to Buy and Sell Stock V
+154. (3577) Count the Number of Computer Unlocking Permutations
+155. (3578) Count Partitions With Max-Min Difference at Most K
+156. (3583) Count Special Triplets
+157. (3600) Maximize Spanning Tree Stability with Upgrades
+158. (3606) Coupon Code Validator
+159. (3607) Power Grid Maintenance
+160. (3623) Count Number of Trapezoids I
+161. (3625) Count Number of Trapezoids II
+162. (3634) Minimum Removals to Balance Array
+163. (3637) Trionic Array I
+164. (3640) Trionic Array II
+165. (3650) Minimum Cost Path with Edge Reversals
+166. (3651) Minimum Cost Path with Teleportations
+167. (3652) Best Time to Buy and Sell Stock using Strategy
+168. (3666) Minimum Operations to Equalize Binary String
+169. (3713) Longest Balanced Substring I
+170. (3714) Longest Balanced Substring II
+171. (3719) Longest Balanced Subarry I
+172. (3721) Longest Balanced Subarray II
      
 
 
