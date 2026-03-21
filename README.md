@@ -240,14 +240,15 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 162. (3634) Minimum Removals to Balance Array
 163. (3637) Trionic Array I
 164. (3640) Trionic Array II
-165. (3650) Minimum Cost Path with Edge Reversals
-166. (3651) Minimum Cost Path with Teleportations
-167. (3652) Best Time to Buy and Sell Stock using Strategy
-168. (3666) Minimum Operations to Equalize Binary String
-169. (3713) Longest Balanced Substring I
-170. (3714) Longest Balanced Substring II
-171. (3719) Longest Balanced Subarry I
-172. (3721) Longest Balanced Subarray II
+165. (3643) Flip Square Submatrix Vertically
+166. (3650) Minimum Cost Path with Edge Reversals
+167. (3651) Minimum Cost Path with Teleportations
+168. (3652) Best Time to Buy and Sell Stock using Strategy
+169. (3666) Minimum Operations to Equalize Binary String
+170. (3713) Longest Balanced Substring I
+171. (3714) Longest Balanced Substring II
+172. (3719) Longest Balanced Subarry I
+173. (3721) Longest Balanced Subarray II
      
 
 
