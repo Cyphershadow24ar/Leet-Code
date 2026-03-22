@@ -112,18 +112,19 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 75. (1865) Finding Pairs With a Certain Sum
 76. (1877) Minimize Maximum Pair Sum in Array
 77. (1878) Get Biggest Three Rhombus Sums in a Grid
-78. (1888) Minimum Number of Flips to Make the Binary String Alternating
-79. (1895) Largest Magic Square
-80. (1900) The Earliest and Latest Rounds Where Players Compete
-81. (1925) Count Square Sum Triples
-82. (1935) Maximum Number of Words You Can Type
-83. (1948) Delete Duplicate Folders in System
-84. (1957) Delete Characters to Make Fancy String
-85. (1970) Last Day Where you can still Cross
-86. (1975) Maximum Matrix Sum
-87. (1980) Find Unique Binary String
-88. (1984) Minimum Difference Between Highest and Lowest of K Scores
-89. (2011) Final Value of Variable After Performing Operations
+78. (1886) Determine Whether Matrix Can Be Obtained By Rotation
+79. (1888) Minimum Number of Flips to Make the Binary String Alternating
+80. (1895) Largest Magic Square
+81. (1900) The Earliest and Latest Rounds Where Players Compete
+82. (1925) Count Square Sum Triples
+83. (1935) Maximum Number of Words You Can Type
+84. (1948) Delete Duplicate Folders in System
+85. (1957) Delete Characters to Make Fancy String
+86. (1970) Last Day Where you can still Cross
+87. (1975) Maximum Matrix Sum
+88. (1980) Find Unique Binary String
+89. (1984) Minimum Difference Between Highest and Lowest of K Scores
+90. (2011) Final Value of Variable After Performing Operations
 74. (2043) Simple Bank System
 75. (2048) Next Greater Numerically Balanced Number
 76. (2054) Two Best Non-Overlapping Events
