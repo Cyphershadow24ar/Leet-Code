@@ -229,29 +229,30 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 149. (3531) Count Covered Buildings
 150. (3539) Find Sum of Array Product of Magical Sequences
 151. (3541) Find Most Frequent Vowel and Consonant
-152. (3562) Maximum Profit from Trading Stocks with Discounts
-153. (3567) Minimum Absolute Difference in Sliding Submatrix
-154. (3573) Best Time to Buy and Sell Stock V
-155. (3577) Count the Number of Computer Unlocking Permutations
-156. (3578) Count Partitions With Max-Min Difference at Most K
-157. (3583) Count Special Triplets
-158. (3600) Maximize Spanning Tree Stability with Upgrades
-159. (3606) Coupon Code Validator
-160. (3607) Power Grid Maintenance
-161. (3623) Count Number of Trapezoids I
-162. (3625) Count Number of Trapezoids II
-163. (3634) Minimum Removals to Balance Array
-164. (3637) Trionic Array I
-165. (3640) Trionic Array II
-166. (3643) Flip Square Submatrix Vertically
-167. (3650) Minimum Cost Path with Edge Reversals
-168. (3651) Minimum Cost Path with Teleportations
-169. (3652) Best Time to Buy and Sell Stock using Strategy
-170. (3666) Minimum Operations to Equalize Binary String
-171. (3713) Longest Balanced Substring I
-172. (3714) Longest Balanced Substring II
-173. (3719) Longest Balanced Subarry I
-174. (3721) Longest Balanced Subarray II
+152. (3546) Equal Sum Grid Partition I
+153. (3562) Maximum Profit from Trading Stocks with Discounts
+154. (3567) Minimum Absolute Difference in Sliding Submatrix
+155. (3573) Best Time to Buy and Sell Stock V
+156. (3577) Count the Number of Computer Unlocking Permutations
+157. (3578) Count Partitions With Max-Min Difference at Most K
+158. (3583) Count Special Triplets
+159. (3600) Maximize Spanning Tree Stability with Upgrades
+160. (3606) Coupon Code Validator
+161. (3607) Power Grid Maintenance
+162. (3623) Count Number of Trapezoids I
+163. (3625) Count Number of Trapezoids II
+164. (3634) Minimum Removals to Balance Array
+165. (3637) Trionic Array I
+166. (3640) Trionic Array II
+167. (3643) Flip Square Submatrix Vertically
+168. (3650) Minimum Cost Path with Edge Reversals
+169. (3651) Minimum Cost Path with Teleportations
+170. (3652) Best Time to Buy and Sell Stock using Strategy
+171. (3666) Minimum Operations to Equalize Binary String
+172. (3713) Longest Balanced Substring I
+173. (3714) Longest Balanced Substring II
+174. (3719) Longest Balanced Subarry I
+175. (3721) Longest Balanced Subarray II
      
 
 
