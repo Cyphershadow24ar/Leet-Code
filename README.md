@@ -159,103 +159,104 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 79. (2654) Minimum Number of Operations to Make All Array Elements Equal to 1
 80. (2749) Minimum Operations to Make the Integer Zero
 81. (2787) Ways to Express an Integer as Sum of Powers
-82. (2872) Maximum Number of K-Divisible Components
-83. (2943) Maximize Area of Square Hole in Grid
-84. (2946) Matrix Similarity After Cyclic Shifts
-85. (2975) Maximum Square Area by Removing Fences from a Field
-86. (2976) Minimum Cost to Convert String I
-87. (2977) Minimum Cost to Convert String II
-88. (2906) Construct Product Matrix
-89. (3000) Maximum Area of Longest Diagonal Rectangle
-90. (3003) Maximize the Number of Partitions After Operations
-91. (3010) Divide an Array Into Subarrays With Minimum Cost I
-92. 3013 Divide an Array Into Subarrays With Minimum Cost II
-93. (3021) Alice and Bob Playing Flower Game
-94. (3025) Find the Number of Ways to Place People I
-95. (3027) Find the Number of Ways to Place People II
-96. (3047) Find the Largest Area of Square Inside Two Rectangles
-97. (3070) Count Submatrices with Top-Left Element and Sum Less Than k
-98. (3074) Apple Redistribution into Boxes
-99. (3075) Maximize Happiness of Selected Children
-100. (3100) Water Bottles II
-101. (3129) Find All Possible Stable Binary Arrays I
-102. (3136) Valid Word
-103. (3147) Taking Maximum Energy From the Mystic Dungeon
-104. (3186) Maximum Total Damage With Spell Casting
-105. (3190) Find Minimum Operations to Make All Elements Divisible by Three
-106. (3195) Find the Minimum Area to Cover All Ones I
-107. (3197) Find the Minimum Area to Cover All Ones II
-108. (3201) Find the Maximum Length of Valid Subsequence I
-109. (3202) Find the Maximum Length of Valid Subsequence II
-110. (3212) Count Submatrices With Equal Frequency of X and Y
-111. (3217) Delete Nodes From Linked List Present in Array
-112. (3228) Maximum Number of Operations to Move Ones to the End
-113. (3289) The Two Sneaky Numbers of Digitville
-114. (3296) 3296. Minimum Number of Seconds to Make Mountain Height Zero
-115. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
-116. (3307) Find the K-th Character in String Game II
-117. (3314) Construct the Minimum Bitwise Array I
-118. (3315) Construct the Minimum Bitwise Array II
-119. (3318) Find X-Sum of All K-Long Subarrays I
-120. (3330) Find the Original Typed String I
-121. (3333) Find the Original Typed String II
-122. (3346) Maximum Frequency of an Element After Performing Operations I
-123. (3347) Maximum Frequency of an Element After Performing Operations II
-124. (3349) Adjacent Increasing Subarrays Detection I
-125. (3350) Adjacent Increasing Subarrays Detection II
-126. (3354) Make Array Elements Equal to Zero
-127. (3363) Find the Maximum Number of Fruits Collected
-128. (3370) Smallest Number With All Set Bits
-129. (3379) Transformed Array
-130. (3381) Maximum subarray sum with length Divisible by K
-131. (3397) Maximum Number of Distinct Elements After Operations
-132. (3432) Count Partitions with Even Sum Difference
-133. (3433) Count Mentions Per User
-134. (3439) Reschedule Meetings for Maximum Free Time I
-135. (3440) Reschedule Meetings for Maximum Free Time II
-136. (3446) Sort Matrix by Diagonals
-137. (3453) Separate Squares I
-138. (3454) Separate Squares II
-139. (3459) Length of Longest V-Shaped Diagonal Segment
-140. (3461) Check If Digits Are Equal in String After Operations I
-141. (3477) Fruits Into Baskets II
-142. (3479) Fruits Into Baskets III
-143. (3480) Maximize Subarrays After Removing One Conflicting Pair
-144. (3487) Maximum Unique Subarray Sum After Deletion
-145. (3494) Find the Minimum Amount of Time to Brew Potions
-146. (3495) Minimum Operations to Make Array Elements Zero
-147. (3507) Minimum Pair Removal to Sort Array I
-148. (3510) Minimum Pair Removal to Sort Array II
-149. (3512) Minimum Operations to Make Array Sum Divisible by K
-150. (3516) Find Closest Person
-151. (3531) Count Covered Buildings
-152. (3539) Find Sum of Array Product of Magical Sequences
-153. (3541) Find Most Frequent Vowel and Consonant
-154. (3546) Equal Sum Grid Partition I
-155. (3548) Equal Sum Grid Partition II
-156. (3562) Maximum Profit from Trading Stocks with Discounts
-157. (3567) Minimum Absolute Difference in Sliding Submatrix
-158. (3573) Best Time to Buy and Sell Stock V
-159. (3577) Count the Number of Computer Unlocking Permutations
-160. (3578) Count Partitions With Max-Min Difference at Most K
-161. (3583) Count Special Triplets
-162. (3600) Maximize Spanning Tree Stability with Upgrades
-163. (3606) Coupon Code Validator
-164. (3607) Power Grid Maintenance
-165. (3623) Count Number of Trapezoids I
-166. (3625) Count Number of Trapezoids II
-167. (3634) Minimum Removals to Balance Array
-168. (3637) Trionic Array I
-169. (3640) Trionic Array II
-170. (3643) Flip Square Submatrix Vertically
-171. (3650) Minimum Cost Path with Edge Reversals
-172. (3651) Minimum Cost Path with Teleportations
-173. (3652) Best Time to Buy and Sell Stock using Strategy
-174. (3666) Minimum Operations to Equalize Binary String
-175. (3713) Longest Balanced Substring I
-176. (3714) Longest Balanced Substring II
-177. (3719) Longest Balanced Subarry I
-178. (3721) Longest Balanced Subarray II
+82. (2839) Check if Strings Can be Made Equal With Operations I
+83. (2872) Maximum Number of K-Divisible Components
+84. (2943) Maximize Area of Square Hole in Grid
+85. (2946) Matrix Similarity After Cyclic Shifts
+86. (2975) Maximum Square Area by Removing Fences from a Field
+87. (2976) Minimum Cost to Convert String I
+88. (2977) Minimum Cost to Convert String II
+89. (2906) Construct Product Matrix
+90. (3000) Maximum Area of Longest Diagonal Rectangle
+91. (3003) Maximize the Number of Partitions After Operations
+92. (3010) Divide an Array Into Subarrays With Minimum Cost I
+93. 3013 Divide an Array Into Subarrays With Minimum Cost II
+94. (3021) Alice and Bob Playing Flower Game
+95. (3025) Find the Number of Ways to Place People I
+96. (3027) Find the Number of Ways to Place People II
+97. (3047) Find the Largest Area of Square Inside Two Rectangles
+98. (3070) Count Submatrices with Top-Left Element and Sum Less Than k
+99. (3074) Apple Redistribution into Boxes
+100. (3075) Maximize Happiness of Selected Children
+101. (3100) Water Bottles II
+102. (3129) Find All Possible Stable Binary Arrays I
+103. (3136) Valid Word
+104. (3147) Taking Maximum Energy From the Mystic Dungeon
+105. (3186) Maximum Total Damage With Spell Casting
+106. (3190) Find Minimum Operations to Make All Elements Divisible by Three
+107. (3195) Find the Minimum Area to Cover All Ones I
+108. (3197) Find the Minimum Area to Cover All Ones II
+109. (3201) Find the Maximum Length of Valid Subsequence I
+110. (3202) Find the Maximum Length of Valid Subsequence II
+111. (3212) Count Submatrices With Equal Frequency of X and Y
+112. (3217) Delete Nodes From Linked List Present in Array
+113. (3228) Maximum Number of Operations to Move Ones to the End
+114. (3289) The Two Sneaky Numbers of Digitville
+115. (3296) 3296. Minimum Number of Seconds to Make Mountain Height Zero
+116. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+117. (3307) Find the K-th Character in String Game II
+118. (3314) Construct the Minimum Bitwise Array I
+119. (3315) Construct the Minimum Bitwise Array II
+120. (3318) Find X-Sum of All K-Long Subarrays I
+121. (3330) Find the Original Typed String I
+122. (3333) Find the Original Typed String II
+123. (3346) Maximum Frequency of an Element After Performing Operations I
+124. (3347) Maximum Frequency of an Element After Performing Operations II
+125. (3349) Adjacent Increasing Subarrays Detection I
+126. (3350) Adjacent Increasing Subarrays Detection II
+127. (3354) Make Array Elements Equal to Zero
+128. (3363) Find the Maximum Number of Fruits Collected
+129. (3370) Smallest Number With All Set Bits
+130. (3379) Transformed Array
+131. (3381) Maximum subarray sum with length Divisible by K
+132. (3397) Maximum Number of Distinct Elements After Operations
+133. (3432) Count Partitions with Even Sum Difference
+134. (3433) Count Mentions Per User
+135. (3439) Reschedule Meetings for Maximum Free Time I
+136. (3440) Reschedule Meetings for Maximum Free Time II
+137. (3446) Sort Matrix by Diagonals
+138. (3453) Separate Squares I
+139. (3454) Separate Squares II
+140. (3459) Length of Longest V-Shaped Diagonal Segment
+141. (3461) Check If Digits Are Equal in String After Operations I
+142. (3477) Fruits Into Baskets II
+143. (3479) Fruits Into Baskets III
+144. (3480) Maximize Subarrays After Removing One Conflicting Pair
+145. (3487) Maximum Unique Subarray Sum After Deletion
+146. (3494) Find the Minimum Amount of Time to Brew Potions
+147. (3495) Minimum Operations to Make Array Elements Zero
+148. (3507) Minimum Pair Removal to Sort Array I
+149. (3510) Minimum Pair Removal to Sort Array II
+150. (3512) Minimum Operations to Make Array Sum Divisible by K
+151. (3516) Find Closest Person
+152. (3531) Count Covered Buildings
+153. (3539) Find Sum of Array Product of Magical Sequences
+154. (3541) Find Most Frequent Vowel and Consonant
+155. (3546) Equal Sum Grid Partition I
+156. (3548) Equal Sum Grid Partition II
+157. (3562) Maximum Profit from Trading Stocks with Discounts
+158. (3567) Minimum Absolute Difference in Sliding Submatrix
+159. (3573) Best Time to Buy and Sell Stock V
+160. (3577) Count the Number of Computer Unlocking Permutations
+161. (3578) Count Partitions With Max-Min Difference at Most K
+162. (3583) Count Special Triplets
+163. (3600) Maximize Spanning Tree Stability with Upgrades
+164. (3606) Coupon Code Validator
+165. (3607) Power Grid Maintenance
+166. (3623) Count Number of Trapezoids I
+167. (3625) Count Number of Trapezoids II
+168. (3634) Minimum Removals to Balance Array
+169. (3637) Trionic Array I
+170. (3640) Trionic Array II
+171. (3643) Flip Square Submatrix Vertically
+172. (3650) Minimum Cost Path with Edge Reversals
+173. (3651) Minimum Cost Path with Teleportations
+174. (3652) Best Time to Buy and Sell Stock using Strategy
+175. (3666) Minimum Operations to Equalize Binary String
+176. (3713) Longest Balanced Substring I
+177. (3714) Longest Balanced Substring II
+178. (3719) Longest Balanced Subarry I
+179. (3721) Longest Balanced Subarray II
      
 
 
