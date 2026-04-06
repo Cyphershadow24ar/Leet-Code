@@ -53,41 +53,42 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 49. (865) Smallest Subtree With all the Deepest Nodes
 50. (868) Binary Gap
 51. (869) Reordered Power of 2
-52. (876) Middle of the Linked List
-53. (904) Fruit Into Baskets
-54. (944) Delete Columns to Make Sorted
-55. (955) Delete Columns to Make Sorted II
-56. (960) Delete Columns to Make Sorted III
-57. (961) N-Repeated Element in Size 2N Array
-58. (966) Vowel Spellchecker
-59. (1015) Smallest Integer Divisible by K
-60. (1018) Binary Prefix Divisible By 5
-61. (1022) Sum of Root To Leaf Binary Numbers
-62. (1161) Maximum level Sum of BInary Tree
-63. (1200) Minimum Absolute Difference
-64. (1233) Remove Sub-Folders from the Filesystem
-65. (1262) Greatest Sum Divisible by Three
-66. (1266) Minimum Time Visiting All Points
-67. (1277) Count Square Submatrices with All Ones
-68. (1290) Convert Binary Number in a Linked List to Integer
-69. (1292) Maximum Side Length of a Square with Sum less than or Equal to threshold
-70. (1304) Find N Unique Integers Sum up to Zero
-71. (1317) Convert Integer to the Sum of Two No-Zero Integers
-72. (1323) Maximum 69 Number
-73. (1339) Maximum Product of Splitted Binary Tree
-74. (1351) Count Negative Numbers in a Sorted Matrix
-75. (1353) Maximum Number of Events That Can Be Attended
-76. (1356) Sort Integers by The Number of 1 Bits
-77. (1382) Balance a Binary Search Tree
-78. (1390) Four Divisors 
-79. (1394) Find Lucky Integer in an Array
-80. (1404) Number of Steps to Reduce a Number in Binary Representation to One
-81. (1411) Number of Ways to Paint N × 3 Grid
-82. (1458) Max Dot Product of Two Subsequences
-83. (1461) Check If a String Contains All Binary Codes of Size K
-84. (1488) Avoid Flood in the City
-85. (1493) Longest Subarray of 1's After Deleting One Element
-86. (1504) Count Submatrices With All Ones
+52. (874) Walking Robot Simulation
+53. (876) Middle of the Linked List
+54. (904) Fruit Into Baskets
+55. (944) Delete Columns to Make Sorted
+56. (955) Delete Columns to Make Sorted II
+57. (960) Delete Columns to Make Sorted III
+58. (961) N-Repeated Element in Size 2N Array
+59. (966) Vowel Spellchecker
+60. (1015) Smallest Integer Divisible by K
+61. (1018) Binary Prefix Divisible By 5
+62. (1022) Sum of Root To Leaf Binary Numbers
+63. (1161) Maximum level Sum of BInary Tree
+64. (1200) Minimum Absolute Difference
+65. (1233) Remove Sub-Folders from the Filesystem
+66. (1262) Greatest Sum Divisible by Three
+67. (1266) Minimum Time Visiting All Points
+68. (1277) Count Square Submatrices with All Ones
+69. (1290) Convert Binary Number in a Linked List to Integer
+70. (1292) Maximum Side Length of a Square with Sum less than or Equal to threshold
+71. (1304) Find N Unique Integers Sum up to Zero
+72. (1317) Convert Integer to the Sum of Two No-Zero Integers
+73. (1323) Maximum 69 Number
+74. (1339) Maximum Product of Splitted Binary Tree
+75. (1351) Count Negative Numbers in a Sorted Matrix
+76. (1353) Maximum Number of Events That Can Be Attended
+77. (1356) Sort Integers by The Number of 1 Bits
+78. (1382) Balance a Binary Search Tree
+79. (1390) Four Divisors 
+80. (1394) Find Lucky Integer in an Array
+81. (1404) Number of Steps to Reduce a Number in Binary Representation to One
+82. (1411) Number of Ways to Paint N × 3 Grid
+83. (1458) Max Dot Product of Two Subsequences
+84. (1461) Check If a String Contains All Binary Codes of Size K
+85. (1488) Avoid Flood in the City
+86. (1493) Longest Subarray of 1's After Deleting One Element
+87. (1504) Count Submatrices With All Ones
 78. (1518) Water Bottles
 79. (1523) Count Odd Numbers in an Interval Range
 80. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
