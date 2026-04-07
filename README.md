@@ -131,9 +131,10 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 74. (2043) Simple Bank System
 75. (2048) Next Greater Numerically Balanced Number
 76. (2054) Two Best Non-Overlapping Events
-77. (2075) Decode the Slanted Ciphertext
-78. (2092) Find All People With Secret
-79. (2106) Maximum Fruits Harvested After at Most K Steps
+77. (2069) Walking Robot Simulation II
+78. (2075) Decode the Slanted Ciphertext
+79. (2092) Find All People With Secret
+80. (2106) Maximum Fruits Harvested After at Most K Steps
 73. (2110) Number of Smooth Descent Periods of a Stock
 74. (2125) Number of Laser Beams in a Bank
 75. (2141) Maximum Running Time of N Computers
