@@ -176,7 +176,7 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 92. (3000) Maximum Area of Longest Diagonal Rectangle
 93. (3003) Maximize the Number of Partitions After Operations
 94. (3010) Divide an Array Into Subarrays With Minimum Cost I
-95. 3013 Divide an Array Into Subarrays With Minimum Cost II
+95. (3013) Divide an Array Into Subarrays With Minimum Cost II
 96. (3021) Alice and Bob Playing Flower Game
 97. (3025) Find the Number of Ways to Place People I
 98. (3027) Find the Number of Ways to Place People II
@@ -260,12 +260,13 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 176. (3650) Minimum Cost Path with Edge Reversals
 177. (3651) Minimum Cost Path with Teleportations
 178. (3652) Best Time to Buy and Sell Stock using Strategy
-179. (3661) Maximum Walls Destroyed by Robots
-180. (3666) Minimum Operations to Equalize Binary String
-181. (3713) Longest Balanced Substring I
-182. (3714) Longest Balanced Substring II
-183. (3719) Longest Balanced Subarry I
-184. (3721) Longest Balanced Subarray II
+179. (3653) XOR After Range Multiplication Queries I
+180. (3661) Maximum Walls Destroyed by Robots
+181. (3666) Minimum Operations to Equalize Binary String
+182. (3713) Longest Balanced Substring I
+183. (3714) Longest Balanced Substring II
+184. (3719) Longest Balanced Subarry I
+185. (3721) Longest Balanced Subarray II
      
 
 
