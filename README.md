@@ -261,12 +261,13 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 177. (3651) Minimum Cost Path with Teleportations
 178. (3652) Best Time to Buy and Sell Stock using Strategy
 179. (3653) XOR After Range Multiplication Queries I
-180. (3661) Maximum Walls Destroyed by Robots
-181. (3666) Minimum Operations to Equalize Binary String
-182. (3713) Longest Balanced Substring I
-183. (3714) Longest Balanced Substring II
-184. (3719) Longest Balanced Subarry I
-185. (3721) Longest Balanced Subarray II
+180. (3655) XOR After Range Multiplication Queries II
+181. (3661) Maximum Walls Destroyed by Robots
+182. (3666) Minimum Operations to Equalize Binary String
+183. (3713) Longest Balanced Substring I
+184. (3714) Longest Balanced Substring II
+185. (3719) Longest Balanced Subarry I
+186. (3721) Longest Balanced Subarray II
      
 
 
