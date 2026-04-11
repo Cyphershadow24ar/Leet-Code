@@ -269,6 +269,7 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 185. (3719) Longest Balanced Subarry I
 186. (3721) Longest Balanced Subarray II
 187. (3740) Minimum Distance Between Three Equal Elements I
+188. (3741) Minimum Distance Between Three Equal Elements II
      
 
 
