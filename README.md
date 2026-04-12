@@ -74,21 +74,22 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 70. (1292) Maximum Side Length of a Square with Sum less than or Equal to threshold
 71. (1304) Find N Unique Integers Sum up to Zero
 72. (1317) Convert Integer to the Sum of Two No-Zero Integers
-73. (1323) Maximum 69 Number
-74. (1339) Maximum Product of Splitted Binary Tree
-75. (1351) Count Negative Numbers in a Sorted Matrix
-76. (1353) Maximum Number of Events That Can Be Attended
-77. (1356) Sort Integers by The Number of 1 Bits
-78. (1382) Balance a Binary Search Tree
-79. (1390) Four Divisors 
-80. (1394) Find Lucky Integer in an Array
-81. (1404) Number of Steps to Reduce a Number in Binary Representation to One
-82. (1411) Number of Ways to Paint N × 3 Grid
-83. (1458) Max Dot Product of Two Subsequences
-84. (1461) Check If a String Contains All Binary Codes of Size K
-85. (1488) Avoid Flood in the City
-86. (1493) Longest Subarray of 1's After Deleting One Element
-87. (1504) Count Submatrices With All Ones
+73. (1320) Minimum Distance to Type a Word Using Two Fingers
+74. (1323) Maximum 69 Number
+75. (1339) Maximum Product of Splitted Binary Tree
+76. (1351) Count Negative Numbers in a Sorted Matrix
+77. (1353) Maximum Number of Events That Can Be Attended
+78. (1356) Sort Integers by The Number of 1 Bits
+79. (1382) Balance a Binary Search Tree
+80. (1390) Four Divisors 
+81. (1394) Find Lucky Integer in an Array
+82. (1404) Number of Steps to Reduce a Number in Binary Representation to One
+83. (1411) Number of Ways to Paint N × 3 Grid
+84. (1458) Max Dot Product of Two Subsequences
+85. (1461) Check If a String Contains All Binary Codes of Size K
+86. (1488) Avoid Flood in the City
+87. (1493) Longest Subarray of 1's After Deleting One Element
+88. (1504) Count Submatrices With All Ones
 78. (1518) Water Bottles
 79. (1523) Count Odd Numbers in an Interval Range
 80. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
