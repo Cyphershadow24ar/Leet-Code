@@ -113,6 +113,7 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 83. (1751) Maximum Number of Events That Can Be Attended II
 84. (1758) Minimum Changes To Make Alternating Binary String
 76. (1792) Maximum Average Pass Ratio
+77. (1848) Minimum Distance to the Target Element
 75. (1865) Finding Pairs With a Certain Sum
 76. (1877) Minimize Maximum Pair Sum in Array
 77. (1878) Get Biggest Three Rhombus Sums in a Grid
