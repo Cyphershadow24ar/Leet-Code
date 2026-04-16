@@ -235,45 +235,46 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 149. (3479) Fruits Into Baskets III
 150. (3480) Maximize Subarrays After Removing One Conflicting Pair
 151. (3487) Maximum Unique Subarray Sum After Deletion
-152. (3494) Find the Minimum Amount of Time to Brew Potions
-153. (3495) Minimum Operations to Make Array Elements Zero
-154. (3507) Minimum Pair Removal to Sort Array I
-155. (3510) Minimum Pair Removal to Sort Array II
-156. (3512) Minimum Operations to Make Array Sum Divisible by K
-157. (3516) Find Closest Person
-158. (3531) Count Covered Buildings
-159. (3539) Find Sum of Array Product of Magical Sequences
-160. (3541) Find Most Frequent Vowel and Consonant
-161. (3546) Equal Sum Grid Partition I
-162. (3548) Equal Sum Grid Partition II
-163. (3562) Maximum Profit from Trading Stocks with Discounts
-164. (3567) Minimum Absolute Difference in Sliding Submatrix
-165. (3573) Best Time to Buy and Sell Stock V
-166. (3577) Count the Number of Computer Unlocking Permutations
-167. (3578) Count Partitions With Max-Min Difference at Most K
-168. (3583) Count Special Triplets
-169. (3600) Maximize Spanning Tree Stability with Upgrades
-170. (3606) Coupon Code Validator
-171. (3607) Power Grid Maintenance
-172. (3623) Count Number of Trapezoids I
-173. (3625) Count Number of Trapezoids II
-174. (3634) Minimum Removals to Balance Array
-175. (3637) Trionic Array I
-176. (3640) Trionic Array II
-177. (3643) Flip Square Submatrix Vertically
-178. (3650) Minimum Cost Path with Edge Reversals
-179. (3651) Minimum Cost Path with Teleportations
-180. (3652) Best Time to Buy and Sell Stock using Strategy
-181. (3653) XOR After Range Multiplication Queries I
-182. (3655) XOR After Range Multiplication Queries II
-183. (3661) Maximum Walls Destroyed by Robots
-184. (3666) Minimum Operations to Equalize Binary String
-185. (3713) Longest Balanced Substring I
-186. (3714) Longest Balanced Substring II
-187. (3719) Longest Balanced Subarry I
-188. (3721) Longest Balanced Subarray II
-189. (3740) Minimum Distance Between Three Equal Elements I
-190. (3741) Minimum Distance Between Three Equal Elements II
+152. (3488) Closest Equal Element Queries
+153. (3494) Find the Minimum Amount of Time to Brew Potions
+154. (3495) Minimum Operations to Make Array Elements Zero
+155. (3507) Minimum Pair Removal to Sort Array I
+156. (3510) Minimum Pair Removal to Sort Array II
+157. (3512) Minimum Operations to Make Array Sum Divisible by K
+158. (3516) Find Closest Person
+159. (3531) Count Covered Buildings
+160. (3539) Find Sum of Array Product of Magical Sequences
+161. (3541) Find Most Frequent Vowel and Consonant
+162. (3546) Equal Sum Grid Partition I
+163. (3548) Equal Sum Grid Partition II
+164. (3562) Maximum Profit from Trading Stocks with Discounts
+165. (3567) Minimum Absolute Difference in Sliding Submatrix
+166. (3573) Best Time to Buy and Sell Stock V
+167. (3577) Count the Number of Computer Unlocking Permutations
+168. (3578) Count Partitions With Max-Min Difference at Most K
+169. (3583) Count Special Triplets
+170. (3600) Maximize Spanning Tree Stability with Upgrades
+171. (3606) Coupon Code Validator
+172. (3607) Power Grid Maintenance
+173. (3623) Count Number of Trapezoids I
+174. (3625) Count Number of Trapezoids II
+175. (3634) Minimum Removals to Balance Array
+176. (3637) Trionic Array I
+177. (3640) Trionic Array II
+178. (3643) Flip Square Submatrix Vertically
+179. (3650) Minimum Cost Path with Edge Reversals
+180. (3651) Minimum Cost Path with Teleportations
+181. (3652) Best Time to Buy and Sell Stock using Strategy
+182. (3653) XOR After Range Multiplication Queries I
+183. (3655) XOR After Range Multiplication Queries II
+184. (3661) Maximum Walls Destroyed by Robots
+185. (3666) Minimum Operations to Equalize Binary String
+186. (3713) Longest Balanced Substring I
+187. (3714) Longest Balanced Substring II
+188. (3719) Longest Balanced Subarry I
+189. (3721) Longest Balanced Subarray II
+190. (3740) Minimum Distance Between Three Equal Elements I
+191. (3741) Minimum Distance Between Three Equal Elements II
      
 
 
