@@ -108,10 +108,11 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 78. (1689) Partitioning Into Minimum Number Of Deci-Binary Numbers
 79. (1695) Maximum Erasure Value
 80. (1717) Maximum Score From Removing Substrings
-81. (1727) Largest Submatrix With Rearrangements
-82. (1733) Minimum Number of People to Teach
-83. (1751) Maximum Number of Events That Can Be Attended II
-84. (1758) Minimum Changes To Make Alternating Binary String
+81. (1722) Minimize Hamming Distance After Swap Operations 
+82. (1727) Largest Submatrix With Rearrangements
+83. (1733) Minimum Number of People to Teach
+84. (1751) Maximum Number of Events That Can Be Attended II
+85. (1758) Minimum Changes To Make Alternating Binary String
 76. (1792) Maximum Average Pass Ratio
 77. (1848) Minimum Distance to the Target Element
 78. (1855) Maximum Distance Between a Pair of Values
