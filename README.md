@@ -134,6 +134,7 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 88. (1980) Find Unique Binary String
 89. (1984) Minimum Difference Between Highest and Lowest of K Scores
 90. (2011) Final Value of Variable After Performing Operations
+91. (2033) Minimum Operations to Make a Uni-Value Grid
 74. (2043) Simple Bank System
 75. (2048) Next Greater Numerically Balanced Number
 76. (2054) Two Best Non-Overlapping Events
