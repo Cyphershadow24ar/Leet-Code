@@ -216,7 +216,7 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 120. (3228) Maximum Number of Operations to Move Ones to the End
 121. (3289) The Two Sneaky Numbers of Digitville
 122. (3296) 3296. Minimum Number of Seconds to Make Mountain Height Zero
-123. (3304) Find the K-th Character in String Game I - (NOTE- You will find this Question solution file at the End)
+123. (3304) Find the K-th Character in String Game I 
 124. (3307) Find the K-th Character in String Game II
 125. (3314) Construct the Minimum Bitwise Array I
 126. (3315) Construct the Minimum Bitwise Array II
