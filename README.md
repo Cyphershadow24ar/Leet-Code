@@ -283,17 +283,18 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 185. (3652) Best Time to Buy and Sell Stock using Strategy
 186. (3653) XOR After Range Multiplication Queries I
 187. (3655) XOR After Range Multiplication Queries II
-188. (3661) Maximum Walls Destroyed by Robots
-189. (3666) Minimum Operations to Equalize Binary String
-190. (3713) Longest Balanced Substring I
-191. (3714) Longest Balanced Substring II
-192. (3719) Longest Balanced Subarry I
-193. (3721) Longest Balanced Subarray II
-194. (3740) Minimum Distance Between Three Equal Elements I
-195. (3741) Minimum Distance Between Three Equal Elements II
-196. (3742) Maximum Path Score in a Grid
-197. (3761) Minimum Absolute Distance Between Mirror Pairs
-198. (3783) Mirror Distance of an Integer
+188. (3660) Jump Game IX
+189. (3661) Maximum Walls Destroyed by Robots
+190. (3666) Minimum Operations to Equalize Binary String
+191. (3713) Longest Balanced Substring I
+192. (3714) Longest Balanced Substring II
+193. (3719) Longest Balanced Subarry I
+194. (3721) Longest Balanced Subarray II
+195. (3740) Minimum Distance Between Three Equal Elements I
+196. (3741) Minimum Distance Between Three Equal Elements II
+197. (3742) Maximum Path Score in a Grid
+198. (3761) Minimum Absolute Distance Between Mirror Pairs
+199. (3783) Mirror Distance of an Integer
 
 
      
