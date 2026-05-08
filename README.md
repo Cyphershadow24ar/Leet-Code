@@ -274,27 +274,28 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 176. (3607) Power Grid Maintenance
 177. (3623) Count Number of Trapezoids I
 178. (3625) Count Number of Trapezoids II
-179. (3634) Minimum Removals to Balance Array
-180. (3637) Trionic Array I
-181. (3640) Trionic Array II
-182. (3643) Flip Square Submatrix Vertically
-183. (3650) Minimum Cost Path with Edge Reversals
-184. (3651) Minimum Cost Path with Teleportations
-185. (3652) Best Time to Buy and Sell Stock using Strategy
-186. (3653) XOR After Range Multiplication Queries I
-187. (3655) XOR After Range Multiplication Queries II
-188. (3660) Jump Game IX
-189. (3661) Maximum Walls Destroyed by Robots
-190. (3666) Minimum Operations to Equalize Binary String
-191. (3713) Longest Balanced Substring I
-192. (3714) Longest Balanced Substring II
-193. (3719) Longest Balanced Subarry I
-194. (3721) Longest Balanced Subarray II
-195. (3740) Minimum Distance Between Three Equal Elements I
-196. (3741) Minimum Distance Between Three Equal Elements II
-197. (3742) Maximum Path Score in a Grid
-198. (3761) Minimum Absolute Distance Between Mirror Pairs
-199. (3783) Mirror Distance of an Integer
+179. (3629) Minimum Jumps to Reach End via Prime Teleportation
+180. (3634) Minimum Removals to Balance Array
+181. (3637) Trionic Array I
+182. (3640) Trionic Array II
+183. (3643) Flip Square Submatrix Vertically
+184. (3650) Minimum Cost Path with Edge Reversals
+185. (3651) Minimum Cost Path with Teleportations
+186. (3652) Best Time to Buy and Sell Stock using Strategy
+187. (3653) XOR After Range Multiplication Queries I
+188. (3655) XOR After Range Multiplication Queries II
+189. (3660) Jump Game IX
+190. (3661) Maximum Walls Destroyed by Robots
+191. (3666) Minimum Operations to Equalize Binary String
+192. (3713) Longest Balanced Substring I
+193. (3714) Longest Balanced Substring II
+194. (3719) Longest Balanced Subarry I
+195. (3721) Longest Balanced Subarray II
+196. (3740) Minimum Distance Between Three Equal Elements I
+197. (3741) Minimum Distance Between Three Equal Elements II
+198. (3742) Maximum Path Score in a Grid
+199. (3761) Minimum Absolute Distance Between Mirror Pairs
+200. (3783) Mirror Distance of an Integer
 
 
      
