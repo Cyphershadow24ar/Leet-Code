@@ -131,16 +131,17 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 79. (1888) Minimum Number of Flips to Make the Binary String Alternating
 80. (1895) Largest Magic Square
 81. (1900) The Earliest and Latest Rounds Where Players Compete
-82. (1925) Count Square Sum Triples
-83. (1935) Maximum Number of Words You Can Type
-84. (1948) Delete Duplicate Folders in System
-85. (1957) Delete Characters to Make Fancy String
-86. (1970) Last Day Where you can still Cross
-87. (1975) Maximum Matrix Sum
-88. (1980) Find Unique Binary String
-89. (1984) Minimum Difference Between Highest and Lowest of K Scores
-90. (2011) Final Value of Variable After Performing Operations
-91. (2033) Minimum Operations to Make a Uni-Value Grid
+82. (1914) Cyclically Rotating a Grid
+83. (1925) Count Square Sum Triples
+84. (1935) Maximum Number of Words You Can Type
+85. (1948) Delete Duplicate Folders in System
+86. (1957) Delete Characters to Make Fancy String
+87. (1970) Last Day Where you can still Cross
+88. (1975) Maximum Matrix Sum
+89. (1980) Find Unique Binary String
+90. (1984) Minimum Difference Between Highest and Lowest of K Scores
+91. (2011) Final Value of Variable After Performing Operations
+92. (2033) Minimum Operations to Make a Uni-Value Grid
 74. (2043) Simple Bank System
 75. (2048) Next Greater Numerically Balanced Number
 76. (2054) Two Best Non-Overlapping Events
