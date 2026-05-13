@@ -112,15 +112,16 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 81. (1625) Lexicographically Smallest String After Applying Operations
 76. (1653) Minimum Deletions to Make String Balanced
 77. (1665) Minimum Initial Energy to Finish Tasks
-78. (1680) Concatenation of Consecutive Binary Numbers
-79. (1689) Partitioning Into Minimum Number Of Deci-Binary Numbers
-80. (1695) Maximum Erasure Value
-81. (1717) Maximum Score From Removing Substrings
-82. (1722) Minimize Hamming Distance After Swap Operations 
-83. (1727) Largest Submatrix With Rearrangements
-84. (1733) Minimum Number of People to Teach
-85. (1751) Maximum Number of Events That Can Be Attended II
-86. (1758) Minimum Changes To Make Alternating Binary String
+78. (1674) Minimum Moves to Make Array Complementary
+79. (1680) Concatenation of Consecutive Binary Numbers
+80. (1689) Partitioning Into Minimum Number Of Deci-Binary Numbers
+81. (1695) Maximum Erasure Value
+82. (1717) Maximum Score From Removing Substrings
+83. (1722) Minimize Hamming Distance After Swap Operations 
+84. (1727) Largest Submatrix With Rearrangements
+85. (1733) Minimum Number of People to Teach
+86. (1751) Maximum Number of Events That Can Be Attended II
+87. (1758) Minimum Changes To Make Alternating Binary String
 76. (1792) Maximum Average Pass Ratio
 77. (1848) Minimum Distance to the Target Element
 78. (1855) Maximum Distance Between a Pair of Values
