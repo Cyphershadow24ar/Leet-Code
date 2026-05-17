@@ -79,24 +79,25 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 75. (1290) Convert Binary Number in a Linked List to Integer
 76. (1292) Maximum Side Length of a Square with Sum less than or Equal to threshold
 77. (1304) Find N Unique Integers Sum up to Zero
-78. (1317) Convert Integer to the Sum of Two No-Zero Integers
-79. (1320) Minimum Distance to Type a Word Using Two Fingers
-80. (1323) Maximum 69 Number
-81. (1339) Maximum Product of Splitted Binary Tree
-82. (1351) Count Negative Numbers in a Sorted Matrix
-83. (1353) Maximum Number of Events That Can Be Attended
-84. (1356) Sort Integers by The Number of 1 Bits
-85. (1382) Balance a Binary Search Tree
-86. (1390) Four Divisors
-87. (1391) Check if There is a Valid Path in a Grid
-88. (1394) Find Lucky Integer in an Array
-89. (1404) Number of Steps to Reduce a Number in Binary Representation to One
-90. (1411) Number of Ways to Paint N × 3 Grid
-91. (1458) Max Dot Product of Two Subsequences
-92. (1461) Check If a String Contains All Binary Codes of Size K
-93. (1488) Avoid Flood in the City
-94. (1493) Longest Subarray of 1's After Deleting One Element
-95. (1504) Count Submatrices With All Ones
+78. (1306) Jump Game III
+79. (1317) Convert Integer to the Sum of Two No-Zero Integers
+80. (1320) Minimum Distance to Type a Word Using Two Fingers
+81. (1323) Maximum 69 Number
+82. (1339) Maximum Product of Splitted Binary Tree
+83. (1351) Count Negative Numbers in a Sorted Matrix
+84. (1353) Maximum Number of Events That Can Be Attended
+85. (1356) Sort Integers by The Number of 1 Bits
+86. (1382) Balance a Binary Search Tree
+87. (1390) Four Divisors
+88. (1391) Check if There is a Valid Path in a Grid
+89. (1394) Find Lucky Integer in an Array
+90. (1404) Number of Steps to Reduce a Number in Binary Representation to One
+91. (1411) Number of Ways to Paint N × 3 Grid
+92. (1458) Max Dot Product of Two Subsequences
+93. (1461) Check If a String Contains All Binary Codes of Size K
+94. (1488) Avoid Flood in the City
+95. (1493) Longest Subarray of 1's After Deleting One Element
+96. (1504) Count Submatrices With All Ones
 78. (1518) Water Bottles
 79. (1523) Count Odd Numbers in an Interval Range
 80. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
