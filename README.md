@@ -125,7 +125,8 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 84. (1727) Largest Submatrix With Rearrangements
 85. (1733) Minimum Number of People to Teach
 86. (1751) Maximum Number of Events That Can Be Attended II
-87. (1758) Minimum Changes To Make Alternating Binary String
+87. (1752) Check if Array Is Sorted and Rotated
+88. (1758) Minimum Changes To Make Alternating Binary String
 76. (1792) Maximum Average Pass Ratio
 77. (1848) Minimum Distance to the Target Element
 78. (1855) Maximum Distance Between a Pair of Values
