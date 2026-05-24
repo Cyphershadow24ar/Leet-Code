@@ -85,21 +85,22 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 81. (1320) Minimum Distance to Type a Word Using Two Fingers
 82. (1323) Maximum 69 Number
 83. (1339) Maximum Product of Splitted Binary Tree
-84. (1345) Jump Game IV
-85. (1351) Count Negative Numbers in a Sorted Matrix
-86. (1353) Maximum Number of Events That Can Be Attended
-87. (1356) Sort Integers by The Number of 1 Bits
-88. (1382) Balance a Binary Search Tree
-89. (1390) Four Divisors
-90. (1391) Check if There is a Valid Path in a Grid
-91. (1394) Find Lucky Integer in an Array
-92. (1404) Number of Steps to Reduce a Number in Binary Representation to One
-93. (1411) Number of Ways to Paint N × 3 Grid
-94. (1458) Max Dot Product of Two Subsequences
-95. (1461) Check If a String Contains All Binary Codes of Size K
-96. (1488) Avoid Flood in the City
-97. (1493) Longest Subarray of 1's After Deleting One Element
-98. (1504) Count Submatrices With All Ones
+84. (1340) Jump Game V
+85. (1345) Jump Game IV
+86. (1351) Count Negative Numbers in a Sorted Matrix
+87. (1353) Maximum Number of Events That Can Be Attended
+88. (1356) Sort Integers by The Number of 1 Bits
+89. (1382) Balance a Binary Search Tree
+90. (1390) Four Divisors
+91. (1391) Check if There is a Valid Path in a Grid
+92. (1394) Find Lucky Integer in an Array
+93. (1404) Number of Steps to Reduce a Number in Binary Representation to One
+94. (1411) Number of Ways to Paint N × 3 Grid
+95. (1458) Max Dot Product of Two Subsequences
+96. (1461) Check If a String Contains All Binary Codes of Size K
+97. (1488) Avoid Flood in the City
+98. (1493) Longest Subarray of 1's After Deleting One Element
+99. (1504) Count Submatrices With All Ones
 78. (1518) Water Bottles
 79. (1523) Count Odd Numbers in an Interval Range
 80. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
