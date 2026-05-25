@@ -133,23 +133,24 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 78. (1855) Maximum Distance Between a Pair of Values
 79. (1861) Rotating the Box
 75. (1865) Finding Pairs With a Certain Sum
-76. (1877) Minimize Maximum Pair Sum in Array
-77. (1878) Get Biggest Three Rhombus Sums in a Grid
-78. (1886) Determine Whether Matrix Can Be Obtained By Rotation
-79. (1888) Minimum Number of Flips to Make the Binary String Alternating
-80. (1895) Largest Magic Square
-81. (1900) The Earliest and Latest Rounds Where Players Compete
-82. (1914) Cyclically Rotating a Grid
-83. (1925) Count Square Sum Triples
-84. (1935) Maximum Number of Words You Can Type
-85. (1948) Delete Duplicate Folders in System
-86. (1957) Delete Characters to Make Fancy String
-87. (1970) Last Day Where you can still Cross
-88. (1975) Maximum Matrix Sum
-89. (1980) Find Unique Binary String
-90. (1984) Minimum Difference Between Highest and Lowest of K Scores
-91. (2011) Final Value of Variable After Performing Operations
-92. (2033) Minimum Operations to Make a Uni-Value Grid
+76. (1871) Jump Game VII
+77. (1877) Minimize Maximum Pair Sum in Array
+78. (1878) Get Biggest Three Rhombus Sums in a Grid
+79. (1886) Determine Whether Matrix Can Be Obtained By Rotation
+80. (1888) Minimum Number of Flips to Make the Binary String Alternating
+81. (1895) Largest Magic Square
+82. (1900) The Earliest and Latest Rounds Where Players Compete
+83. (1914) Cyclically Rotating a Grid
+84. (1925) Count Square Sum Triples
+85. (1935) Maximum Number of Words You Can Type
+86. (1948) Delete Duplicate Folders in System
+87. (1957) Delete Characters to Make Fancy String
+88. (1970) Last Day Where you can still Cross
+89. (1975) Maximum Matrix Sum
+90. (1980) Find Unique Binary String
+91. (1984) Minimum Difference Between Highest and Lowest of K Scores
+92. (2011) Final Value of Variable After Performing Operations
+93. (2033) Minimum Operations to Make a Uni-Value Grid
 74. (2043) Simple Bank System
 75. (2048) Next Greater Numerically Balanced Number
 76. (2054) Two Best Non-Overlapping Events
