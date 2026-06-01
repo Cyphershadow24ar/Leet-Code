@@ -162,6 +162,7 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 73. (2110) Number of Smooth Descent Periods of a Stock
 74. (2125) Number of Laser Beams in a Bank
 75. (2141) Maximum Running Time of N Computers
+76. (2144) Minimum Cost of Buying Candies With Discount
 72. (2147) Number of Ways to Divide a Long Corridor
 73. (2163) Minimum Difference in Sums After Removal of Elements
 72. (2169) Count Operations to Obtain Zero
