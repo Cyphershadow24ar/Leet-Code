@@ -317,8 +317,9 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 208. (3740) Minimum Distance Between Three Equal Elements I
 209. (3741) Minimum Distance Between Three Equal Elements II
 210. (3742) Maximum Path Score in a Grid
-211. (3761) Minimum Absolute Distance Between Mirror Pairs
-212. (3783) Mirror Distance of an Integer
+211. (3751) Total Waviness of Numbers in Range I
+212. (3761) Minimum Absolute Distance Between Mirror Pairs
+213. (3783) Mirror Distance of an Integer
 
 
      
