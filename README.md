@@ -166,14 +166,15 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 72. (2147) Number of Ways to Divide a Long Corridor
 73. (2163) Minimum Difference in Sums After Removal of Elements
 72. (2169) Count Operations to Obtain Zero
-73. (2197) Replace Non-Coprime Numbers in Array
-74. (2210) Count Hiils and Valley in an array
-75. (2211) Count Collisions on a Road
-76. (2257) Count Unguarded Cells in the Gird
-77. (2264) Largest 3-Same-Digit Number in String
-78. (2273) Find Resultant Array After Removing Anagrams
-79. (2300) Successful of spells and portions
-80. (2322) Minimum Score After Removals on a Tree
+73. (2196) Create Binary Tree From Descriptions
+74. (2197) Replace Non-Coprime Numbers in Array
+75. (2210) Count Hiils and Valley in an array
+76. (2211) Count Collisions on a Road
+77. (2257) Count Unguarded Cells in the Gird
+78. (2264) Largest 3-Same-Digit Number in String
+79. (2273) Find Resultant Array After Removing Anagrams
+80. (2300) Successful of spells and portions
+81. (2322) Minimum Score After Removals on a Tree
 70. (2327) Number of People Aware of a Secret
 70. (2348) Number of Zero-Filled Subarrays
 70. (2402) Meeting Rooms III
