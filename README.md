@@ -164,7 +164,8 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 75. (2141) Maximum Running Time of N Computers
 76. (2144) Minimum Cost of Buying Candies With Discount
 72. (2147) Number of Ways to Divide a Long Corridor
-73. (2163) Minimum Difference in Sums After Removal of Elements
+73. (2161) Partition Array According to Given Pivot
+74. (2163) Minimum Difference in Sums After Removal of Elements
 72. (2169) Count Operations to Obtain Zero
 73. (2196) Create Binary Tree From Descriptions
 74. (2197) Replace Non-Coprime Numbers in Array
