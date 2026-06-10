@@ -314,17 +314,18 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 203. (3661) Maximum Walls Destroyed by Robots
 204. (3666) Minimum Operations to Equalize Binary String
 205. (3689) Maximum Total Subarray Value I
-206. (3713) Longest Balanced Substring I
-207. (3714) Longest Balanced Substring II
-208. (3719) Longest Balanced Subarry I
-209. (3721) Longest Balanced Subarray II
-210. (3740) Minimum Distance Between Three Equal Elements I
-211. (3741) Minimum Distance Between Three Equal Elements II
-212. (3742) Maximum Path Score in a Grid
-213. (3751) Total Waviness of Numbers in Range I
-214. (3753) Total Waviness of Numbers in Range II
-215. (3761) Minimum Absolute Distance Between Mirror Pairs
-216. (3783) Mirror Distance of an Integer
+206. (3691) Maximum Total Subarray Value II
+207. (3713) Longest Balanced Substring I
+208. (3714) Longest Balanced Substring II
+209. (3719) Longest Balanced Subarry I
+210. (3721) Longest Balanced Subarray II
+211. (3740) Minimum Distance Between Three Equal Elements I
+212. (3741) Minimum Distance Between Three Equal Elements II
+213. (3742) Maximum Path Score in a Grid
+214. (3751) Total Waviness of Numbers in Range I
+215. (3753) Total Waviness of Numbers in Range II
+216. (3761) Minimum Absolute Distance Between Mirror Pairs
+217. (3783) Mirror Distance of an Integer
 
 
      
