@@ -287,45 +287,46 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 176. (3541) Find Most Frequent Vowel and Consonant
 177. (3546) Equal Sum Grid Partition I
 178. (3548) Equal Sum Grid Partition II
-179. (3562) Maximum Profit from Trading Stocks with Discounts
-180. (3567) Minimum Absolute Difference in Sliding Submatrix
-181. (3573) Best Time to Buy and Sell Stock V
-182. (3577) Count the Number of Computer Unlocking Permutations
-183. (3578) Count Partitions With Max-Min Difference at Most K
-184. (3583) Count Special Triplets
-185. (3600) Maximize Spanning Tree Stability with Upgrades
-186. (3606) Coupon Code Validator
-187. (3607) Power Grid Maintenance
-188. (3623) Count Number of Trapezoids I
-189. (3625) Count Number of Trapezoids II
-190. (3629) Minimum Jumps to Reach End via Prime Teleportation
-191. (3633) Earliest Finish Time for Land and Water Rides I
-192. (3634) Minimum Removals to Balance Array
-193. (3635) Earliest Finish Time for Land and Water Rides II
-194. (3637) Trionic Array I
-195. (3640) Trionic Array II
-196. (3643) Flip Square Submatrix Vertically
-197. (3650) Minimum Cost Path with Edge Reversals
-198. (3651) Minimum Cost Path with Teleportations
-199. (3652) Best Time to Buy and Sell Stock using Strategy
-200. (3653) XOR After Range Multiplication Queries I
-201. (3655) XOR After Range Multiplication Queries II
-202. (3660) Jump Game IX
-203. (3661) Maximum Walls Destroyed by Robots
-204. (3666) Minimum Operations to Equalize Binary String
-205. (3689) Maximum Total Subarray Value I
-206. (3691) Maximum Total Subarray Value II
-207. (3713) Longest Balanced Substring I
-208. (3714) Longest Balanced Substring II
-209. (3719) Longest Balanced Subarry I
-210. (3721) Longest Balanced Subarray II
-211. (3740) Minimum Distance Between Three Equal Elements I
-212. (3741) Minimum Distance Between Three Equal Elements II
-213. (3742) Maximum Path Score in a Grid
-214. (3751) Total Waviness of Numbers in Range I
-215. (3753) Total Waviness of Numbers in Range II
-216. (3761) Minimum Absolute Distance Between Mirror Pairs
-217. (3783) Mirror Distance of an Integer
+179. (3558) Number of Ways to Assign Edge Weights I
+180. (3562) Maximum Profit from Trading Stocks with Discounts
+181. (3567) Minimum Absolute Difference in Sliding Submatrix
+182. (3573) Best Time to Buy and Sell Stock V
+183. (3577) Count the Number of Computer Unlocking Permutations
+184. (3578) Count Partitions With Max-Min Difference at Most K
+185. (3583) Count Special Triplets
+186. (3600) Maximize Spanning Tree Stability with Upgrades
+187. (3606) Coupon Code Validator
+188. (3607) Power Grid Maintenance
+189. (3623) Count Number of Trapezoids I
+190. (3625) Count Number of Trapezoids II
+191. (3629) Minimum Jumps to Reach End via Prime Teleportation
+192. (3633) Earliest Finish Time for Land and Water Rides I
+193. (3634) Minimum Removals to Balance Array
+194. (3635) Earliest Finish Time for Land and Water Rides II
+195. (3637) Trionic Array I
+196. (3640) Trionic Array II
+197. (3643) Flip Square Submatrix Vertically
+198. (3650) Minimum Cost Path with Edge Reversals
+199. (3651) Minimum Cost Path with Teleportations
+200. (3652) Best Time to Buy and Sell Stock using Strategy
+201. (3653) XOR After Range Multiplication Queries I
+202. (3655) XOR After Range Multiplication Queries II
+203. (3660) Jump Game IX
+204. (3661) Maximum Walls Destroyed by Robots
+205. (3666) Minimum Operations to Equalize Binary String
+206. (3689) Maximum Total Subarray Value I
+207. (3691) Maximum Total Subarray Value II
+208. (3713) Longest Balanced Substring I
+209. (3714) Longest Balanced Substring II
+210. (3719) Longest Balanced Subarry I
+211. (3721) Longest Balanced Subarray II
+212. (3740) Minimum Distance Between Three Equal Elements I
+213. (3741) Minimum Distance Between Three Equal Elements II
+214. (3742) Maximum Path Score in a Grid
+215. (3751) Total Waviness of Numbers in Range I
+216. (3753) Total Waviness of Numbers in Range II
+217. (3761) Minimum Absolute Distance Between Mirror Pairs
+218. (3783) Mirror Distance of an Integer
 
 
      
