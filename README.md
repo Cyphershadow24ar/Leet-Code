@@ -162,8 +162,9 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 82. (2106) Maximum Fruits Harvested After at Most K Steps
 73. (2110) Number of Smooth Descent Periods of a Stock
 74. (2125) Number of Laser Beams in a Bank
-75. (2141) Maximum Running Time of N Computers
-76. (2144) Minimum Cost of Buying Candies With Discount
+75. (2130) Maximum Twin Sum of a Linked List
+76. (2141) Maximum Running Time of N Computers
+77. (2144) Minimum Cost of Buying Candies With Discount
 72. (2147) Number of Ways to Divide a Long Corridor
 73. (2161) Partition Array According to Given Pivot
 74. (2163) Minimum Difference in Sums After Removal of Elements
