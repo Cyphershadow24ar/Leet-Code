@@ -158,7 +158,8 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 78. (2075) Decode the Slanted Ciphertext
 79. (2078) Two Furthest Houses With Different Colors
 80. (2092) Find All People With Secret
-81. (2106) Maximum Fruits Harvested After at Most K Steps
+81. (2095) Delete the Middle Node of a Linked List
+82. (2106) Maximum Fruits Harvested After at Most K Steps
 73. (2110) Number of Smooth Descent Periods of a Stock
 74. (2125) Number of Laser Beams in a Bank
 75. (2141) Maximum Running Time of N Computers
@@ -298,37 +299,38 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 187. (3600) Maximize Spanning Tree Stability with Upgrades
 188. (3606) Coupon Code Validator
 189. (3607) Power Grid Maintenance
-190. (3623) Count Number of Trapezoids I
-191. (3625) Count Number of Trapezoids II
-192. (3629) Minimum Jumps to Reach End via Prime Teleportation
-193. (3633) Earliest Finish Time for Land and Water Rides I
-194. (3634) Minimum Removals to Balance Array
-195. (3635) Earliest Finish Time for Land and Water Rides II
-196. (3637) Trionic Array I
-197. (3640) Trionic Array II
-198. (3643) Flip Square Submatrix Vertically
-199. (3650) Minimum Cost Path with Edge Reversals
-200. (3651) Minimum Cost Path with Teleportations
-201. (3652) Best Time to Buy and Sell Stock using Strategy
-202. (3653) XOR After Range Multiplication Queries I
-203. (3655) XOR After Range Multiplication Queries II
-204. (3660) Jump Game IX
-205. (3661) Maximum Walls Destroyed by Robots
-206. (3666) Minimum Operations to Equalize Binary String
-207. (3689) Maximum Total Subarray Value I
-208. (3691) Maximum Total Subarray Value II
-209. (3713) Longest Balanced Substring I
-210. (3714) Longest Balanced Substring II
-211. (3719) Longest Balanced Subarry I
-212. (3721) Longest Balanced Subarray II
-213. (3740) Minimum Distance Between Three Equal Elements I
-214. (3741) Minimum Distance Between Three Equal Elements II
-215. (3742) Maximum Path Score in a Grid
-216. (3751) Total Waviness of Numbers in Range I
-217. (3753) Total Waviness of Numbers in Range II
-218. (3761) Minimum Absolute Distance Between Mirror Pairs
-219. (3783) Mirror Distance of an Integer
-220. (3838) Weighted Word Mapping
+190. (3612) Process String with Special Operations I
+191. (3623) Count Number of Trapezoids I
+192. (3625) Count Number of Trapezoids II
+193. (3629) Minimum Jumps to Reach End via Prime Teleportation
+194. (3633) Earliest Finish Time for Land and Water Rides I
+195. (3634) Minimum Removals to Balance Array
+196. (3635) Earliest Finish Time for Land and Water Rides II
+197. (3637) Trionic Array I
+198. (3640) Trionic Array II
+199. (3643) Flip Square Submatrix Vertically
+200. (3650) Minimum Cost Path with Edge Reversals
+201. (3651) Minimum Cost Path with Teleportations
+202. (3652) Best Time to Buy and Sell Stock using Strategy
+203. (3653) XOR After Range Multiplication Queries I
+204. (3655) XOR After Range Multiplication Queries II
+205. (3660) Jump Game IX
+206. (3661) Maximum Walls Destroyed by Robots
+207. (3666) Minimum Operations to Equalize Binary String
+208. (3689) Maximum Total Subarray Value I
+209. (3691) Maximum Total Subarray Value II
+210. (3713) Longest Balanced Substring I
+211. (3714) Longest Balanced Substring II
+212. (3719) Longest Balanced Subarry I
+213. (3721) Longest Balanced Subarray II
+214. (3740) Minimum Distance Between Three Equal Elements I
+215. (3741) Minimum Distance Between Three Equal Elements II
+216. (3742) Maximum Path Score in a Grid
+217. (3751) Total Waviness of Numbers in Range I
+218. (3753) Total Waviness of Numbers in Range II
+219. (3761) Minimum Absolute Distance Between Mirror Pairs
+220. (3783) Mirror Distance of an Integer
+221. (3838) Weighted Word Mapping
 
 
      
