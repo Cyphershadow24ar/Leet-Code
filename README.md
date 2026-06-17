@@ -301,37 +301,38 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 188. (3606) Coupon Code Validator
 189. (3607) Power Grid Maintenance
 190. (3612) Process String with Special Operations I
-191. (3623) Count Number of Trapezoids I
-192. (3625) Count Number of Trapezoids II
-193. (3629) Minimum Jumps to Reach End via Prime Teleportation
-194. (3633) Earliest Finish Time for Land and Water Rides I
-195. (3634) Minimum Removals to Balance Array
-196. (3635) Earliest Finish Time for Land and Water Rides II
-197. (3637) Trionic Array I
-198. (3640) Trionic Array II
-199. (3643) Flip Square Submatrix Vertically
-200. (3650) Minimum Cost Path with Edge Reversals
-201. (3651) Minimum Cost Path with Teleportations
-202. (3652) Best Time to Buy and Sell Stock using Strategy
-203. (3653) XOR After Range Multiplication Queries I
-204. (3655) XOR After Range Multiplication Queries II
-205. (3660) Jump Game IX
-206. (3661) Maximum Walls Destroyed by Robots
-207. (3666) Minimum Operations to Equalize Binary String
-208. (3689) Maximum Total Subarray Value I
-209. (3691) Maximum Total Subarray Value II
-210. (3713) Longest Balanced Substring I
-211. (3714) Longest Balanced Substring II
-212. (3719) Longest Balanced Subarry I
-213. (3721) Longest Balanced Subarray II
-214. (3740) Minimum Distance Between Three Equal Elements I
-215. (3741) Minimum Distance Between Three Equal Elements II
-216. (3742) Maximum Path Score in a Grid
-217. (3751) Total Waviness of Numbers in Range I
-218. (3753) Total Waviness of Numbers in Range II
-219. (3761) Minimum Absolute Distance Between Mirror Pairs
-220. (3783) Mirror Distance of an Integer
-221. (3838) Weighted Word Mapping
+191. (3614) Process String with Special Operations II
+192. (3623) Count Number of Trapezoids I
+193. (3625) Count Number of Trapezoids II
+194. (3629) Minimum Jumps to Reach End via Prime Teleportation
+195. (3633) Earliest Finish Time for Land and Water Rides I
+196. (3634) Minimum Removals to Balance Array
+197. (3635) Earliest Finish Time for Land and Water Rides II
+198. (3637) Trionic Array I
+199. (3640) Trionic Array II
+200. (3643) Flip Square Submatrix Vertically
+201. (3650) Minimum Cost Path with Edge Reversals
+202. (3651) Minimum Cost Path with Teleportations
+203. (3652) Best Time to Buy and Sell Stock using Strategy
+204. (3653) XOR After Range Multiplication Queries I
+205. (3655) XOR After Range Multiplication Queries II
+206. (3660) Jump Game IX
+207. (3661) Maximum Walls Destroyed by Robots
+208. (3666) Minimum Operations to Equalize Binary String
+209. (3689) Maximum Total Subarray Value I
+210. (3691) Maximum Total Subarray Value II
+211. (3713) Longest Balanced Substring I
+212. (3714) Longest Balanced Substring II
+213. (3719) Longest Balanced Subarry I
+214. (3721) Longest Balanced Subarray II
+215. (3740) Minimum Distance Between Three Equal Elements I
+216. (3741) Minimum Distance Between Three Equal Elements II
+217. (3742) Maximum Path Score in a Grid
+218. (3751) Total Waviness of Numbers in Range I
+219. (3753) Total Waviness of Numbers in Range II
+220. (3761) Minimum Absolute Distance Between Mirror Pairs
+221. (3783) Mirror Distance of an Integer
+222. (3838) Weighted Word Mapping
 
 
      
