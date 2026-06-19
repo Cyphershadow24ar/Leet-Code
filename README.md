@@ -125,10 +125,11 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 82. (1717) Maximum Score From Removing Substrings
 83. (1722) Minimize Hamming Distance After Swap Operations 
 84. (1727) Largest Submatrix With Rearrangements
-85. (1733) Minimum Number of People to Teach
-86. (1751) Maximum Number of Events That Can Be Attended II
-87. (1752) Check if Array Is Sorted and Rotated
-88. (1758) Minimum Changes To Make Alternating Binary String
+85. (1732) Find the Highest Altitude
+86. (1733) Minimum Number of People to Teach
+87. (1751) Maximum Number of Events That Can Be Attended II
+88. (1752) Check if Array Is Sorted and Rotated
+89. (1758) Minimum Changes To Make Alternating Binary String
 76. (1792) Maximum Average Pass Ratio
 77. (1848) Minimum Distance to the Target Element
 78. (1855) Maximum Distance Between a Pair of Values
