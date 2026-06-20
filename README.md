@@ -130,10 +130,11 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 87. (1751) Maximum Number of Events That Can Be Attended II
 88. (1752) Check if Array Is Sorted and Rotated
 89. (1758) Minimum Changes To Make Alternating Binary String
-76. (1792) Maximum Average Pass Ratio
-77. (1848) Minimum Distance to the Target Element
-78. (1855) Maximum Distance Between a Pair of Values
-79. (1861) Rotating the Box
+76. (1792) Maximum Average Pass Ratio\
+77. (1840) Maximum Building Height
+78. (1848) Minimum Distance to the Target Element
+79. (1855) Maximum Distance Between a Pair of Values
+80. (1861) Rotating the Box
 75. (1865) Finding Pairs With a Certain Sum
 76. (1871) Jump Game VII
 77. (1877) Minimize Maximum Pair Sum in Array
