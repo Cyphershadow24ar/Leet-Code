@@ -72,36 +72,37 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 68. (1018) Binary Prefix Divisible By 5
 69. (1022) Sum of Root To Leaf Binary Numbers
 70. (1161) Maximum level Sum of BInary Tree
-71. (1200) Minimum Absolute Difference
-72. (1233) Remove Sub-Folders from the Filesystem
-73. (1262) Greatest Sum Divisible by Three
-74. (1266) Minimum Time Visiting All Points
-75. (1277) Count Square Submatrices with All Ones
-76. (1290) Convert Binary Number in a Linked List to Integer
-77. (1292) Maximum Side Length of a Square with Sum less than or Equal to threshold
-78. (1304) Find N Unique Integers Sum up to Zero
-79. (1306) Jump Game III
-80. (1317) Convert Integer to the Sum of Two No-Zero Integers
-81. (1320) Minimum Distance to Type a Word Using Two Fingers
-82. (1323) Maximum 69 Number
-83. (1339) Maximum Product of Splitted Binary Tree
-84. (1340) Jump Game V
-85. (1344) Angle Between Hands of a Clock
-86. (1345) Jump Game IV
-87. (1351) Count Negative Numbers in a Sorted Matrix
-88. (1353) Maximum Number of Events That Can Be Attended
-89. (1356) Sort Integers by The Number of 1 Bits
-90. (1382) Balance a Binary Search Tree
-91. (1390) Four Divisors
-92. (1391) Check if There is a Valid Path in a Grid
-93. (1394) Find Lucky Integer in an Array
-94. (1404) Number of Steps to Reduce a Number in Binary Representation to One
-95. (1411) Number of Ways to Paint N × 3 Grid
-96. (1458) Max Dot Product of Two Subsequences
-97. (1461) Check If a String Contains All Binary Codes of Size K
-98. (1488) Avoid Flood in the City
-99. (1493) Longest Subarray of 1's After Deleting One Element
-100. (1504) Count Submatrices With All Ones
+71. (1189) Maximum Number of Balloons
+72. (1200) Minimum Absolute Difference
+73. (1233) Remove Sub-Folders from the Filesystem
+74. (1262) Greatest Sum Divisible by Three
+75. (1266) Minimum Time Visiting All Points
+76. (1277) Count Square Submatrices with All Ones
+77. (1290) Convert Binary Number in a Linked List to Integer
+78. (1292) Maximum Side Length of a Square with Sum less than or Equal to threshold
+79. (1304) Find N Unique Integers Sum up to Zero
+80. (1306) Jump Game III
+81. (1317) Convert Integer to the Sum of Two No-Zero Integers
+82. (1320) Minimum Distance to Type a Word Using Two Fingers
+83. (1323) Maximum 69 Number
+84. (1339) Maximum Product of Splitted Binary Tree
+85. (1340) Jump Game V
+86. (1344) Angle Between Hands of a Clock
+87. (1345) Jump Game IV
+88. (1351) Count Negative Numbers in a Sorted Matrix
+89. (1353) Maximum Number of Events That Can Be Attended
+90. (1356) Sort Integers by The Number of 1 Bits
+91. (1382) Balance a Binary Search Tree
+92. (1390) Four Divisors
+93. (1391) Check if There is a Valid Path in a Grid
+94. (1394) Find Lucky Integer in an Array
+95. (1404) Number of Steps to Reduce a Number in Binary Representation to One
+96. (1411) Number of Ways to Paint N × 3 Grid
+97. (1458) Max Dot Product of Two Subsequences
+98. (1461) Check If a String Contains All Binary Codes of Size K
+99. (1488) Avoid Flood in the City
+100. (1493) Longest Subarray of 1's After Deleting One Element
+101. (1504) Count Submatrices With All Ones
 78. (1518) Water Bottles
 79. (1523) Count Odd Numbers in an Interval Range
 80. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
