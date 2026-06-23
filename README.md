@@ -326,18 +326,19 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 208. (3666) Minimum Operations to Equalize Binary String
 209. (3689) Maximum Total Subarray Value I
 210. (3691) Maximum Total Subarray Value II
-211. (3713) Longest Balanced Substring I
-212. (3714) Longest Balanced Substring II
-213. (3719) Longest Balanced Subarry I
-214. (3721) Longest Balanced Subarray II
-215. (3740) Minimum Distance Between Three Equal Elements I
-216. (3741) Minimum Distance Between Three Equal Elements II
-217. (3742) Maximum Path Score in a Grid
-218. (3751) Total Waviness of Numbers in Range I
-219. (3753) Total Waviness of Numbers in Range II
-220. (3761) Minimum Absolute Distance Between Mirror Pairs
-221. (3783) Mirror Distance of an Integer
-222. (3838) Weighted Word Mapping
+211. (3699) Number of ZigZag Arrays I
+212. (3713) Longest Balanced Substring I
+213. (3714) Longest Balanced Substring II
+214. (3719) Longest Balanced Subarry I
+215. (3721) Longest Balanced Subarray II
+216. (3740) Minimum Distance Between Three Equal Elements I
+217. (3741) Minimum Distance Between Three Equal Elements II
+218. (3742) Maximum Path Score in a Grid
+219. (3751) Total Waviness of Numbers in Range I
+220. (3753) Total Waviness of Numbers in Range II
+221. (3761) Minimum Absolute Distance Between Mirror Pairs
+222. (3783) Mirror Distance of an Integer
+223. (3838) Weighted Word Mapping
 
 
      
