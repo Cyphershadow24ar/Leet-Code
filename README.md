@@ -134,9 +134,10 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 76. (1792) Maximum Average Pass Ratio
 77. (1833) Maximum Ice Cream Bars
 78. (1840) Maximum Building Height
-79. (1848) Minimum Distance to the Target Element
-80. (1855) Maximum Distance Between a Pair of Values
-81. (1861) Rotating the Box
+79. (1846) Maximum Element After Decreasing and Rearranging
+80. (1848) Minimum Distance to the Target Element
+81. (1855) Maximum Distance Between a Pair of Values
+82. (1861) Rotating the Box
 75. (1865) Finding Pairs With a Certain Sum
 76. (1871) Jump Game VII
 77. (1877) Minimize Maximum Pair Sum in Array
