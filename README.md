@@ -343,9 +343,10 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 222. (3742) Maximum Path Score in a Grid
 223. (3751) Total Waviness of Numbers in Range I
 224. (3753) Total Waviness of Numbers in Range II
-225. (3761) Minimum Absolute Distance Between Mirror Pairs
-226. (3783) Mirror Distance of an Integer
-227. (3838) Weighted Word Mapping
+225. (3756) Concatenate Non-Zero Digits and Multiply by Sum II
+226. (3761) Minimum Absolute Distance Between Mirror Pairs
+227. (3783) Mirror Distance of an Integer
+228. (3838) Weighted Word Mapping
 
 
      
