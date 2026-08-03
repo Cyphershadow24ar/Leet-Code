@@ -102,12 +102,13 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 98. (1391) Check if There is a Valid Path in a Grid
 99. (1394) Find Lucky Integer in an Array
 100. (1404) Number of Steps to Reduce a Number in Binary Representation to One
-101. (1411) Number of Ways to Paint N × 3 Grid
-102. (1458) Max Dot Product of Two Subsequences
-103. (1461) Check If a String Contains All Binary Codes of Size K
-104. (1488) Avoid Flood in the City
-105. (1493) Longest Subarray of 1's After Deleting One Element
-106. (1504) Count Submatrices With All Ones
+101. (1406) Stone Game III
+102. (1411) Number of Ways to Paint N × 3 Grid
+103. (1458) Max Dot Product of Two Subsequences
+104. (1461) Check If a String Contains All Binary Codes of Size K
+105. (1488) Avoid Flood in the City
+106. (1493) Longest Subarray of 1's After Deleting One Element
+107. (1504) Count Submatrices With All Ones
 78. (1518) Water Bottles
 79. (1523) Count Odd Numbers in an Interval Range
 80. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
