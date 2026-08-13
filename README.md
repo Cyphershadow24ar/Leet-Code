@@ -188,11 +188,12 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 74. (2197) Replace Non-Coprime Numbers in Array
 75. (2210) Count Hiils and Valley in an array
 76. (2211) Count Collisions on a Road
-77. (2257) Count Unguarded Cells in the Gird
-78. (2264) Largest 3-Same-Digit Number in String
-79. (2273) Find Resultant Array After Removing Anagrams
-80. (2300) Successful of spells and portions
-81. (2322) Minimum Score After Removals on a Tree
+77. (2213) Longest Substring of One Repeating Character
+78. (2257) Count Unguarded Cells in the Gird
+79. (2264) Largest 3-Same-Digit Number in String
+80. (2273) Find Resultant Array After Removing Anagrams
+81. (2300) Successful of spells and portions
+82. (2322) Minimum Score After Removals on a Tree
 70. (2327) Number of People Aware of a Secret
 70. (2348) Number of Zero-Filled Subarrays
 70. (2402) Meeting Rooms III
