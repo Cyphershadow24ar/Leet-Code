@@ -350,22 +350,23 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 221. (3691) Maximum Total Subarray Value II
 222. (3699) Number of ZigZag Arrays I
 223. (3700) Number of ZigZag Arrays II
-224. (3713) Longest Balanced Substring I
-225. (3714) Longest Balanced Substring II
-226. (3719) Longest Balanced Subarry I
-227. (3721) Longest Balanced Subarray II
-228. (3731) Find Missing Elements
-229. (3737) Count Subarrays With Majority Element I
-230. (3739) Count Subarrays With Majority Element II
-231. (3740) Minimum Distance Between Three Equal Elements I
-232. (3741) Minimum Distance Between Three Equal Elements II
-233. (3742) Maximum Path Score in a Grid
-234. (3751) Total Waviness of Numbers in Range I
-235. (3753) Total Waviness of Numbers in Range II
-236. (3756) Concatenate Non-Zero Digits and Multiply by Sum II
-237. (3761) Minimum Absolute Distance Between Mirror Pairs
-238. (3783) Mirror Distance of an Integer
-239. (3838) Weighted Word Mapping
+224. (3702) Longest Subsequence With Non-Zero Bitwise XOR
+225. (3713) Longest Balanced Substring I
+226. (3714) Longest Balanced Substring II
+227. (3719) Longest Balanced Subarry I
+228. (3721) Longest Balanced Subarray II
+229. (3731) Find Missing Elements
+230. (3737) Count Subarrays With Majority Element I
+231. (3739) Count Subarrays With Majority Element II
+232. (3740) Minimum Distance Between Three Equal Elements I
+233. (3741) Minimum Distance Between Three Equal Elements II
+234. (3742) Maximum Path Score in a Grid
+235. (3751) Total Waviness of Numbers in Range I
+236. (3753) Total Waviness of Numbers in Range II
+237. (3756) Concatenate Non-Zero Digits and Multiply by Sum II
+238. (3761) Minimum Absolute Distance Between Mirror Pairs
+239. (3783) Mirror Distance of an Integer
+240. (3838) Weighted Word Mapping
 
 
      
