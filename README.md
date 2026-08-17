@@ -117,6 +117,7 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 81. (1536) Minimum Swaps to Arrange a Binary Grid
 82. (1545) Find Kth Bit in Nth Binary String
 83. (1559) Detect Cycles in 2D Grid
+84. (1563) Stone Game V
 78. (1572) Matrix Diagonal Sum
 78. (1578) Minimum Time to Make Rope Colorful
 79. (1582) Special Postions in a Binary Matrix
