@@ -99,18 +99,19 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 95. (1353) Maximum Number of Events That Can Be Attended
 96. (1356) Sort Integers by The Number of 1 Bits
 97. (1382) Balance a Binary Search Tree
-98. (1390) Four Divisors
-99. (1391) Check if There is a Valid Path in a Grid
-100. (1394) Find Lucky Integer in an Array
-101. (1404) Number of Steps to Reduce a Number in Binary Representation to One
-102. (1406) Stone Game III
-103. (1411) Number of Ways to Paint N × 3 Grid
-104. (1458) Max Dot Product of Two Subsequences
-105. (1461) Check If a String Contains All Binary Codes of Size K
-106. (1488) Avoid Flood in the City
-107. (1493) Longest Subarray of 1's After Deleting One Element
-108. (1504) Count Submatrices With All Ones
-109. (1510) Stone Game IV
+98. (1386) Cinema Seat Allocation
+99. (1390) Four Divisors
+100. (1391) Check if There is a Valid Path in a Grid
+101. (1394) Find Lucky Integer in an Array
+102. (1404) Number of Steps to Reduce a Number in Binary Representation to One
+103. (1406) Stone Game III
+104. (1411) Number of Ways to Paint N × 3 Grid
+105. (1458) Max Dot Product of Two Subsequences
+106. (1461) Check If a String Contains All Binary Codes of Size K
+107. (1488) Avoid Flood in the City
+108. (1493) Longest Subarray of 1's After Deleting One Element
+109. (1504) Count Submatrices With All Ones
+110. (1510) Stone Game IV
 78. (1518) Water Bottles
 79. (1523) Count Odd Numbers in an Interval Range
 80. (1526) Minimum Number of Increments on Subarrays to Form a Target Array
