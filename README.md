@@ -334,44 +334,45 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 202. (3607) Power Grid Maintenance
 203. (3612) Process String with Special Operations I
 204. (3614) Process String with Special Operations II
-205. (3623) Count Number of Trapezoids I
-206. (3625) Count Number of Trapezoids II
-207. (3629) Minimum Jumps to Reach End via Prime Teleportation
-208. (3633) Earliest Finish Time for Land and Water Rides I
-209. (3634) Minimum Removals to Balance Array
-210. (3635) Earliest Finish Time for Land and Water Rides II
-211. (3637) Trionic Array I
-212. (3640) Trionic Array II
-213. (3643) Flip Square Submatrix Vertically
-214. (3650) Minimum Cost Path with Edge Reversals
-215. (3651) Minimum Cost Path with Teleportations
-216. (3652) Best Time to Buy and Sell Stock using Strategy
-217. (3653) XOR After Range Multiplication Queries I
-218. (3655) XOR After Range Multiplication Queries II
-219. (3660) Jump Game IX
-220. (3661) Maximum Walls Destroyed by Robots
-221. (3666) Minimum Operations to Equalize Binary String
-222. (3689) Maximum Total Subarray Value I
-223. (3691) Maximum Total Subarray Value II
-224. (3699) Number of ZigZag Arrays I
-225. (3700) Number of ZigZag Arrays II
-226. (3702) Longest Subsequence With Non-Zero Bitwise XOR
-227. (3713) Longest Balanced Substring I
-228. (3714) Longest Balanced Substring II
-229. (3719) Longest Balanced Subarry I
-230. (3721) Longest Balanced Subarray II
-231. (3731) Find Missing Elements
-232. (3737) Count Subarrays With Majority Element I
-233. (3739) Count Subarrays With Majority Element II
-234. (3740) Minimum Distance Between Three Equal Elements I
-235. (3741) Minimum Distance Between Three Equal Elements II
-236. (3742) Maximum Path Score in a Grid
-237. (3751) Total Waviness of Numbers in Range I
-238. (3753) Total Waviness of Numbers in Range II
-239. (3756) Concatenate Non-Zero Digits and Multiply by Sum II
-240. (3761) Minimum Absolute Distance Between Mirror Pairs
-241. (3783) Mirror Distance of an Integer
-242. (3838) Weighted Word Mapping
+205. (3622) Check Divisibility by Digit Sum and Product
+206. (3623) Count Number of Trapezoids I
+207. (3625) Count Number of Trapezoids II
+208. (3629) Minimum Jumps to Reach End via Prime Teleportation
+209. (3633) Earliest Finish Time for Land and Water Rides I
+210. (3634) Minimum Removals to Balance Array
+211. (3635) Earliest Finish Time for Land and Water Rides II
+212. (3637) Trionic Array I
+213. (3640) Trionic Array II
+214. (3643) Flip Square Submatrix Vertically
+215. (3650) Minimum Cost Path with Edge Reversals
+216. (3651) Minimum Cost Path with Teleportations
+217. (3652) Best Time to Buy and Sell Stock using Strategy
+218. (3653) XOR After Range Multiplication Queries I
+219. (3655) XOR After Range Multiplication Queries II
+220. (3660) Jump Game IX
+221. (3661) Maximum Walls Destroyed by Robots
+222. (3666) Minimum Operations to Equalize Binary String
+223. (3689) Maximum Total Subarray Value I
+224. (3691) Maximum Total Subarray Value II
+225. (3699) Number of ZigZag Arrays I
+226. (3700) Number of ZigZag Arrays II
+227. (3702) Longest Subsequence With Non-Zero Bitwise XOR
+228. (3713) Longest Balanced Substring I
+229. (3714) Longest Balanced Substring II
+230. (3719) Longest Balanced Subarry I
+231. (3721) Longest Balanced Subarray II
+232. (3731) Find Missing Elements
+233. (3737) Count Subarrays With Majority Element I
+234. (3739) Count Subarrays With Majority Element II
+235. (3740) Minimum Distance Between Three Equal Elements I
+236. (3741) Minimum Distance Between Three Equal Elements II
+237. (3742) Maximum Path Score in a Grid
+238. (3751) Total Waviness of Numbers in Range I
+239. (3753) Total Waviness of Numbers in Range II
+240. (3756) Concatenate Non-Zero Digits and Multiply by Sum II
+241. (3761) Minimum Absolute Distance Between Mirror Pairs
+242. (3783) Mirror Distance of an Integer
+243. (3838) Weighted Word Mapping
 
 
      
