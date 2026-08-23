@@ -158,17 +158,18 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 82. (1900) The Earliest and Latest Rounds Where Players Compete
 83. (1914) Cyclically Rotating a Grid
 84. (1925) Count Square Sum Triples
-85. (1935) Maximum Number of Words You Can Type
-86. (1948) Delete Duplicate Folders in System
-87. (1957) Delete Characters to Make Fancy String
-88. (1967) Number of Strings That Appear as Substrings in Word
-89. (1970) Last Day Where you can still Cross
-90. (1975) Maximum Matrix Sum
-91. (1980) Find Unique Binary String
-92. (1984) Minimum Difference Between Highest and Lowest of K Scores
-93. (2011) Final Value of Variable After Performing Operations
-94. (2029) Stone Game IX
-95. (2033) Minimum Operations to Make a Uni-Value Grid
+85. (1927) Sum Game
+86. (1935) Maximum Number of Words You Can Type
+87. (1948) Delete Duplicate Folders in System
+88. (1957) Delete Characters to Make Fancy String
+89. (1967) Number of Strings That Appear as Substrings in Word
+90. (1970) Last Day Where you can still Cross
+91. (1975) Maximum Matrix Sum
+92. (1980) Find Unique Binary String
+93. (1984) Minimum Difference Between Highest and Lowest of K Scores
+94. (2011) Final Value of Variable After Performing Operations
+95. (2029) Stone Game IX
+96. (2033) Minimum Operations to Make a Uni-Value Grid
 74. (2043) Simple Bank System
 75. (2048) Next Greater Numerically Balanced Number
 76. (2054) Two Best Non-Overlapping Events
