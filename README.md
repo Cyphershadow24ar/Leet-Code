@@ -150,26 +150,27 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 82. (1861) Rotating the Box
 75. (1865) Finding Pairs With a Certain Sum
 76. (1871) Jump Game VII
-77. (1877) Minimize Maximum Pair Sum in Array
-78. (1878) Get Biggest Three Rhombus Sums in a Grid
-79. (1886) Determine Whether Matrix Can Be Obtained By Rotation
-80. (1888) Minimum Number of Flips to Make the Binary String Alternating
-81. (1895) Largest Magic Square
-82. (1900) The Earliest and Latest Rounds Where Players Compete
-83. (1914) Cyclically Rotating a Grid
-84. (1925) Count Square Sum Triples
-85. (1927) Sum Game
-86. (1935) Maximum Number of Words You Can Type
-87. (1948) Delete Duplicate Folders in System
-88. (1957) Delete Characters to Make Fancy String
-89. (1967) Number of Strings That Appear as Substrings in Word
-90. (1970) Last Day Where you can still Cross
-91. (1975) Maximum Matrix Sum
-92. (1980) Find Unique Binary String
-93. (1984) Minimum Difference Between Highest and Lowest of K Scores
-94. (2011) Final Value of Variable After Performing Operations
-95. (2029) Stone Game IX
-96. (2033) Minimum Operations to Make a Uni-Value Grid
+77. (1872) Stone Game VIII
+78. (1877) Minimize Maximum Pair Sum in Array
+79. (1878) Get Biggest Three Rhombus Sums in a Grid
+80. (1886) Determine Whether Matrix Can Be Obtained By Rotation
+81. (1888) Minimum Number of Flips to Make the Binary String Alternating
+82. (1895) Largest Magic Square
+83. (1900) The Earliest and Latest Rounds Where Players Compete
+84. (1914) Cyclically Rotating a Grid
+85. (1925) Count Square Sum Triples
+86. (1927) Sum Game
+87. (1935) Maximum Number of Words You Can Type
+88. (1948) Delete Duplicate Folders in System
+89. (1957) Delete Characters to Make Fancy String
+90. (1967) Number of Strings That Appear as Substrings in Word
+91. (1970) Last Day Where you can still Cross
+92. (1975) Maximum Matrix Sum
+93. (1980) Find Unique Binary String
+94. (1984) Minimum Difference Between Highest and Lowest of K Scores
+95. (2011) Final Value of Variable After Performing Operations
+96. (2029) Stone Game IX
+97. (2033) Minimum Operations to Make a Uni-Value Grid
 74. (2043) Simple Bank System
 75. (2048) Next Greater Numerically Balanced Number
 76. (2054) Two Best Non-Overlapping Events
