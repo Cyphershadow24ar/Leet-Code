@@ -361,20 +361,21 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 227. (3702) Longest Subsequence With Non-Zero Bitwise XOR
 228. (3713) Longest Balanced Substring I
 229. (3714) Longest Balanced Substring II
-230. (3719) Longest Balanced Subarry I
-231. (3721) Longest Balanced Subarray II
-232. (3731) Find Missing Elements
-233. (3737) Count Subarrays With Majority Element I
-234. (3739) Count Subarrays With Majority Element II
-235. (3740) Minimum Distance Between Three Equal Elements I
-236. (3741) Minimum Distance Between Three Equal Elements II
-237. (3742) Maximum Path Score in a Grid
-238. (3751) Total Waviness of Numbers in Range I
-239. (3753) Total Waviness of Numbers in Range II
-240. (3756) Concatenate Non-Zero Digits and Multiply by Sum II
-241. (3761) Minimum Absolute Distance Between Mirror Pairs
-242. (3783) Mirror Distance of an Integer
-243. (3838) Weighted Word Mapping
+230. (3718) Smallest Missing Multiple of K
+231. (3719) Longest Balanced Subarry I
+232. (3721) Longest Balanced Subarray II
+233. (3731) Find Missing Elements
+234. (3737) Count Subarrays With Majority Element I
+235. (3739) Count Subarrays With Majority Element II
+236. (3740) Minimum Distance Between Three Equal Elements I
+237. (3741) Minimum Distance Between Three Equal Elements II
+238. (3742) Maximum Path Score in a Grid
+239. (3751) Total Waviness of Numbers in Range I
+240. (3753) Total Waviness of Numbers in Range II
+241. (3756) Concatenate Non-Zero Digits and Multiply by Sum II
+242. (3761) Minimum Absolute Distance Between Mirror Pairs
+243. (3783) Mirror Distance of an Integer
+244. (3838) Weighted Word Mapping
 
 
      
