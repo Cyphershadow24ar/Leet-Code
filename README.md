@@ -177,9 +177,10 @@ This Repository is made for Maintaining DSA solution In Different Programming La
 77. (2069) Walking Robot Simulation II
 78. (2075) Decode the Slanted Ciphertext
 79. (2078) Two Furthest Houses With Different Colors
-80. (2092) Find All People With Secret
-81. (2095) Delete the Middle Node of a Linked List
-82. (2106) Maximum Fruits Harvested After at Most K Steps
+80. (2091) Removing Minimum and Maximum From Array
+81. (2092) Find All People With Secret
+82. (2095) Delete the Middle Node of a Linked List
+83. (2106) Maximum Fruits Harvested After at Most K Steps
 73. (2110) Number of Smooth Descent Periods of a Stock
 74. (2125) Number of Laser Beams in a Bank
 75. (2130) Maximum Twin Sum of a Linked List
